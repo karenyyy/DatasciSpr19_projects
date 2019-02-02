@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bird:2006:NNL:1225403.1225421}
+Steven Bird.
+\newblock Nltk: the natural language toolkit.
+\newblock In {\em Proceedings of the COLING/ACL on Interactive presentation
+  sessions}, COLING-ACL '06, pages 69--72, Stroudsburg, PA, USA, 2006.
+  Association for Computational Linguistics.
+
+\bibitem{francis1979brown}
+W.~Nelson Francis and Henry Kucera.
+\newblock {The Brown Corpus: A Standard Corpus of Present-Day Edited American
+  English}, 1979.
+\newblock Brown University Liguistics Department.
+
+\bibitem{pennington2014glove}
+Jeffrey Pennington, Richard Socher, and Christopher~D. Manning.
+\newblock Glove: Global vectors for word representation.
+\newblock In {\em Empirical Methods in Natural Language Processing (EMNLP)},
+  pages 1532--1543, 2014.
+
+\end{thebibliography}

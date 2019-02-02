@@ -1,0 +1,5 @@
+put,cast,couch,set,pose
+supply,furnish,append,cater,render
+take,shoot,carry,train,read
+commit,intrust,practice,place,devote
+identify,key,distinguish,discover,describe

@@ -1,0 +1,5 @@
+tendency,inclination,leaning,propensity,trend
+person,somebody,someone,soul,individual
+volume,intensity,book,bulk,loudness
+statement,instruction,argument,affirmation,assertion
+instance,example,case,illustration,representative
