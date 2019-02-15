@@ -10,7 +10,12 @@ class Kmeans:
         self.k = k
 
     def rand_center(self, data):
+        """
+        :param data: transformed images as 5-dim vectors, (R,G,B,x,y)
+        :return: k centroids, shape: k x 5
+        """
         n_samples, n_features = np.shape(data)
+        print('n_features', n_features)
         centroids = np.zeros((self.k, n_features))
         for i in range(self.k):
             centroid = data[np.random.choice(range(n_samples))]
@@ -21,7 +26,12 @@ class Kmeans:
         return centroids
 
     def converged(self, centroids1, centroids2):
-        diff = np.sum(np.abs(np.sum(centroids1 - centroids2, axis=1)), axis=0)
+        """
+        :param centroids1: centroids before update, shape: k x 5
+        :param centroids2: centroids after update, shape: k x 5
+        :return: True / False
+        """
+        diff = np.mean(np.sqrt(np.sum(np.square(centroids1 - centroids2), axis=1)), axis=0)
         print('distance between previous and new centroids: ', diff)
         print('\n')
         if diff < self.threshold:
@@ -30,9 +40,20 @@ class Kmeans:
             return False
 
     def closest_centroid(self, val, centroids):
+        """
+        :param val: each data point of input, shape: 1 x 5
+        :param centroids: current centroids, shape: k x 5
+        """
         return np.argmin(np.sqrt(np.sum(np.square(val - centroids), axis=1)))
 
     def update_centroids(self, data, centroids):
+        """
+        :param data: all data points of input, shape: (h*w) x 5
+        :param centroids: shape: k x 5
+        :return: updated centroids, shape: k x 5
+                clusters of each k, shape: k x _
+                cluster labels for each data point, shape: (h*w) x 1
+        """
         clusters = [[] for _ in range(self.k)]
 
         # n_samples, n_features = np.shape(data)
@@ -58,10 +79,15 @@ class Kmeans:
         for idx, cluster_val in enumerate(clusters):
             centroid = np.mean(cluster_val, axis=0)
             centroids[idx] = centroid
-
         return centroids, clusters, labels
 
     def cluster(self, data):
+        """
+        :param data: transformed images as 5-dim vectors, (R,G,B,x,y)
+        :return: final_centroids, shape: k x 5
+                 final clusters of each k, shape: k x _
+                 final cluster labels for each data point, shape: (h*w) x 1
+        """
         centroids = self.rand_center(data)
         converge = False
         iteration = 0
@@ -77,3 +103,4 @@ class Kmeans:
         print(">>> final centroids")
         print(centroids)
         return centroids, clusters, labels
+
