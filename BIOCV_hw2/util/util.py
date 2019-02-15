@@ -6,7 +6,8 @@ PATH = '/home/karenyyy/workspace/Datasci_Spr_19/IST597BIOCV/images/'
 
 def norm(x):
     max_val = np.max(x, axis=0)
-    x = x / max_val
+    min_val = np.min(x, axis=0)
+    x = (x-min_val) / (max_val-min_val)
     return x
 
 
