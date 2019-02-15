@@ -12,6 +12,8 @@ Homework 2: Image Segmentation Algorithms
 
 
 - [Kmeans](algorithms/kmeans.py) Clustering (k could be adjusted by users in the GUI)
+    - (*) In the part to determine the class label for each pixel (R, G, B, x, y), I used NearestNeighbors in sklearn
+        for faster computation, because KD-Tree is constructed to boost up indexing efficiency when calling NN
 
 - [Meanshift](algorithms/meanshift.py) Clustering (radius/bandwidth could be adjusted by users in the GUI)
     - only implemented with feature (color) bandwidth

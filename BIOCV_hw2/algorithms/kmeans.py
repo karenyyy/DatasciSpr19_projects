@@ -35,6 +35,17 @@ class Kmeans:
     def update_centroids(self, data, centroids):
         clusters = [[] for _ in range(self.k)]
 
+        # n_samples, n_features = np.shape(data)
+        # labels = np.zeros((n_samples))
+        #
+        # for idx, val in enumerate(data):
+        #     val_label = self.closest_centroid(val, centroids)
+        #     clusters[val_label].append(val)
+        #     labels[idx] = val_label
+        # centroids = np.zeros((self.k, n_features))
+
+        # in this part, to determine the class label for each pixel (R, G, B, x, y), use NearestNeighbors in sklearn
+        # for faster computation, because KD-Tree is constructed to boost up indexing efficiency when calling NN
         nbrs = NearestNeighbors(n_neighbors=1).fit(centroids)
         labels = nbrs.kneighbors(data, return_distance=False)
         labels = labels.flatten()
