@@ -56,16 +56,17 @@ def draw_contours(ori_img, seg_img, channel='bgr'):
     else:
         img = seg_img
 
-    # _, img = cv2.threshold(img, 100, 155, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+    _, img = cv2.threshold(img, 100, 155, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-    img = cv2.adaptiveThreshold(img, 255,
-                                cv2.ADAPTIVE_THRESH_MEAN_C,
-                                cv2.THRESH_BINARY_INV, 11, 10)
+    # img = cv2.adaptiveThreshold(img, 255,
+    #                             cv2.ADAPTIVE_THRESH_MEAN_C,
+    #                             cv2.THRESH_BINARY_INV, 11, 10)
 
     _, contours, hierarchy = cv2.findContours(img, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
     contours.sort(key=lambda i: len(i), reverse=True)
     contours = contours[:int(len(contours)/4)]
-    cv2.drawContours(ori_img, contours, -1, (0, 0, 255), 3)
+    print(contours[0])
+    cv2.drawContours(ori_img, contours[0], -1, (0, 0, 255), 3)
     return ori_img
 
 
@@ -90,3 +91,6 @@ def draw_canvas(image, padding_top, padding_left):
         print("The Given padding exceeds the limits.")
 
     return height, width, canvas
+
+
+

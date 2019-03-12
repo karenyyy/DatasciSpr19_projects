@@ -1,5 +1,8 @@
 import numpy as np
 from scipy.stats import multivariate_normal
+import cv2
+
+from util.util import transform_img_5_dim
 
 THRESHOLD = 1e-7
 MAX_ITERATION = 100
@@ -115,3 +118,4 @@ class GMM:
             # KL Divergence
             self.update_gmm_distributions()
             self.kl_divergence()
+

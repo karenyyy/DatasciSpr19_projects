@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68424819-fdda-44fc-b9c2-3a88e6ae3c7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/GAN_ccc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/cross_validation/cross_val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/data_loader/loaddata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/013_002_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/013_002_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/013_002_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/018_001_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/018_001_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/018_001_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/018_001_4_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/018_001_5_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN1/018_001_6_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_11_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_12_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_13_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_14_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/013_001_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/018_002_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/018_002_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/018_002_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/018_002_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/018_003_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/018_003_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/018_003_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN2/018_003_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/017_001_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_004_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_004_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_004_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_004_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_004_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_004_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_004_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_004_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/CIN3/018_005_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/013_003_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/013_003_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/013_003_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/013_004_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/013_004_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/013_004_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_002_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_002_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_002_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_002_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_002_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_002_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_002_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_002_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_12_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_13_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_14_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_15_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_16_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_17_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_003_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/testset22/NORMAL/017_004_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_10_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_11_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_12_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_13_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_14_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_15_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_16_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_17_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_4_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_5_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_6_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_7_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_8_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/014_001_9_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_10_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_11_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_4_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_5_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_6_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_7_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_8_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/015_003_9_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/019_006_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/019_006_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/019_006_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/021_002_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/021_002_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/021_002_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/021_002_4_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/021_002_5_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/021_002_6_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/021_002_7_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/021_002_8_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/025_001_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/025_001_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/025_001_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/025_001_4_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/025_001_5_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/025_001_6_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/025_001_7_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_10_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_4_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_5_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_6_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_7_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_8_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_001_9_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_4_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_5_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_6_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_7_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_8_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_002_9_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_003_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/026_003_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/027_001_1_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/027_001_2_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN1/027_001_3_1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_002_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_11_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_12_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/006_003_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/007_002_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/007_002_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/007_002_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/007_002_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/007_002_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/007_002_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_002_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_11_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_12_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_13_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_14_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_15_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_16_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_17_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_18_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_19_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_20_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_21_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_22_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_23_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_24_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_25_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_26_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_27_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/009_003_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_11_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_12_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_13_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_14_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_15_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_16_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_17_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_002_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_003_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_003_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_003_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_003_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_003_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_003_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_003_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_003_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_11_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_12_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_13_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_14_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_15_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_16_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_17_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_18_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/010_004_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_11_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_001_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_11_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_12_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_13_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_14_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_15_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_16_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_17_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/012_002_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_10_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_11_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_001_9_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_002_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_002_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_002_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_002_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_002_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_002_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_002_7_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/015_002_8_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_004_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_004_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_004_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_004_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_004_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_004_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_005_1_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_005_2_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_005_3_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_005_4_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_005_5_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN2/019_005_6_2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_12_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_13_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_14_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_15_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_16_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_17_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_18_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_19_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_20_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_21_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_22_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_23_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_24_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_25_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_26_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_27_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_28_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_29_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/001_001_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_12_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_13_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_14_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_15_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/006_001_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/007_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/007_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/007_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/007_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/007_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/007_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/007_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/007_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/008_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/008_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/008_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/008_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/008_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/008_002_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/008_002_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/008_002_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/009_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/009_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/009_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/009_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/009_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/009_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/009_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_12_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_13_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_14_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_15_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_16_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_17_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_18_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/011_001_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_003_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_12_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_13_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_14_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_15_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_16_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_17_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_18_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_19_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_20_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_21_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_22_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_23_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/012_004_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_12_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_13_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_14_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_15_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_16_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/016_001_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_12_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_13_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_14_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_15_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_16_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_17_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_18_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_19_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_20_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_21_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_22_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_23_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/019_001_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_002_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_002_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_002_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_002_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_002_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_003_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_003_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_003_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_003_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_004_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_005_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_005_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_005_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_005_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_005_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_005_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/020_005_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/021_001_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/022_002_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/022_002_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/022_002_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/022_002_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/022_002_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/022_002_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/022_002_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/022_002_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_12_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_13_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_001_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_10_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_11_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_12_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_13_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_14_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_15_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_16_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_17_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_18_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_1_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_2_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_3_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_4_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_5_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_6_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_7_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_8_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/CIN3/023_002_9_3.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/007_003_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/007_003_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/007_003_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/007_003_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/007_003_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/007_003_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/007_003_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/007_003_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_12_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/009_004_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_12_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_13_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_14_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_15_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_16_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_17_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_18_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_19_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/010_001_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_12_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_13_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_14_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_15_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_16_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_17_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_18_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_19_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_20_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/011_002_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/014_002_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/014_002_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/014_002_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/015_004_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_002_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_002_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_002_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_002_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_002_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_002_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_002_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_12_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_13_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_14_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_15_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_16_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_17_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_18_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_19_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_20_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_21_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_22_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_23_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_24_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_25_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_26_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_27_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_28_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_29_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_30_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_31_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_32_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/019_003_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_12_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_001_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_12_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_13_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_003_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_10_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_11_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_1_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_2_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_3_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_4_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_5_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_6_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_7_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_8_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/dataset/trainset22/NORMAL/022_004_9_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/accuracy_summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/auc_summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/02_22_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/AUC Value(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/F1 score(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/Precision score(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/Recall score(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/accuracy_of_patch_and_img(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/training_and_testing_loss(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/02_22_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/loss_summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/dense_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/dense_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/densenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/densenet_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/transition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/basic_conv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/block17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/block35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/block8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/inception_resnet_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/mixed_5b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/mixed_6a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/mixed_7a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/basic_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/bottle_neck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/resnet_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/WideResNet/basic_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/WideResNet/network_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/WideResNet/wide_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/simpleCNN/simpleCNN_structure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/simpleCNN/simple_cnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/GAN/WGAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_training/train_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_training/train_wgangp_pytorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/img_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/ABSA-PyTorch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/career_opportunities_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/comp_benefit_stars_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/culture-values-stars_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/senior-mangemnet-stars_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/work-balance-stars_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../improved_wgan_training/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/challenge_data_train_dev/parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/challenge_data_train_dev/testdata_no_lex.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/webnlg$parse.coverage" NAME="parse Coverage Results" MODIFIED="1551912383446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webnlg$parse_triples.coverage" NAME="parse_triples Coverage Results" MODIFIED="1550811592318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocess" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.60907394">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/parse.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="402">
+                  <caret line="211" column="28" lean-forward="true" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#0#27#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vocab2.vi">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="267">
+                  <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test.vi">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="194">
+                  <caret line="32" column="17" selection-start-line="32" selection-end-line="32" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vocab.vi">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="194">
+                  <caret line="2516" column="5" selection-start-line="2516" selection-end-line="2516" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test.en">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vocab.en">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-26987">
+                  <caret line="1078" column="6" selection-start-line="1078" selection-end-line="1078" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/challenge/tst_ty.vi">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="198">
+                  <caret line="564" column="14" selection-start-line="564" selection-start-column="14" selection-end-line="564" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/challenge/vocab_ty.vi">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="335">
+                  <caret line="655" column="8" selection-start-line="655" selection-start-column="8" selection-end-line="655" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Armin Van Buuren</find>
+      <find>Ace</find>
+      <find>word</find>
+      <find>University_of_Texas_at_Austin</find>
+      <find>Andrew_Rayel</find>
+      <find>Hip_hop</find>
+      <find>$PROJECT_DIR$</find>
+      <find>oost</find>
+      <find>Air</find>
+      <find>_</find>
+      <find>Aarhus</find>
+      <find>vocab_pair_path</find>
+      <find>pur</find>
+      <find>Associatian</find>
+      <find>'</find>
+      <find>Ajax_Youth_Academy</find>
+      <find>Aarhus_Airport | location | Tirstrup</find>
+      <find>Aarhus_Airport</find>
+      <find>Uruguay | language | Spanish_language</find>
+      <find>Alison_O'Donnell | genre | Jazz</find>
+      <find>AWH_Engineering_College | country | India</find>
+      <find>School of Business and Social Sciences at the Aarhus University</find>
+      <find>purple</find>
+      <find>Aaron_S._Daggett | award | Purple_Heart</find>
+      <find>Denm</find>
+      <find>Apollo</find>
+      <find>Apoll</find>
+      <find>The 11th Mississippi Infantry Monument</find>
+      <find>Adonis_Georgiadis</find>
+      <find>text8</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>item</replace>
+      <replace>$PROJECT_DIR$/dataset/sample_data_train_dev_test</replace>
+      <replace>vocab_file_path</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/preprocess/parse_triples.py" />
+        <option value="$PROJECT_DIR$/parse.py" />
+        <option value="$PROJECT_DIR$/dataset/sample_data_train_dev_test/vocab.en" />
+        <option value="$PROJECT_DIR$/dataset/sample_data_train_dev_test/vocab.vi" />
+        <option value="$PROJECT_DIR$/vocab2.en" />
+        <option value="$PROJECT_DIR$/vocab2.vi" />
+        <option value="$PROJECT_DIR$/dev.en" />
+        <option value="$PROJECT_DIR$/vocab.vi" />
+        <option value="$PROJECT_DIR$/vocab.en" />
+        <option value="$PROJECT_DIR$/dataset/challenge_data_train_dev/parse.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-78" />
+    <option name="y" value="179" />
+    <option name="width" value="1083" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webnlg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webnlg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webnlg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webnlg" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webnlg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webnlg" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webnlg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webnlg" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge_data_train_dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataset/challenge_data_train_dev" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dataset" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dataset/challenge_data_train_dev" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.parse">
+    <configuration name="parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webnlg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset/challenge_data_train_dev/parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse_triples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webnlg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_triple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.parse" />
+        <item itemvalue="Python.parse_triples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68424819-fdda-44fc-b9c2-3a88e6ae3c7e" name="Default Changelist" comment="" />
+      <created>1550810629052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550810629052</updated>
+      <workItem from="1550810631026" duration="9611000" />
+      <workItem from="1550859526009" duration="1399000" />
+      <workItem from="1550875721225" duration="317000" />
+      <workItem from="1550880782037" duration="11661000" />
+      <workItem from="1550940454489" duration="1485000" />
+      <workItem from="1550965294303" duration="586000" />
+      <workItem from="1550977405274" duration="2358000" />
+      <workItem from="1550996960159" duration="588000" />
+      <workItem from="1551005231413" duration="13108000" />
+      <workItem from="1551120291229" duration="10999000" />
+      <workItem from="1551146607972" duration="7489000" />
+      <workItem from="1551219712784" duration="596000" />
+      <workItem from="1551232584926" duration="1895000" />
+      <workItem from="1551573575135" duration="691000" />
+      <workItem from="1551739739830" duration="8435000" />
+      <workItem from="1551771843455" duration="779000" />
+      <workItem from="1551906835131" duration="5274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77271000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="31" width="1926" height="1052" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14323749" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27969763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.20410368" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JWT" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="JSON Utils" order="6" />
+      <window_info anchor="right" id="JSON Viewer" order="7" weight="0.32960597" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16932908" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28509718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JWT" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="JSON Utils" order="6" />
+      <window_info anchor="right" id="JSON Viewer" order="7" weight="0.32960597" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/parse_triple.py" />
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/2triples/2triples_SportsTeam_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train.vi" />
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/4triples/4triples_Astronaut_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/4triples/4triples_Airport_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/1triples/1triple_allSolutions_ComicsCharacter_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/1triples/1triple_allSolutions_Building_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/1triples/1triple_allSolutions_City_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/5triples/5triples_SportsTeam_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/1triples/1triple_allSolutions_WrittenWork_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train2.vi" />
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/1triples/1triple_allSolutions_Airport_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1030" column="93" selection-start-line="1030" selection-start-column="17" selection-end-line="1030" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/1triples/1triple_allSolutions_Astronaut_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/2triples/2triples_Airport_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1399" column="39" lean-forward="true" selection-start-line="1399" selection-start-column="39" selection-end-line="1399" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/train/2triples/2triples_Monument_train_challenge.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/dev.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/train.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="2447" column="7" selection-start-line="2447" selection-start-column="7" selection-end-line="2447" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/train.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2682">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_attention_model/hparams" />
+    <entry file="file://$PROJECT_DIR$/nmt_model/hparams" />
+    <entry file="file://$PROJECT_DIR$/nmt_attention_model/log_1551072247" />
+    <entry file="file://$PROJECT_DIR$/nmt_attention_model/output_infer" />
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/dev.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_model/output_infer" />
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/test.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="129" column="52" selection-start-line="129" selection-start-column="52" selection-end-line="129" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/vocab.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17064">
+          <caret line="948" column="5" selection-start-line="948" selection-start-column="5" selection-end-line="948" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/vocab.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17622">
+          <caret line="979" column="12" selection-start-line="979" selection-start-column="12" selection-end-line="979" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_no_lex.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="10745" column="44" selection-start-line="10745" selection-start-column="44" selection-end-line="10745" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="28479" column="6" selection-start-line="28479" selection-start-column="5" selection-end-line="28479" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122166">
+          <caret line="6787" column="26" selection-start-line="6787" selection-start-column="26" selection-end-line="6787" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocab2.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge/vocab_ty.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1108" column="3" lean-forward="true" selection-start-line="1108" selection-start-column="3" selection-end-line="1108" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/test.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/sample_data_train_dev_test/testdata_unseen_with_lex.xml" />
+    <entry file="file://$PROJECT_DIR$/train.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="12350" column="63" selection-start-line="12350" selection-end-line="12350" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge/train_ty.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="3810" column="42" selection-start-line="3810" selection-start-column="42" selection-end-line="3810" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/testdata_no_lex.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="4979" column="57" selection-start-line="4979" selection-start-column="57" selection-end-line="4979" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret column="10936" selection-start-column="10936" selection-end-column="10936" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge/tst_ty.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="564" column="14" selection-start-line="564" selection-start-column="14" selection-end-line="564" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge/vocab_ty.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="655" column="8" selection-start-line="655" selection-start-column="8" selection-end-line="655" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/testdata_unseen_with_lex.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocab.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26987">
+          <caret line="1078" column="6" selection-start-line="1078" selection-end-line="1078" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="32" column="17" selection-start-line="32" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocab2.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/challenge_data_train_dev/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="211" column="28" lean-forward="true" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocab.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="2516" column="5" selection-start-line="2516" selection-end-line="2516" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

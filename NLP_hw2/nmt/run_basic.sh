@@ -1,0 +1,13 @@
+python3 -m nmt.nmt \
+    --src=vi --tgt=en \
+    --vocab_prefix=/home/karen/workspace/nmt/webnlg/vocab4  \
+    --train_prefix=/home/karen/workspace/nmt/webnlg/train3 \
+    --dev_prefix=/home/karen/workspace/nmt/webnlg/dev3  \
+    --test_prefix=/home/karen/workspace/nmt/webnlg/test3 \
+    --out_dir=nmt_model \
+    --num_train_steps=20000 \
+    --steps_per_stats=100 \
+    --num_layers=2 \
+    --num_units=128 \
+    --dropout=0.2 \
+    --metrics=bleu
