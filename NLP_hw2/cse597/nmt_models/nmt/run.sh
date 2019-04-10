@@ -1,0 +1,19 @@
+python3 -m nmt.nmt \
+ --src=vi --tgt=en  \
+ --vocab_prefix=/home/karen/workspace/nmt/webnlg/nmt_data/nmt_data/vocab   \
+ --train_prefix=/home/karen/workspace/nmt/webnlg/nmt_data/nmt_data/train   \
+ --dev_prefix=/home/karen/workspace/nmt/webnlg/nmt_data/nmt_data/dev    \
+ --test_prefix=/home/karen/workspace/nmt/webnlg/nmt_data/nmt_data/test  \
+ --out_dir=gnmt_sgd  \
+ --num_train_steps=20000   \
+ --steps_per_stats=100   \
+ --num_layers=2   \
+ --num_units=256  \
+ --dropout=0.2   \
+ --metrics=bleu  \
+ --encoder_type=gnmt \
+ --attention_architecture=gnmt_v2 \
+ --optimizer=sgd \
+ --learning_rate=1.0 \
+ --decay_scheme=luong5 \
+ --attention=scaled_luong \

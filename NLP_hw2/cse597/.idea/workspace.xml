@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1709bca-cb9b-46e1-b7ae-fd088f0bba74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/GAN_ccc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/cross_validation/cross_val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/data_loader/loaddata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/accuracy_summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/auc_summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/DenseNet/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/02_22_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/InceptionResnetV2/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet101/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/AUC Value(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/F1 score(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/Precision score(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/Recall score(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/accuracy_of_patch_and_img(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet18/training_and_testing_loss(batchsize=32).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet34/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/ResNet50/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/02_22_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/SimpleCNN/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/02_23_training_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/AUC Value(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/F1 score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/Precision score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/Recall score(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/accuracy_of_patch_and_img(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/evaluation_results/WideResNet/training_and_testing_loss(batchsize=64).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/loss_summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/evaluation_metrics/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/logs/nogan_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/AE/autoencoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/dense_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/dense_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/densenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/densenet_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/DenseNet/transition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/basic_conv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/block17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/block35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/block8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/inception_resnet_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/mixed_5b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/mixed_6a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/InceptionResNetV2/mixed_7a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/basic_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/bottle_neck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/preact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/ResNet/resnet_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/VGG/vgg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/WideResNet/basic_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/WideResNet/network_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/WideResNet/wide_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/simpleCNN/simpleCNN_structure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/CNN/simpleCNN/simple_cnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_building/GAN/WGAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_training/PerceptualLoss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_training/train_ae.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_training/train_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/models/model_training/train_wgangp_pytorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/report_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/saved_pkl/netG_256x128_epoch300_lrfixed.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/test_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/feature_extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/gan_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/img_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/minibatch_discriminator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/mixup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAN_ccc/utils/visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/ABSA-PyTorch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa/ABSA-PyTorch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/career_opportunities_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/comp_benefit_stars_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/culture-values-stars_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/senior-mangemnet-stars_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../absa_baseline/models/work-balance-stars_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../improved_wgan_training/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/demo.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/matlab/WordLookup.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/matlab/evaluate_vectors.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/matlab/read_and_evaluate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/octave/WordLookup_octave.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/octave/evaluate_vectors_octave.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/octave/read_and_evaluate_octave.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/python/distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/python/evaluate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/python/word_analogy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/capital-common-countries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/capital-world.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/city-in-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/currency.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/family.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram1-adjective-to-adverb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram2-opposite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram3-comparative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram4-superlative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram5-present-participle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram6-nationality-adjective.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram7-past-tense.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram8-plural.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/eval/question-data/gram9-plural-verbs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/src/cooccur.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/src/glove.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/src/shuffle.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt_models/nmt/GloVe/src/vocab_count.c" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cse597$text_util.coverage" NAME="text_util Coverage Results" MODIFIED="1554852085723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nmt_preprocessing/util" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.53200746">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nmt_models/nmt/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="21744">
+                    <caret line="1208" column="39" selection-start-line="1208" selection-start-column="36" selection-end-line="1208" selection-end-column="39" />
+                  </first_editor>
+                  <second_editor>
+                    <markdownNavigatorState />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nmt_preprocessing/util/text_util.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="18">
+                  <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#0#14#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nmt_preprocessing/preprocess/lexicalize.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="324">
+                  <caret line="19" selection-start-line="19" selection-end-line="19" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/nmt_preprocessing/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="486">
+                  <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nmt_preprocessing/nmt_data_1/train.vi">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="56">
+                  <caret line="4590" column="31" selection-start-line="4590" selection-start-column="31" selection-end-line="4590" selection-end-column="43" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nmt_models/nmt/nmt/nmt.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3618">
+                  <caret line="216" column="39" selection-start-line="216" selection-start-column="36" selection-end-line="216" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nmt_models/OpenNMT-py/tools/apply_bpe.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4842">
+                  <caret line="280" column="48" selection-start-line="280" selection-start-column="48" selection-end-line="280" selection-end-column="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nmt_preprocessing/util/sparql_util.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1044">
+                  <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="45" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nmt_preprocessing/failed_cases">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/nmt_preprocessing/1_log">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-2936">
+                  <caret line="41889" column="9" lean-forward="true" selection-start-line="41889" selection-start-column="9" selection-end-line="41889" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>10L/28R</find>
+      <find>leader name</find>
+      <find>bpe</find>
+      <find>Asphalt</find>
+      <find>is found in</find>
+      <find>currency</find>
+      <find>Cali</find>
+      <find>The leader of</find>
+      <find>Greek</find>
+      <find>MUSICALARTIST</find>
+      <find>demonym is</find>
+      <find>has an elevation of</find>
+      <find>final flight</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>COUNTRY</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nmt_preprocessing/util/sparql_util.py" />
+        <option value="$PROJECT_DIR$/nmt_preprocessing/main.py" />
+        <option value="$PROJECT_DIR$/nmt_preprocessing/failed_cases" />
+        <option value="$PROJECT_DIR$/nmt_preprocessing/preprocess/lexicalize.py" />
+        <option value="$PROJECT_DIR$/nmt_preprocessing/nmt_data_1-7/train.vi" />
+        <option value="$PROJECT_DIR$/nmt_preprocessing/nmt_data_1-7/train.en" />
+        <option value="$PROJECT_DIR$/nmt_preprocessing/new_webnlg_release/webnlg-corpus-release/1triples/1triple_allSolutions_Airport_train_release.xml" />
+        <option value="$PROJECT_DIR$/nmt_preprocessing/util/text_util.py" />
+        <option value="$PROJECT_DIR$/nmt_preprocessing/1_log" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="167" />
+    <option name="y" value="27" />
+    <option name="width" value="1366" />
+    <option name="height" value="1029" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cse597" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse597" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cse597" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse597" type="462c0819:PsiDirectoryNode" />
+              <item name="nmt_preprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cse597" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse597" type="462c0819:PsiDirectoryNode" />
+              <item name="nmt_preprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="nmt_data_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="cse597" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text_util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cse597" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nmt_preprocessing/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nmt_preprocessing/util/text_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.text_util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1709bca-cb9b-46e1-b7ae-fd088f0bba74" name="Default Changelist" comment="" />
+      <created>1554848424599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554848424599</updated>
+      <workItem from="1554848429590" duration="513000" />
+      <workItem from="1554849635294" duration="9057000" />
+      <workItem from="1554866926174" duration="1070000" />
+      <workItem from="1554871077215" duration="3623000" />
+      <workItem from="1554885206004" duration="1594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15857000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="31" width="1926" height="1052" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14323749" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19546436" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.099352054" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JWT" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="JSON Viewer" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="JSON Utils" order="7" />
+      <window_info anchor="right" x="0" y="0" width="431" height="852" id="Documentation" order="8" side_tool="true" weight="0.14962727" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/new_webnlg_release/webnlg-corpus-release/1triples/1triple_allSolutions_Airport_train_release.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="2708" column="53" selection-start-line="2708" selection-start-column="43" selection-end-line="2708" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_models/nmt/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="21744">
+            <caret line="1208" column="39" selection-start-line="1208" selection-start-column="36" selection-end-line="1208" selection-end-column="39" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/preprocess/lexicalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_models/nmt/nmt/nmt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3618">
+          <caret line="216" column="39" selection-start-line="216" selection-start-column="36" selection-end-line="216" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_models/OpenNMT-py/tools/apply_bpe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4842">
+          <caret line="280" column="48" selection-start-line="280" selection-start-column="48" selection-end-line="280" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/util/sparql_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/nmt_data_1-7/train.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/nmt_data_1-7/train.en">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/util/text_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/1-7_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/failed_cases">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/nmt_data_1/train.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4590" column="31" selection-start-line="4590" selection-start-column="31" selection-end-line="4590" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_preprocessing/1_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2936">
+          <caret line="41889" column="9" lean-forward="true" selection-start-line="41889" selection-start-column="9" selection-end-line="41889" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

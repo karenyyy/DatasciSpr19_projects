@@ -1,0 +1,1385 @@
+The parent company of ENTITY_1[COMPANY] is ENTITY_2[COMPANY] .
+ENTITY_1[INFRASTRUCTURE] is associated with the ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_1[INFRASTRUCTURE] is associated with the ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] was launched at the ENTITY_1[INFRASTRUCTURE] O .
+The ENTITY_1[INFRASTRUCTURE] is associated with the ENTITY_2[MEANOFTRANSPORTATION] rocket .
+The ENTITY_1[INFRASTRUCTURE] is associated with the Rocket ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] was launched from the ENTITY_1[INFRASTRUCTURE] .
+The saint of ENTITY_1[CITY] is ENTITY_2[PERSON] .
+ENTITY_1[COMPANY] is located in ENTITY_2[CITY] .
+The ENTITY_1[COMPANY] is located in ENTITY_2[CITY] .
+ENTITY_1[COMPANY] is headquartered in ENTITY_2[CITY] .
+ENTITY_1[COMPANY] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[COMPANY] is in ENTITY_2[COUNTRY] .
+The location of the ENTITY_1[COMPANY] P&O is ENTITY_2[SETTLEMENT] .
+P&O company is located in ENTITY_2[SETTLEMENT] .
+P&O transporting ENTITY_1[COMPANY] is located in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[MEANOFTRANSPORTATION] was manufactured by Plymouth .
+ENTITY_2[COMPANY] the manufacturers of the ENTITY_1[MEANOFTRANSPORTATION] .
+ENTITY_1[MEANOFTRANSPORTATION] is related to the ENTITY_2[WORK] .
+The ENTITY_2[WORK] 1955 is a related mean of transportation to the ENTITY_1[MEANOFTRANSPORTATION] .
+The ENTITY_1[MEANOFTRANSPORTATION] 's successor is the ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_1[MEANOFTRANSPORTATION] was succeeded by the ENTITY_2[MEANOFTRANSPORTATION] .
+ENTITY_1[PERSON] works for ENTITY_2[COMPANY] .
+ENTITY_1[PERSON] is employed by ENTITY_2[COMPANY] .
+ENTITY_1[PERSON] is an employee of ENTITY_2[COMPANY] .
+ENTITY_1[PERSON] 's employer is ENTITY_2[COMPANY] .
+ENTITY_1[CITY] is in ENTITY_2[COUNTRY] .
+The ENTITY_1[MEANOFTRANSPORTATION] and the ENTITY_2[MEANOFTRANSPORTATION] are similar means of transport .
+The ENTITY_1[MEANOFTRANSPORTATION] is related to the ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_1[MEANOFTRANSPORTATION] and the ENTITY_2[MEANOFTRANSPORTATION] are related means of transportation .
+The ENTITY_1[MEANOFTRANSPORTATION] is related to the ENTITY_2[MEANOFTRANSPORTATION] .
+ENTITY_1[MEANOFTRANSPORTATION] is related to ENTITY_2[MEANOFTRANSPORTATION] .
+ENTITY_2[PERSON] is a key person at ENTITY_1[COMPANY] .
+ENTITY_2[PERSON] is a key person at the company ENTITY_1[COMPANY] .
+ENTITY_1[INFRASTRUCTURE] is operated by the ENTITY_2[ORGANISATION] .
+The ENTITY_1[INFRASTRUCTURE] is operated by the U.S. Air Force .
+ENTITY_2[SETTLEMENT] is the capital of the ENTITY_1[COUNTRY] .
+The capital of the UK is ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] is the capital of the UK .
+ENTITY_2[PERSON] is the leader of the ENTITY_1[COUNTRY] .
+The ruler of the ENTITY_1[COUNTRY] is Queen ENTITY_2[PERSON] .
+ENTITY_2[WORK] is the national anthem of the ENTITY_1[COUNTRY] .
+The anthem of the ENTITY_1[COUNTRY] is ENTITY_2[WORK] .
+ENTITY_2[WORK] is the U.S. anthem .
+ENTITY_2[SETTLEMENT] is the capital city of the ENTITY_1[COUNTRY] .
+The capital of the ENTITY_1[COUNTRY] is ENTITY_2[SETTLEMENT]
+ENTITY_2[SETTLEMENT] is the capital of the ENTITY_1[COUNTRY] .
+ENTITY_2[ETHNICGROUP] live in the U.S .
+The people of the ENTITY_1[COUNTRY] are called ENTITY_2[ETHNICGROUP] .
+The inhabitants of the ENTITY_1[COUNTRY] are called ENTITY_2[ETHNICGROUP] .
+One of the ethnic groups in the ENTITY_1[COUNTRY] is ENTITY_2[ORGANISATION] .
+ENTITY_1[COUNTRY] has ethnic groups including ENTITY_2[ORGANISATION] .
+ENTITY_2[ORGANISATION] are among the ethnic groups in the ENTITY_1[COUNTRY] .
+ENTITY_2[ETHNICGROUP] are one of the ethnic groups of the ENTITY_1[COUNTRY] .
+ENTITY_2[ETHNICGROUP] are an ethnic group in the U.S .
+Native Americans are on of the ethnic groups in the ENTITY_1[COUNTRY] .
+The ENTITY_1[COUNTRY] has an ethnic group called Native Americans .
+Native Americans are an ethnic group in the U.S .
+ENTITY_2[ETHNICGROUP] are an ethnic group in the ENTITY_1[COUNTRY] .
+ENTITY_2[ETHNICGROUP] are one of the ethnic groups in the ENTITY_1[COUNTRY] .
+ENTITY_2[ETHNICGROUP] are an ethnic group of the ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] is spoken in the U.S .
+The ENTITY_2[LANGUAGE] in the ENTITY_1[COUNTRY] is English .
+ENTITY_2[LANGUAGE] of the ENTITY_1[COUNTRY] .
+The leader of the ENTITY_1[COUNTRY] has the title ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+The leader of the ENTITY_1[COUNTRY] is the ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+The title of the leader of ENTITY_1[COUNTRY] is The ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+The operator of the ENTITY_1[INFRASTRUCTURE] is the ENTITY_2[ORGANISATION] .
+The ENTITY_1[ARCHITECTURALSTRUCTURE] is located in ENTITY_2[CITY] .
+The ENTITY_1[ARCHITECTURALSTRUCTURE] is in Lompoc , CA .
+ENTITY_1[ARCHITECTURALSTRUCTURE] is located in ENTITY_2[CITY] .
+ENTITY_1[MEANOFTRANSPORTATION] and ENTITY_2[MEANOFTRANSPORTATION] are related forms of transportation .
+ENTITY_1[MEANOFTRANSPORTATION] is related to ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_1[ORGANISATION] is located in ENTITY_2[CITY] .
+The ENTITY_1[ORGANISATION] is in ENTITY_2[CITY] .
+The ENTITY_1[ORGANISATION] is located in ENTITY_2[CITY] .
+The currency of ENTITY_1[COUNTRY] is ENTITY_2[CURRENCY] .
+The currency of ENTITY_1[COUNTRY] is the ENTITY_2[CURRENCY] .
+The currency in ENTITY_1[COUNTRY] is the ENTITY_2[CURRENCY] .
+ENTITY_1[COUNTRY] 's currency is the ENTITY_2[CURRENCY] .
+the currency used in ENTITY_1[COUNTRY] ENTITY_2[CURRENCY] .
+The ENTITY_1[COUNTRY] currency is the ENTITY_1[COUNTRY] lira .
+The largest city in ENTITY_1[COUNTRY] is ENTITY_2[CITY] .
+ENTITY_2[CITY] is the largest city in ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] 's largest City is ENTITY_2[CITY] .
+ENTITY_2[OFFICEHOLDER] is a leader of ENTITY_1[COUNTRY] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] .
+Leader of ENTITY_1[COUNTRY] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is ENTITY_1[COUNTRY] 's leader .
+The Leader Of ENTITY_1[COUNTRY] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the ENTITY_1[COUNTRY] leader .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[COUNTRY] leader name is ENTITY_2[OFFICEHOLDER] .
+The ENTITY_1[COUNTRY] leader 's name is ENTITY_2[OFFICEHOLDER] .
+The leader 's title in ENTITY_1[COUNTRY] is the ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] 's leader is the ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the official title of the ENTITY_1[COUNTRY] leader .
+ENTITY_1[COUNTRY] has an ethnic group called ENTITY_2[ETHNICGROUP] .
+ENTITY_2[ETHNICGROUP] are an ethnic group of ENTITY_1[COUNTRY] .
+One of the ethnic groups in ENTITY_1[COUNTRY] are the ENTITY_2[ETHNICGROUP] .
+The ENTITY_2[LANGUAGE] is used in ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] spoken in ENTITY_1[COUNTRY] .
+In ENTITY_1[COUNTRY] they speak Polish .
+ENTITY_2[OFFICEHOLDER] was a commander in the ENTITY_1[EVENT] .
+ENTITY_2[OFFICEHOLDER] was the commender in the ENTITY_1[EVENT] .
+The ENTITY_1[EVENT] was a conflict within the ENTITY_2[EVENT] .
+The ENTITY_1[EVENT] was part of the ENTITY_2[EVENT] military conflict .
+One of the ENTITY_1[ORGANISATION] 's garrisons was in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[ORGANISATION] has a garrison at ENTITY_2[SETTLEMENT] .
+The ENTITY_1[ORGANISATION] has a garrison in ENTITY_2[SETTLEMENT] .
+ENTITY_1[EVENT] was part of the ENTITY_2[EVENT] conflict .
+The ENTITY_1[EVENT] occurred during the ENTITY_2[EVENT] .
+ENTITY_2[COLOUR] is the colour of the ENTITY_1[ORGANISATION] .
+The ENTITY_1[ORGANISATION] is associated with the colour ENTITY_2[COLOUR] .
+ENTITY_2[OFFICEHOLDER] is a leader in the Netherlands ENTITY_1[ORGANISATION] .
+The leader of the ENTITY_1[ORGANISATION] is ENTITY_2[OFFICEHOLDER] .
+The leader of the ENTITY_1[ORGANISATION] is called ENTITY_2[OFFICEHOLDER] .
+The ENTITY_2[CURRENCY] is the currency in ENTITY_1[COUNTRY] .
+The currency in ENTITY_1[COUNTRY] is the ENTITY_2[CURRENCY] .
+The currency of ENTITY_1[COUNTRY] is the ENTITY_2[CURRENCY] .
+The ENTITY_2[LANGUAGE] used in ENTITY_1[COUNTRY] is Spanish .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] in ENTITY_1[COUNTRY] .
+The leader in ENTITY_1[COUNTRY] is ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[PERSON] .
+The leader of ENTITY_1[COUNTRY] is Felipe VI .
+ENTITY_1[CITY] located in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] in the ENTITY_2[ADMINISTRATIVEREGION] region .
+ENTITY_2[SETTLEMENT] is the capital of the U.K .
+ENTITY_2[SETTLEMENT] is the capital of The ENTITY_1[COUNTRY] .
+ENTITY_2[ORGANISATION] are an ethnic group in the U.S.A .
+ENTITY_2[ORGANISATION] are an ethnic group from the ENTITY_1[COUNTRY] .
+ENTITY_2[ORGANISATION] are an ethnic group of the ENTITY_1[COUNTRY] .
+In the ENTITY_1[COUNTRY] one of the ethnic groups is the Native Americans .
+Native Americans are an ethnic group in the U.S .
+ENTITY_2[ETHNICGROUP] .
+The U.S. Army fought in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] battled in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] was involved in battles of the ENTITY_2[EVENT] .
+The U.S. Army battled in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] battled in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] has battled in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] took part in battles in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] fought in the ENTITY_2[EVENT] .
+ENTITY_1[ORGANISATION] fought in the ENTITY_2[EVENT] .
+ENTITY_2[EVENT] is a battle of the ENTITY_1[ORGANISATION] .
+The ENTITY_1[ORGANISATION] was involved in ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] was involved in the ENTITY_2[EVENT] battle .
+The ENTITY_1[ORGANISATION] was involved in battles in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] took part in the battle called ENTITY_2[EVENT] .
+ENTITY_2[EVENT] was one battle fought in the US .
+The ENTITY_1[ORGANISATION] fought in the ENTITY_2[EVENT] battle .
+ENTITY_1[ADMINISTRATIVEREGION] 's largest city is ENTITY_2[CITY] ENTITY_1[ADMINISTRATIVEREGION] .
+The largest city in ENTITY_1[ADMINISTRATIVEREGION] is ENTITY_2[CITY] .
+ENTITY_2[OFFICEHOLDER] was a leader of the ENTITY_1[ORGANISATION] .
+The ENTITY_1[ORGANISATION] Whig Party is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the leader of the ENTITY_1[ORGANISATION] .
+The leader of the Whig Party in the U.S.A. is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] was leader of the ENTITY_1[ORGANISATION] .
+The birthplace of ENTITY_1[PERSON] was ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] was the birthplace of ENTITY_1[PERSON] .
+William M.O. Dawson was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] died in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] died in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] is a member of the United States Republican party .
+ENTITY_1[PERSON] was a member of the United States ENTITY_2[ORGANISATION] .
+ENTITY_1[PERSON] is a member of the ENTITY_2[ORGANISATION] .
+ENTITY_2[OFFICEHOLDER] was a commander in ENTITY_1[EVENT] .
+A commander in ENTITY_1[EVENT] was ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[PERSON] was a commander in the Second ENTITY_1[EVENT] .
+ENTITY_2[PERSON] was a commander in ENTITY_1[EVENT] .
+A commander in ENTITY_1[EVENT] was ENTITY_2[PERSON] .
+ENTITY_2[OFFICEHOLDER] was the commander in ENTITY_1[EVENT] .
+ENTITY_2[OFFICEHOLDER] was a commander during WWII .
+A commander in ENTITY_1[EVENT] was ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] was a commander in ENTITY_1[EVENT] .
+A commander in ENTITY_1[EVENT] was ENTITY_2[OFFICEHOLDER] .
+The ENTITY_2[EVENT] was part of ENTITY_1[EVENT] .
+ENTITY_2[SOCCERCLUB] have been champions of the ENTITY_1[ORGANISATION] .
+ENTITY_2[SOCCERCLUB] were champions at the ENTITY_1[ORGANISATION] .
+ENTITY_1[PERSON] is attached to ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is attached to the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is a member of the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays at the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] used to be at ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] is in ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays at the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] was born in ENTITY_2[COUNTRY] .
+ENTITY_2[SOCCERCLUB] have been ENTITY_1[EVENT] champions .
+ENTITY_2[SOCCERCLUB] are former champions of ENTITY_1[EVENT] .
+The ENTITY_1[EVENT] champions are ENTITY_2[SOCCERCLUB]
+ENTITY_1[EVENT] is based in ENTITY_2[COUNTRY] .
+ENTITY_2[SOCCERCLUB] are previous champions of ENTITY_1[ORGANISATION] .
+ENTITY_2[SOCCERCLUB] are the champions of ENTITY_1[ORGANISATION] .
+ENTITY_2[SOCCERCLUB] won the ENTITY_1[ORGANISATION] championship before .
+ENTITY_1[ORGANISATION] champions include ENTITY_2[SOCCERCLUB] .
+ENTITY_2[SOCCERCLUB] are champions of ENTITY_1[ORGANISATION] .
+The champions of ENTITY_1[ORGANISATION] are ENTITY_2[SOCCERCLUB] .
+ENTITY_1[ARCHITECTURALSTRUCTURE] is operated by ENTITY_2[SOCCERCLUB] .
+ENTITY_2[SOCCERCLUB] operate ENTITY_1[ARCHITECTURALSTRUCTURE] .
+ENTITY_2[COMPANY] own ENTITY_1[ARCHITECTURALSTRUCTURE] .
+ENTITY_1[ARCHITECTURALSTRUCTURE] is owned by ENTITY_2[COMPANY]
+ENTITY_2[SOCCERCLUB] is a tenant of ENTITY_1[ARCHITECTURALSTRUCTURE] .
+ENTITY_1[EDUCATIONALINSTITUTION] is located in the city of ENTITY_2[CITY] .
+ENTITY_1[EDUCATIONALINSTITUTION] is located in the city of ENTITY_2[CITY] .
+ENTITY_1[EDUCATIONALINSTITUTION] is in ENTITY_2[CITY] .
+ENTITY_1[EDUCATIONALINSTITUTION] is located in the state of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[EDUCATIONALINSTITUTION] is in the state of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[EDUCATIONALINSTITUTION] is in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[PERSON] in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] has represented ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] was at ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] for ENTITY_2[SOCCERCLUB]
+The footballer ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] for ENTITY_2[SOCCERCLUB]
+The footballer ENTITY_1[PERSON] is attached to ENTITY_2[SOCCERCLUB] football club .
+ENTITY_1[PERSON] is a member of the ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] with the ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] was at ENTITY_2[SOCCERCLUB]
+The footballer ENTITY_1[PERSON] is attached to ENTITY_2[SOCCERCLUB] Football Club .
+ENTITY_1[PERSON] is a member of the ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] has represented the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] player is part of the ENTITY_2[SOCCERCLUB] club .
+the football player ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] was a player for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays at the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] is in the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] once played for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] club was ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_2[SOCCERCLUB] are previous champions of the ENTITY_1[ORGANISATION] .
+ENTITY_2[SOCCERCLUB] were past champions in the Greece ENTITY_1[ORGANISATION] .
+The ENTITY_1[ORGANISATION] champions are ENTITY_2[SOCCERCLUB]
+The latin name of ENTITY_1[UNIVERSITY] is ENTITY_2[LATINNAME] .
+The latin name of the ENTITY_1[UNIVERSITY] is ENTITY_2[LATINNAME] .
+The ENTITY_1[UNIVERSITY] has the latin name ENTITY_2[LATINNAME] .
+The ENTITY_2[WORK] is the anthem of ENTITY_1[MUSICALARTIST] .
+The anthem of ENTITY_1[MUSICALARTIST] is called the ENTITY_2[WORK] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[MUSICALARTIST] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[MUSICALARTIST] .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[MUSICALARTIST] has a leader called ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the name of the leader of ENTITY_1[MUSICALARTIST] .
+The leader of ENTITY_1[MUSICALARTIST] is Johann 'Schneider-Ammann .
+The ENTITY_2[PERSON] ENTITY_1[MUSICALARTIST] helps to lead the country .
+The ENTITY_2[PERSON] is the title of the leader of ENTITY_1[MUSICALARTIST] .
+The leader of ENTITY_1[MUSICALARTIST] is titled the ENTITY_2[PERSON] .
+ENTITY_1[MUSICALARTIST] 's legislature is formed in the ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] 's legislature is known as the ENTITY_2[ORGANISATION] .
+The ENTITY_2[ORGANISATION] .
+The sport ENTITY_1[ACTIVITY] has a Governing Body called the International ENTITY_1[ACTIVITY] Federation .
+The International ENTITY_1[ACTIVITY] Federation is the Governing Body for the tennis sport .
+The tennis sport is governed by the International ENTITY_1[ACTIVITY] Federation .
+The International ENTITY_1[ACTIVITY] Federation is the Governing Body of the sport of tennis .
+The International ENTITY_1[ACTIVITY] Federation is the governing body of tennis .
+The sports governing body of tennis is the International ENTITY_1[ACTIVITY] Federation .
+The ENTITY_1[UNIVERSITY] is in the city of ENTITY_2[CITY] .
+ENTITY_1[UNIVERSITY] is in the city of ENTITY_2[CITY] .
+ENTITY_1[UNIVERSITY] is located in ENTITY_2[CITY] .
+ENTITY_2[PERSON] is the founder of ENTITY_1[COMPANY] .
+The founder of ENTITY_1[COMPANY] is ENTITY_2[PERSON] .
+ENTITY_1[COMPANY] was founded by ENTITY_2[PERSON] .
+The founder of ENTITY_1[COMPANY] is ENTITY_2[PERSON] .
+ENTITY_2[BOOK] came before the book " ENTITY_1[BOOK] " .
+ENTITY_1[BOOK] is preceded by ENTITY_2[BOOK] .
+ENTITY_2[COMPANY] is the parent company of ENTITY_1[COMPANY] .
+ENTITY_2[COMPANY] owns ENTITY_1[COMPANY] .
+ENTITY_2[COMPANY] are the parent company of ENTITY_1[COMPANY] .
+ENTITY_2[SETTLEMENT] is the capital city in the UK .
+The capital of the ENTITY_1[COUNTRY] is ENTITY_2[SETTLEMENT] .
+The capital city of the ENTITY_1[COUNTRY] is ENTITY_2[SETTLEMENT] .
+ENTITY_2[ETHNICGROUP] live in the ENTITY_1[COUNTRY] .
+The ENTITY_1[COUNTRY] is populated by the ENTITY_2[ETHNICGROUP] .
+ENTITY_2[ETHNICGROUP] inhabit the UK .
+ENTITY_2[LANGUAGE] spoken in the ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] has the ENTITY_2[LANGUAGE] .
+The ENTITY_2[LANGUAGE] spoken in the ENTITY_1[COUNTRY] is English .
+ENTITY_2[OFFICEHOLDER] is a leader in the UK .
+The leader of the ENTITY_1[COUNTRY] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[PERSON] is a leader in the ENTITY_1[COUNTRY] .
+The leader of the ENTITY_1[COUNTRY] is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the leader in the UK .
+The capital of the ENTITY_1[COUNTRY] is ENTITY_2[SETTLEMENT]
+ENTITY_2[SETTLEMENT] is the capital of the ENTITY_1[COUNTRY] .
+The capital city of the ENTITY_1[COUNTRY] is ENTITY_2[SETTLEMENT]
+ENTITY_2[ETHNICGROUP] inhabit the U.S .
+The demonym for people living in the ENTITY_1[COUNTRY] is ENTITY_2[ETHNICGROUP] .
+In the ENTITY_1[COUNTRY] one of the ethnic groups is ENTITY_2[ORGANISATION] .
+The ENTITY_2[ORGANISATION] are an ethnic group in the ENTITY_1[COUNTRY] .
+Native Americans are an ethnic group in the U.S .
+ENTITY_2[ETHNICGROUP] .
+ENTITY_2[ETHNICGROUP] are an ethnic group in the U.S .
+ENTITY_2[ETHNICGROUP] live in the ENTITY_1[COUNTRY] .
+The leader of the ENTITY_1[COUNTRY] is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the leader of the ENTITY_1[COUNTRY] .
+ENTITY_2[PERSON] is the president of the US .
+ENTITY_2[OFFICEHOLDER] is a ENTITY_1[COUNTRY] leader .
+ENTITY_2[OFFICEHOLDER] is a leader in the U.S .
+A leader in the ENTITY_1[COUNTRY] is ENTITY_2[OFFICEHOLDER] .
+The leader of the ENTITY_1[COUNTRY] is known as the President .
+The title of the leader of the ENTITY_1[COUNTRY] is the President .
+ENTITY_1[COMPANY] is in the ENTITY_2[COUNTRY] .
+ENTITY_1[COMPANY] is located in the ENTITY_2[COUNTRY] .
+ENTITY_2[COMPANY] is the parent company of ENTITY_1[COMPANY] .
+ENTITY_1[BOOK] ' author was ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the author of ENTITY_1[BOOK] .
+ENTITY_1[BOOK] was written by ENTITY_2[PERSON] .
+ENTITY_2[BOOK] was preceded by ENTITY_1[BOOK] .
+The novel ENTITY_2[BOOK] followed the novel ENTITY_1[BOOK] .
+ENTITY_2[BOOK] is a sequel to ENTITY_1[BOOK] .
+The parent company of ENTITY_1[COMPANY] is ENTITY_2[COMPANY] .
+ENTITY_2[COMPANY] is the parent company of ENTITY_1[COMPANY] .
+ENTITY_1[BOOK] was published by Harcourt ( publishers ) .
+ENTITY_1[BOOK] is published by Harcourt .
+ENTITY_2[PERSON] is the author of ENTITY_1[BOOK] .
+ENTITY_2[PERSON] is the author of " ENTITY_1[BOOK] " .
+ENTITY_1[BOOK] was followed by ENTITY_2[BOOK] .
+ENTITY_2[BOOK] is the sequel to ENTITY_1[BOOK] .
+The ENTITY_1[AIRPORT] is operated by the ENTITY_2[COMPANY] , which has its headquarters at the ENTITY_3[BUILDING] .
+The ENTITY_2[COMPANY] is based at the ENTITY_3[BUILDING] and operates ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] is operated by the ENTITY_2[COMPANY] , based in ENTITY_3[ADMINISTRATIVEREGION] .
+The Port Authority of ENTITY_3[ADMINISTRATIVEREGION] and New Jersey , headquartered in ENTITY_3[ADMINISTRATIVEREGION] , is the operating organisation of ENTITY_1[AIRPORT] .
+The Port Authority of ENTITY_3[ADMINISTRATIVEREGION] and New Jersey is the operating organisation of ENTITY_1[AIRPORT] with its headquarters in ENTITY_3[ADMINISTRATIVEREGION] .
+ENTITY_1[AIRPORT] is owned by ENTITY_2[ORGANISATION] whose chief is ENTITY_3[PERSON] .
+ENTITY_1[AIRPORT] owned by ENTITY_2[ORGANISATION] who 's chief is ENTITY_3[PERSON] .
+ENTITY_1[AIRPORT] is owned by the ENTITY_2[ORGANISATION] whose leader is ENTITY_3[PERSON] .
+ENTITY_1[AIRPORT] owner is ENTITY_2[ORGANISATION] headed by ENTITY_3[PERSON] .
+ENTITY_1[AIRPORT] is owned by the ENTITY_2[ORGANISATION] which is headed by ENTITY_3[PERSON] .
+The ENTITY_1[AIRPORT] is operated by the ENTITY_3[COMPANY] , its runway length is ENTITY_2[RUNWAYLENGTH]
+The ENTITY_3[COMPANY] is the operating organisation of ENTITY_1[AIRPORT] , where the runway length is ENTITY_2[RUNWAYLENGTH]
+ENTITY_1[AIRPORT] , run by the ENTITY_3[COMPANY] , ha a runway length of ENTITY_2[RUNWAYLENGTH]
+ENTITY_1[COMPANY] is the operating organisation for Adolfo Suarez ENTITY_2[CITY] -Barajas airport in ENTITY_2[CITY] .
+Adolfo Suarez ENTITY_2[CITY] -Barajas Airport is operated by ENTITY_1[COMPANY] , ENTITY_2[CITY] .
+The Adolfo Suárez ENTITY_2[CITY] –Barajas Airport is operated by ENTITY_1[COMPANY] in ENTITY_2[CITY] .
+ENTITY_3[AIRPORT] can be found in ENTITY_2[ADMINISTRATIVEREGION] in ENTITY_1[SETTLEMENT] .
+ENTITY_3[AIRPORT] is located in ENTITY_1[SETTLEMENT] in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_3[AIRPORT] is located in ENTITY_1[SETTLEMENT] in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_3[AIRPORT] is operated by the ENTITY_1[ORGANISATION] which has full jurisdiction .
+ENTITY_3[AIRPORT] is operated by the ENTITY_1[ORGANISATION] , which has jurisdiction over the ENTITY_2[SETTLEMENT] .
+The operating organisation of ENTITY_3[AIRPORT] is the ENTITY_1[ORGANISATION] who have jurisdiction of the ENTITY_2[SETTLEMENT] .
+ENTITY_1[ORGANISATION] has a helicopter known as the ENTITY_2[MEANOFTRANSPORTATION] and also operates ENTITY_3[AIRPORT] .
+The ENTITY_2[MEANOFTRANSPORTATION] is a Helicopter used by the ENTITY_1[ORGANISATION] who operates the ENTITY_3[AIRPORT] .
+The operating organization for ENTITY_3[AIRPORT] is the ENTITY_1[ORGANISATION] who use the ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_3[AIRPORT] serves the city of ENTITY_1[CITY] in ENTITY_2[COUNTRY] .
+The city of ENTITY_1[CITY] in ENTITY_2[COUNTRY] is served by ENTITY_3[AIRPORT] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] and it is served by the ENTITY_3[AIRPORT] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] and is served by the ENTITY_3[AIRPORT] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] and is served by the ENTITY_3[AIRPORT] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is in and is a part of ENTITY_2[ADMINISTRATIVEREGION] .
+Adolfo Suarez ENTITY_1[CITY] -Barajas Airport is located in ENTITY_1[CITY] , which is part of the ENTITY_2[SETTLEMENT] ENTITY_1[CITY] .
+The Adolfo Suárez ENTITY_1[CITY] –Barajas Airport is in ENTITY_1[CITY] , which is part of the community known by the same name .
+ENTITY_1[SETTLEMENT] is in the ENTITY_2[COUNTRY] . The ENTITY_3[AIRPORT] is located there .
+ENTITY_3[AIRPORT] is located in the ENTITY_2[COUNTRY] in the ENTITY_1[SETTLEMENT] .
+ENTITY_3[AIRPORT] is located in ENTITY_1[SETTLEMENT] , USA .
+The 2nd runway at ENTITY_3[AIRPORT] is made of ENTITY_1[SPECIES] , which is classed as a ENTITY_2[SPECIES] .
+ENTITY_1[SPECIES] , of the class ENTITY_2[SPECIES] , is the surface type of the second runway at ENTITY_3[AIRPORT] .
+ENTITY_1[SPECIES] is in the class ENTITY_2[SPECIES] and is used as the surface of the second runway of ENTITY_3[AIRPORT] .
+The surface of the 1st runway at ENTITY_3[AIRPORT] is covered with ENTITY_1[SPECIES] , which belongs to the division of ENTITY_2[SPECIES] .
+The 1st runway at ENTITY_3[AIRPORT] is made from ENTITY_1[SPECIES] which belongs to the division of ENTITY_2[SPECIES] .
+The surface of the 1st runway at ENTITY_3[AIRPORT] is ENTITY_1[SPECIES] which is a type of ENTITY_2[SPECIES] .
+ENTITY_1[SPECIES] belongs to the division of ENTITY_2[SPECIES] and it is the surface type of the second runway of ENTITY_3[AIRPORT] .
+ENTITY_1[SPECIES] belongs to the division of ENTITY_2[SPECIES] and is the surface type of the second runway of ENTITY_3[AIRPORT] .
+The 2nd runway at ENTITY_3[AIRPORT] is made of ENTITY_1[SPECIES] which belongs to the division of ENTITY_2[SPECIES] .
+ENTITY_1[SPECIES] is the order of ENTITY_2[ORDER] , it is also the surface type of the second runway of ENTITY_3[AIRPORT] .
+The 2nd runway at ENTITY_3[AIRPORT] is made of ENTITY_1[SPECIES] which belongs to the order of ENTITY_2[ORDER] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[SETTLEMENT] and is also the location of ENTITY_3[AIRPORT] .
+ENTITY_3[AIRPORT] is found in ENTITY_1[SETTLEMENT] , part of the ENTITY_2[SETTLEMENT] .
+The ENTITY_3[AIRPORT] is in ENTITY_1[SETTLEMENT] which is part of the ENTITY_2[SETTLEMENT] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_2[SETTLEMENT] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_2[SETTLEMENT] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] in ENTITY_2[SETTLEMENT] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] , in the ENTITY_2[COUNTRY] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] , U.S .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of the U.S .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] and ENTITY_3[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] , associated with the musician ENTITY_2[MUSICALARTIST] , has also worked with ENTITY_3[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with the musicians ENTITY_2[MUSICALARTIST] and ENTITY_3[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with the musician ENTITY_2[MUSICALARTIST] who is associated with the musical artist ENTITY_3[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with the musician ENTITY_2[MUSICALARTIST] , who in turn , is associated with the musical artist ENTITY_3[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with musicians ENTITY_2[MUSICALARTIST] and ENTITY_3[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] and ENTITY_3[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with the musical artist ENTITY_3[MUSICALARTIST] and with ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] was a member of ENTITY_2[ORGANISATION] and associated with ENTITY_3[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+The musician , ENTITY_1[MUSICALARTIST] , is associated with the musical artist , ENTITY_3[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] and plays for the band ENTITY_2[ORGANISATION] .
+The band ENTITY_2[ORGANISATION] included the member , musician , ENTITY_1[MUSICALARTIST] , who , is associated with the musical artist , ENTITY_3[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+The musician ENTITY_1[MUSICALARTIST] genre is ENTITY_2[TOPICALCONCEPT] which has origins in ENTITY_3[TOPICALCONCEPT] .
+ENTITY_3[TOPICALCONCEPT] is the origin of ENTITY_2[TOPICALCONCEPT] , which is the genre of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] alternative rock musician . ENTITY_3[TOPICALCONCEPT] was the origin of ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[SETTLEMENT] which is a part of Gran ENTITY_1[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[SETTLEMENT] , part of ENTITY_2[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[SETTLEMENT] , part of ENTITY_2[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] 's origins are from ENTITY_1[COUNTRY] , where one of the main ENTITY_2[LANGUAGE] spoken is French .
+ENTITY_3[MUSICALARTIST] comes from ENTITY_1[COUNTRY] where one of the country 's ENTITY_2[LANGUAGE] is French .
+ENTITY_3[MUSICALARTIST] comes from ENTITY_1[COUNTRY] where the ENTITY_2[LANGUAGE] is spoken .
+ENTITY_2[ARTIST] ENTITY_1[TOPICALCONCEPT] an in which genre the banjo features .
+ENTITY_2[ARTIST] performs ENTITY_1[TOPICALCONCEPT] which is a genre of music which uses the banjo .
+ENTITY_2[ARTIST] performs ENTITY_1[TOPICALCONCEPT] , in which the banjo is one of the instruments .
+ENTITY_2[TOPICALCONCEPT] is a fusion of ENTITY_1[TOPICALCONCEPT] music which is the genre of ENTITY_3[MUSICALARTIST] . .
+ENTITY_2[TOPICALCONCEPT] is a fusion of the ENTITY_1[TOPICALCONCEPT] music genre which ENTITY_3[MUSICALARTIST] performs .
+ENTITY_3[MUSICALARTIST] is an exponent of ENTITY_1[TOPICALCONCEPT] where ENTITY_2[TOPICALCONCEPT] is a fusion of funk .
+ENTITY_3[MUSICALARTIST] 's genre is ENTITY_1[TOPICALCONCEPT] which has its origins in ENTITY_2[TOPICALCONCEPT] .
+The musical genre of ENTITY_3[MUSICALARTIST] is ENTITY_1[TOPICALCONCEPT] which has its origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] performs ENTITY_1[TOPICALCONCEPT] , a style that originated from ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[SETTLEMENT] is the place of death for ENTITY_3[PERSON] and led by ENTITY_2[ORGANISATION] .
+ENTITY_3[PERSON] dies in ENTITY_1[SETTLEMENT] which is led by the UK Parliament .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[CITY] , ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] , ENTITY_2[COUNTRY] is the birthplace of ENTITY_3[MUSICALARTIST] .
+The birth place of ENTITY_3[MUSICALARTIST] was ENTITY_1[MUSICALARTIST] and the leader there is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[MUSICALARTIST] died in ENTITY_1[MUSICALARTIST] whose leader is ENTITY_2[OFFICEHOLDER] .
+The birth place of ENTITY_3[MUSICALARTIST] was ENTITY_1[MUSICALARTIST] , where ENTITY_2[OFFICEHOLDER] is the leader .
+ENTITY_2[COMPANY] 's , ENTITY_1[COMPANY] , is the label of ENTITY_3[MUSICALARTIST] .
+ENTITY_3[MUSICALARTIST] is signed to ENTITY_1[COMPANY] , the parent company of which , is the ENTITY_2[COMPANY] .
+ENTITY_3[MUSICALARTIST] is signed to ENTITY_1[COMPANY] wherein ENTITY_2[COMPANY] is the parent company .
+ENTITY_3[MUSICALARTIST] records under label ENTITY_1[COMPANY] , who are based in ENTITY_2[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] signed to the record label ENTITY_1[COMPANY] which is located in ENTITY_2[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] signed to ENTITY_1[COMPANY] which are based in ENTITY_2[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] is an exponent of ENTITY_1[TOPICALCONCEPT] , which when part of fusion genre , is what ENTITY_2[TOPICALCONCEPT] music is .
+ENTITY_2[TOPICALCONCEPT] is a music genre containing other genres like ENTITY_1[TOPICALCONCEPT] , where you find ENTITY_3[MUSICALARTIST] as a performer , and therefore can be considered a fusion genre .
+ENTITY_2[TOPICALCONCEPT] can be thought of as fusion ENTITY_1[TOPICALCONCEPT] , because it includes elements of other genres of ENTITY_1[TOPICALCONCEPT] , including pop as played by ENTITY_3[MUSICALARTIST] .
+ENTITY_3[ARTIST] . ENTITY_2[TOPICALCONCEPT] a fusion genre , partly from Rock .
+The genre of Al Anderson is ENTITY_1[TOPICALCONCEPT] which is part of the fusion genre ENTITY_2[TOPICALCONCEPT] .
+The genre of Al Anderson is ENTITY_1[TOPICALCONCEPT] and ENTITY_2[TOPICALCONCEPT] is a rock musical fusion .
+ENTITY_3[MUSICALARTIST] plays ENTITY_1[TOPICALCONCEPT] , derived from ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_3[MUSICALARTIST] 's musical genre is ENTITY_1[TOPICALCONCEPT] which has its origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] performs ENTITY_1[TOPICALCONCEPT] music which originated from ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_3[MUSICALARTIST] plays for the ENTITY_1[ORGANISATION] band which performs ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] plays for the ENTITY_1[ORGANISATION] band which has the genre , ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] play for the ENTITY_1[ORGANISATION] band which plays ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] played with the band ENTITY_1[ORGANISATION] known for performing ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_3[MUSICALARTIST] played with the band ENTITY_1[ORGANISATION] 's musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] played with ENTITY_1[ORGANISATION] , a ENTITY_2[TOPICALCONCEPT] band .
+ENTITY_3[MUSICALARTIST] was born in the UK , where the capital city is ENTITY_2[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] was born in the ENTITY_1[COUNTRY] where ENTITY_2[SETTLEMENT] is the capital .
+ENTITY_3[MUSICALARTIST] was born in the ENTITY_1[COUNTRY] whose capital city is ENTITY_2[SETTLEMENT] .
+ENTITY_2[PERSON] is the leader of the ENTITY_1[COUNTRY] , the country of ENTITY_3[PERSON] ' birth .
+ENTITY_2[PERSON] is the leader of the ENTITY_1[COUNTRY] , which is where ENTITY_3[PERSON] was born .
+ENTITY_3[PERSON] comes from the ENTITY_1[COUNTRY] , where ENTITY_2[PERSON] is the leader .
+ENTITY_3[MUSICALARTIST] was born in the ENTITY_1[COUNTRY] where ENTITY_2[ORGANISATION] are one of the ethnic groups .
+ENTITY_3[MUSICALARTIST] was born in the ENTITY_1[COUNTRY] , where ENTITY_2[ORGANISATION] are an ethnic group .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[COUNTRY] where the leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[MUSICALARTIST] 's birth place was ENTITY_1[COUNTRY] , where the leader is , ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[COUNTRY] , a country led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[MUSICALARTIST] died in ENTITY_1[COUNTRY] where the leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[MUSICALARTIST] died in ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+The American ENTITY_1[ASTRONAUT] was born in ENTITY_3[COUNTRY] , .
+ENTITY_1[ASTRONAUT] , who was from the ENTITY_2[COUNTRY] , was actually born in ENTITY_3[COUNTRY] .
+Although ENTITY_1[ASTRONAUT] was from the ENTITY_2[COUNTRY] , he was actually born in ENTITY_3[COUNTRY] .
+ENTITY_1[ASTRONAUT] nationality is the ENTITY_2[COUNTRY] , but he was born ENTITY_3[COUNTRY] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_3[COUNTRY] but has a ENTITY_2[COUNTRY] nationality .
+ENTITY_1[ASTRONAUT] from the ENTITY_2[COUNTRY] was born in ENTITY_3[COUNTRY] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_3[COUNTRY] and is a citizen of the ENTITY_2[COUNTRY] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_3[COUNTRY] and later in life became a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] was a ENTITY_2[PERSON] who was born in ENTITY_3[COUNTRY] .
+ENTITY_1[ASTRONAUT] ( born in ENTITY_3[COUNTRY]  ) served as a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] born in ENTITY_3[COUNTRY] served as a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] , born in ENTITY_3[COUNTRY] , was a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] is a ENTITY_2[PERSON] and member of ENTITY_3[PLACE] 's crew .
+ENTITY_1[ASTRONAUT] was part of the ENTITY_3[PLACE] crew and was once a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] was a ENTITY_2[PERSON] and a crew member of ENTITY_3[PLACE] .
+ENTITY_1[ASTRONAUT] served as Chief of the Astronaut Office in ENTITY_2[YEAR] and had a title as the ENTITY_3[TITLE] .
+ENTITY_1[ASTRONAUT] time as Chief of the Astronaut Office in ENTITY_2[YEAR] has prepared him well for his new position as ENTITY_3[TITLE] .
+Th ENTITY_3[TITLE] , ENTITY_1[ASTRONAUT] , served as Chief of the Astronaut Office in ENTITY_2[YEAR] .
+Both ENTITY_1[ASTRONAUT] and ENTITY_3[ASTRONAUT] were crew members aboard ENTITY_2[PLACE] .
+Both ENTITY_1[ASTRONAUT] and ENTITY_3[ASTRONAUT] served as crew members on ENTITY_2[PLACE] .
+Among the crew of ENTITY_2[PLACE] were ENTITY_1[ASTRONAUT] and ENTITY_3[ASTRONAUT] .
+Among the crew members of ENTITY_2[PLACE] were ENTITY_1[ASTRONAUT] and ENTITY_3[ASTRONAUT] .
+ENTITY_1[ASTRONAUT] and ENTITY_3[ASTRONAUT] were ENTITY_2[PLACE] were crew members .
+Born ENTITY_2[YEAR] ENTITY_1[ASTRONAUT] joined NASA in ENTITY_2[YEAR] .
+Born ENTITY_3[DATE] ENTITY_1[ASTRONAUT] was selected by NASA in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] was born ENTITY_3[DATE] joined NASA in ENTITY_2[YEAR] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for ENTITY_1[SOCCERCLUB] managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] , managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] who is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for the club ENTITY_1[SOCCERCLUB] , where the manager was ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] , which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] has played for ENTITY_1[SOCCERCLUB] , whose home ground is at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] plays for ENTITY_1[SOCCERCLUB] whose home ground is located in ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] 's club is ENTITY_1[SOCCERCLUB] who play their home games at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+The chairman of ENTITY_1[SOCCERCLUB] is ENTITY_2[PERSON] and ENTITY_3[PERSON] played for their youth team .
+ENTITY_3[PERSON] 's youth football club was ENTITY_1[SOCCERCLUB] chaired by ENTITY_2[PERSON] .
+ENTITY_1[SOCCERCLUB] 's chairman is ENTITY_2[PERSON] and ENTITY_3[PERSON] once played for the club 's youth side .
+ENTITY_3[PERSON] played with the ENTITY_1[SOCCERCLUB] FC whose playing ground is the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] plays for ENTITY_1[SOCCERCLUB] at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] 's youth football club was ENTITY_1[SOCCERCLUB] whose ground is at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] played at ENTITY_2[ARCHITECTURALSTRUCTURE] for ENTITY_1[SOCCERCLUB] 's youth team .
+ENTITY_3[PERSON] 's played youth football for ENTITY_1[SOCCERCLUB] in the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] based in ENTITY_2[CITY] .
+ENTITY_3[PERSON] plays for ENTITY_1[SOCCERCLUB] who have their home ground in ENTITY_2[CITY] .
+ENTITY_1[SOCCERCLUB] , whose ground is located in ENTITY_2[CITY] , is the former club of the player ENTITY_3[PERSON] .
+ENTITY_3[PERSON] has played for ENTITY_1[SOCCERCLUB] who played the 2014–15 season in the ENTITY_2[SPORTSSEASON] .
+The club ENTITY_3[PERSON] plays for is ENTITY_1[SOCCERCLUB] who played in the ENTITY_2[SPORTSSEASON] .
+ENTITY_3[PERSON] played for the club ENTITY_1[SOCCERCLUB] , which was part of the ENTITY_2[SPORTSSEASON] in the 2014-15 season .
+ENTITY_3[PERSON] used to play for the ENTITY_1[SPORTSTEAM] who are based in ENTITY_2[STATE] .
+ENTITY_3[PERSON] used to play for the ENTITY_1[SPORTSTEAM] , who play in ENTITY_2[STATE] .
+ENTITY_1[SPORTSTEAM] reside in ENTITY_2[STATE] , which is ENTITY_3[PERSON] 's former team .
+ENTITY_3[PERSON] once played for the ENTITY_1[SPORTSTEAM] , who are located in LA .
+ENTITY_3[PERSON] has played for the ENTITY_1[SPORTSTEAM] , the club which is located in LA .
+ENTITY_3[PERSON] used to play for ENTITY_1[SPORTSTEAM] who are based in LA .
+ENTITY_1[SOCCERCLUB] , who play their home games at ENTITY_2[ARCHITECTURALSTRUCTURE] , is a former club of footballer Alan Martin .
+ENTITY_2[ARCHITECTURALSTRUCTURE] is the home ground of ENTITY_1[SOCCERCLUB] where ENTITY_3[ATHLETE] , , .
+ENTITY_1[SOCCERCLUB] , former club of the player Alan Martin , play their home games at ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] played for the ENTITY_1[SOCCERCLUB] , whose chairman is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for the ENTITY_1[SOCCERCLUB] club whose chairman is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] 's club is ENTITY_1[SOCCERCLUB] where ENTITY_2[PERSON] is the chairman .
+ENTITY_3[PERSON] is connected to the ENTITY_1[SOCCERCLUB] Football Club which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for the ENTITY_1[SOCCERCLUB] , the manager of which is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] , Abner plays for the club ENTITY_1[SOCCERCLUB] managed by ENTITY_2[PERSON] .
+Abner played for the ENTITY_3[PERSON] club ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] ’s club is ENTITY_1[SOCCERCLUB] which plays in the ENTITY_2[ORGANISATION] .
+ENTITY_3[PERSON] plays for the club ENTITY_1[SOCCERCLUB] in the ENTITY_2[ORGANISATION] league .
+ENTITY_3[PERSON] played for club ENTITY_1[SOCCERCLUB] in the ENTITY_2[ORGANISATION] .
+ENTITY_3[PERSON] plays for ENTITY_1[SOCCERCLUB] in the ENTITY_2[ORGANISATION] .
+ENTITY_3[PERSON] 's club is ENTITY_1[SOCCERCLUB] who play in the ENTITY_2[ORGANISATION] .
+ENTITY_3[PERSON] plays for ENTITY_1[SOCCERCLUB] in the ENTITY_2[ORGANISATION] .
+ENTITY_3[PERSON] made his debut with the ENTITY_1[SPORTSTEAM] who are based in ENTITY_2[CITY] .
+The debut team of ENTITY_3[PERSON] was the ENTITY_1[SPORTSTEAM] who are based in ENTITY_2[CITY] .
+ENTITY_3[PERSON] made his debut for the ENTITY_1[SPORTSTEAM] who are based in ENTITY_2[CITY] .
+ENTITY_3[PERSON] ' former team was ENTITY_1[SPORTSTEAM] who are based in ENTITY_2[CITY] .
+ENTITY_3[PERSON] used to play for ENTITY_1[SPORTSTEAM] who are based in the city of ENTITY_2[CITY] .
+ENTITY_3[PERSON] once played for the ENTITY_1[SPORTSTEAM] who are based in the city of ENTITY_2[CITY] .
+ENTITY_3[PERSON] plays for the club , ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] has played for the club ENTITY_1[SOCCERCLUB] whose manager is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for the club , ENTITY_1[SOCCERCLUB] , managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] is a member of the ENTITY_1[SOCCERCLUB] club who play in ENTITY_2[SETTLEMENT] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] whose ground is ENTITY_2[SETTLEMENT] .
+ENTITY_3[PERSON] is a member of the ENTITY_1[SOCCERCLUB] club whose ground is ENTITY_2[SETTLEMENT] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] whose ground is ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] , who were playing in ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_1[BUILDING] is located in ENTITY_2[CITY] where ENTITY_3[LEADERNAME] is the leader .
+ENTITY_1[BUILDING] is located in ENTITY_2[CITY] where ENTITY_3[LEADERNAME] is one of the leaders .
+ENTITY_3[OFFICEHOLDER] is the leader of ENTITY_2[CITY] , which is the location of ENTITY_1[BUILDING] .
+ENTITY_3[OFFICEHOLDER] is the leader of ENTITY_2[CITY] , where the ENTITY_1[BUILDING] can be found .
+ENTITY_1[BUILDING] is located in ENTITY_2[CITY] whose leader is ENTITY_3[OFFICEHOLDER] .
+The ENTITY_1[BUILDING] which was built in ENTITY_3[YEAR] is located in ENTITY_2[CITY] .
+ENTITY_1[BUILDING] ( constructed in ENTITY_3[YEAR]  ) are located in ENTITY_2[CITY] .
+The location of ENTITY_1[BUILDING] , built in ENTITY_3[YEAR] , is ENTITY_2[CITY] .
+ENTITY_1[BUILDING] are located in ENTITY_2[CITY] which ENTITY_3[CITY] is a part of .
+The ENTITY_1[BUILDING] are in ENTITY_2[CITY] which is part of ENTITY_3[CITY] .
+ENTITY_1[BUILDING] are in ENTITY_2[CITY] of which ENTITY_3[COUNTRY] is a part .
+ENTITY_1[BUILDING] are located in ENTITY_2[CITY] , which is part of ENTITY_3[COUNTRY] .
+ENTITY_2[CITY] , part of ENTITY_3[ADMINISTRATIVEREGION] , has the ENTITY_1[BUILDING] .
+ENTITY_1[BUILDING] are located in ENTITY_2[CITY] , which is part of ENTITY_3[ADMINISTRATIVEREGION] .
+The location of ENTITY_1[BUILDING] are ENTITY_2[CITY] , ENTITY_3[ADMINISTRATIVEREGION] State .
+ENTITY_3[BUILDING] is located in ENTITY_1[CITY] , in the ENTITY_2[COUNTRY] .
+ENTITY_3[BUILDING] is located in ENTITY_1[CITY] , ENTITY_2[COUNTRY] .
+ENTITY_3[BUILDING] is located in the country of ENTITY_1[COUNTRY] which is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] where ENTITY_3[BUILDING] is located .
+The leader of Ethipoia is ENTITY_2[OFFICEHOLDER] and ENTITY_3[BUILDING] is also located in ENTITY_1[COUNTRY] .
+ENTITY_3[BUILDING] is located in ENTITY_1[COUNTRY] whose leader is ENTITY_2[OFFICEHOLDER] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[OFFICEHOLDER] and The ENTITY_3[BUILDING] is located in ENTITY_1[COUNTRY] .
+The ENTITY_3[BUILDING] is in ENTITY_1[COUNTRY] , the country which has ENTITY_2[OFFICEHOLDER] as one of its leaders .
+ENTITY_2[OFFICEHOLDER] was the leader of ENTITY_1[SETTLEMENT] where ENTITY_3[BUILDING] is located .
+ENTITY_3[BUILDING] is located in ENTITY_1[SETTLEMENT] and it 's leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[BUILDING] is located in ENTITY_1[SETTLEMENT] and it 's leader is ENTITY_2[OFFICEHOLDER] .
+The demonym for ENTITY_2[ETHNICGROUP] living in ENTITY_1[COUNTRY] , where ENTITY_3[BUILDING] is located , is ENTITY_1[COUNTRY] n .
+ENTITY_3[BUILDING] is located in ENTITY_1[COUNTRY] and the demonym for ENTITY_2[ETHNICGROUP] living in ENTITY_1[COUNTRY] is ENTITY_1[COUNTRY] n .
+ENTITY_3[BUILDING] is located in ENTITY_1[COUNTRY] , which is populated by ENTITY_1[COUNTRY] n People .
+ENTITY_2[PERSON] is the leader of ENTITY_1[COUNTRY] ; also the location of ENTITY_3[BUILDING] .
+ENTITY_1[COMPANY] which was founded in ENTITY_2[SETTLEMENT] is the tenant of ENTITY_3[BUILDING] .
+The tenant of the ENTITY_3[BUILDING] is the ENTITY_1[COMPANY] Hotel which was founded in ENTITY_2[SETTLEMENT]
+ENTITY_1[COMPANY] is a tenant of ENTITY_3[BUILDING] and was founded in ENTITY_2[SETTLEMENT]
+The tenant of the ENTITY_3[BUILDING] is the ENTITY_1[COMPANY] Hotel whose headquarters are in ENTITY_2[SETTLEMENT] .
+The tenant of the ENTITY_3[BUILDING] is ENTITY_1[COMPANY] , the company that is located in ENTITY_2[SETTLEMENT] .
+The tenant of the ENTITY_3[BUILDING] is the ENTITY_1[COMPANY] Hotel which has its office at ENTITY_2[SETTLEMENT] .
+The ENTITY_1[EDUCATIONALINSTITUTION] is located in the ENTITY_2[COUNTRY] , and are the current tenants of ENTITY_3[BUILDING] .
+The ENTITY_1[EDUCATIONALINSTITUTION] is the tenant of the ENTITY_3[BUILDING] in the ENTITY_2[COUNTRY] .
+The ENTITY_1[EDUCATIONALINSTITUTION] is located in ENTITY_3[BUILDING] in the ENTITY_2[COUNTRY] .
+ENTITY_3[BUILDING] is located in the ENTITY_1[COUNTRY] , in which ENTITY_2[LANGUAGE] .
+ENTITY_2[LANGUAGE] of the ENTITY_1[COUNTRY] , where ENTITY_3[BUILDING] is located .
+ENTITY_3[BUILDING] is located in the ENTITY_1[COUNTRY] where they speak the ENTITY_2[LANGUAGE] .
+ENTITY_3[BUILDING] is located in the ENTITY_1[COUNTRY] , which is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is a leader of the ENTITY_1[COUNTRY] , which is also the location of ENTITY_3[BUILDING] .
+ENTITY_3[BUILDING] is in the ENTITY_1[COUNTRY] where ENTITY_2[OFFICEHOLDER] is a leader .
+A leader of the ENTITY_1[COUNTRY] , which is home to ENTITY_3[BUILDING] , is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[BUILDING] is located in the ENTITY_1[COUNTRY] which is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[BUILDING] is located in the ENTITY_1[COUNTRY] whose leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[BUILDING] is located in the USA and it 's leader is the President .
+ENTITY_3[BUILDING] is located in the ENTITY_1[COUNTRY] whose leader has the title of President .
+ENTITY_1[PLACE] has an apoapsis of ENTITY_2[APOAPSIS] and travels at an average speed of 17.99 kmps .
+ENTITY_1[PLACE] travels at an average speed of 17.99 kmps and has an apoapsis of ENTITY_2[APOAPSIS] .
+ENTITY_1[PLACE] , with a temperature of ENTITY_3[TEMPERATURE] , has an apoapsis of ENTITY_2[APOAPSIS] .
+The asteroid ENTITY_1[PLACE] , has a temperature of ENTITY_3[TEMPERATURE] , and an apoapsis of ENTITY_2[APOAPSIS] .
+ENTITY_1[PLACE] has a temperature of ENTITY_3[TEMPERATURE] and its apoapsis is ENTITY_2[APOAPSIS] .
+ENTITY_1[PLACE] has a mass of ENTITY_3[MASS] and its epoch date was ENTITY_2[DATE]
+ENTITY_1[PLACE] , with a mass of ENTITY_3[MASS] , has the epoch date ENTITY_2[DATE]
+ENTITY_2[DATE] is the epoch of ENTITY_1[PLACE] , which weighs 6.7 kg .
+The epoch date of ENTITY_1[PLACE] is ENTITY_2[DATE] it has an orbital period of ENTITY_3[ORBITALPERIOD] .
+The celestial body known as ENTITY_1[PLACE] has an orbital period of ENTITY_3[ORBITALPERIOD] and an epoch date ENTITY_2[DATE]
+ENTITY_1[PLACE] has an epoch date ENTITY_2[DATE] has an orbital period of ENTITY_3[ORBITALPERIOD] .
+ENTITY_1[PLACE] has an escape velocity of ENTITY_2[ESCAPEVELOCITY] and an apoapsis of ENTITY_3[APOAPSIS] .
+The apoapsis for ENTITY_1[PLACE] is ENTITY_3[APOAPSIS] and has an escape velocity of ENTITY_2[ESCAPEVELOCITY] .
+ENTITY_1[PLACE] , with an escape velocity of 0.0455 km/s , has an apoapsis of ENTITY_3[APOAPSIS] .
+ENTITY_1[PLACE] has a mass of 5.7kg and an apoapsis of ENTITY_3[APOAPSIS] .
+ENTITY_1[PLACE] has a mass of ENTITY_2[MASS] and an apoapsis of ENTITY_3[APOAPSIS] .
+ENTITY_1[PLACE] has a mass of 6.7 kg and an apoapsis of ENTITY_3[APOAPSIS] .
+ENTITY_1[PLACE] has a periapsis of ENTITY_2[PERIAPSIS] and its epoch was ENTITY_3[DATE]
+ENTITY_1[PLACE] has an epoch date ENTITY_3[DATE] its periapsis is ENTITY_2[PERIAPSIS] .
+The periapsis of ENTITY_1[PLACE] is ENTITY_2[PERIAPSIS] and the epoch date is ENTITY_3[DATE]
+The apoapsis for ENTITY_1[PLACE] is ENTITY_3[APOAPSIS] , it has a rotation period of ENTITY_2[ROTATIONPERIOD] .
+ENTITY_1[PLACE] has a rotational period of ENTITY_2[ROTATIONPERIOD] and its apoapsis is ENTITY_3[APOAPSIS] .
+ENTITY_1[PLACE] has an apoapsis of ENTITY_2[APOAPSIS] and an average speed of 18.29 km/s .
+The asteroid , called ENTITY_1[PLACE] , has an average speed of ENTITY_3[AVERAGESPEED] , and an apoapsis of ENTITY_2[APOAPSIS] .
+ENTITY_1[PLACE] has an apoapsis of ENTITY_2[APOAPSIS] and an average speed of ENTITY_3[AVERAGESPEED] .
+ENTITY_1[PLACE] has a temperature of ENTITY_3[TEMPERATURE] and its apoapsis is ENTITY_2[APOAPSIS] .
+ENTITY_1[PLACE] has an apoapsis of ENTITY_2[APOAPSIS] and a temperature of ENTITY_3[TEMPERATURE] .
+ENTITY_1[PLACE] has a temperature of ENTITY_3[TEMPERATURE] and an apoapsis of ENTITY_2[APOAPSIS] .
+ENTITY_1[PLACE] has an epoch date ENTITY_2[DATE] an apoapsis of ENTITY_3[APOAPSIS] .
+ENTITY_1[PLACE] has an epoch date ENTITY_2[DATE] the apoapsis is ENTITY_3[APOAPSIS] .
+The apoapsis for ENTITY_1[PLACE] is ENTITY_3[APOAPSIS] , it has the epoch date ENTITY_2[DATE]
+ENTITY_1[PLACE] has the epoch date ENTITY_2[DATE] the orbital period is ENTITY_3[ORBITALPERIOD] .
+ENTITY_1[PLACE] has an epoch date ENTITY_2[DATE] an orbital period of ENTITY_3[ORBITALPERIOD] .
+ENTITY_1[PLACE] has an epoch date ENTITY_2[DATE] an orbital period of ENTITY_3[ORBITALPERIOD] .
+ENTITY_1[PLACE] has the epoch date ENTITY_2[DATE] a rotation period of ENTITY_3[ROTATIONPERIOD] .
+ENTITY_1[PLACE] has an epoch date ENTITY_2[DATE] its rotation period is ENTITY_3[ROTATIONPERIOD] .
+ENTITY_1[PLACE] has an epoch date ENTITY_2[DATE] the rotaional period is ENTITY_3[ROTATIONPERIOD] .
+ENTITY_1[PLACE] 's orbital period is ENTITY_2[ORBITALPERIOD] , and an apoapsis of ENTITY_3[APOAPSIS] .
+ENTITY_1[PLACE] has an apoapsis of ENTITY_3[APOAPSIS] and the orbital period of ENTITY_2[ORBITALPERIOD] .
+ENTITY_1[PLACE] , has an apoapsis of ENTITY_3[APOAPSIS] , and an orbital period of ENTITY_2[ORBITALPERIOD] .
+ENTITY_1[PLACE] , with a rotation period of ENTITY_2[ROTATIONPERIOD] , has an apoapsis of ENTITY_3[APOAPSIS] .
+The celestial body , ENTITY_1[PLACE] , has a rotation period of ENTITY_2[ROTATIONPERIOD] and an apoapsis of ENTITY_3[APOAPSIS] .
+ENTITY_1[PLACE] has an apoapsis of ENTITY_3[APOAPSIS] and a rotation period of ENTITY_2[ROTATIONPERIOD] .
+ENTITY_3[CITY] is part of the ENTITY_1[COUNTRY] of American where ENTITY_2[ETHNICGROUP] are one of the ethnic groups .
+ENTITY_3[CITY] is in the ENTITY_1[COUNTRY] , a country where one of the ethnic groups are ENTITY_2[ETHNICGROUP] .
+The ENTITY_2[ETHNICGROUP] are an ethnic group in the ENTITY_1[COUNTRY] , where ENTITY_3[CITY] can be found .
+Albany ,Oregon is located within the ENTITY_1[COUNTRY] ,where one of the ethnic groups is ENTITY_2[ETHNICGROUP] .
+ENTITY_2[ETHNICGROUP] are an ethnic group in the US , where ENTITY_3[CITY] is located .
+ENTITY_3[CITY] is part of the U.S. and one ethnic group in that country is ENTITY_2[ETHNICGROUP] .
+ENTITY_3[CITY] is in the ENTITY_1[COUNTRY] , where one of the ethnic groups is ENTITY_2[ETHNICGROUP] .
+The ENTITY_1[COUNTRY] is the location of ENTITY_3[CITY] and includes the ENTITY_2[ETHNICGROUP] among its ethnic groups .
+The ENTITY_1[COUNTRY] is the location of ENTITY_3[CITY] , and includes the ENTITY_2[ETHNICGROUP] among its ethnic groups .
+ENTITY_3[CITY] is located in the U.S. where one ethnic group is the ENTITY_2[ETHNICGROUP] .
+ENTITY_3[CITY] is located within the U.S. and ENTITY_2[ETHNICGROUP] are an ethnic group in that country .
+ENTITY_3[CITY] is located in the ENTITY_1[COUNTRY] , where ENTITY_2[ETHNICGROUP] are one of the ethnic groups .
+The ENTITY_1[COUNTRY] include the ethnic group of ENTITY_2[ETHNICGROUP] and is the location of ENTITY_3[CITY] .
+ENTITY_2[ETHNICGROUP] are an ethnic group in the ENTITY_1[COUNTRY] and ENTITY_3[CITY] is also in the same country .
+ENTITY_3[CITY] is in the ENTITY_1[COUNTRY] , where one of the ethnic groups are ENTITY_2[ETHNICGROUP] .
+ENTITY_3[CITY] is located within the ENTITY_1[COUNTRY] , home to a number of ethnic groups , including , Native Americans .
+The ENTITY_2[ETHNICGROUP] , the country where ENTITY_3[CITY] is located .
+ENTITY_3[CITY] is located in the ENTITY_1[COUNTRY] , where Native Americans are one of the ethnic groups .
+The ENTITY_1[COUNTRY] includes the ethnic group of Native Americans and is the location of ENTITY_3[CITY] .
+ENTITY_3[CITY] , ENTITY_1[COUNTRY] , the country where you will find an ethnic group called Native Americans .
+ENTITY_3[CITY] ENTITY_2[ETHNICGROUP] , where Native Americans are one of the ethnic groups .
+ENTITY_3[CITY] is part of the ENTITY_1[COUNTRY] where one of the ethnic groups are Native Americans .
+ENTITY_3[CITY] ENTITY_2[ETHNICGROUP] of America , where one of the ethnic groups are Native Americans .
+The ENTITY_1[COUNTRY] is the location of ENTITY_3[CITY] and includes the ENTITY_2[ETHNICGROUP] ethnic groups .
+Native Americans are an ethnic group in the ENTITY_1[COUNTRY] , where ENTITY_3[CITY] is located .
+ENTITY_2[ETHNICGROUP] of America which is the location of ENTITY_3[CITY] .
+ENTITY_3[CITY] , is located in the ENTITY_1[COUNTRY] , where Native Americans are an ethnic group .
+ENTITY_3[CITY] is located within the ENTITY_1[COUNTRY] , in which Native Americans are one of the ethnic groups .
+One of the ethnic groups in the ENTITY_1[COUNTRY] are the ENTITY_2[ETHNICGROUP] country is the location of ENTITY_3[CITY] .
+ENTITY_2[ETHNICGROUP] are an ethnic group in the ENTITY_1[COUNTRY] , which is the location of ENTITY_3[CITY] .
+ENTITY_3[CITY] in the ENTITY_1[COUNTRY] , the country where ENTITY_2[ETHNICGROUP] are an ethnic group .
+The ENTITY_1[COUNTRY] is the location of ENTITY_3[CITY] and the country contains the ethnic group of ENTITY_2[ETHNICGROUP] .
+ENTITY_3[CITY] is in the ENTITY_1[COUNTRY] which uses the ENTITY_2[LANGUAGE] .
+The ENTITY_1[COUNTRY] uses the ENTITY_2[LANGUAGE] and is where you will find ENTITY_3[CITY] .
+Albany ,Georgia is located in the ENTITY_1[COUNTRY] where English is one of the spoken ENTITY_2[LANGUAGE] .
+ENTITY_2[LANGUAGE] is spoken in the ENTITY_1[COUNTRY] , where ENTITY_3[CITY] can be found .
+ENTITY_3[CITY] is located within the ENTITY_1[COUNTRY] where the main ENTITY_2[LANGUAGE] spoken is English .
+The ENTITY_1[COUNTRY] is the location of ENTITY_3[CITY] , and uses the ENTITY_2[LANGUAGE] .
+The ENTITY_1[COUNTRY] , where ENTITY_2[LANGUAGE] is spoken , is home to ENTITY_3[CITY] .
+Albuquerque ,New Mexico is located in the ENTITY_1[COUNTRY] where English is one of the spoken ENTITY_2[LANGUAGE] .
+ENTITY_2[LANGUAGE] is spoken in the ENTITY_1[COUNTRY] , which is where ENTITY_3[CITY] is located .
+Angola ,Indiana is located in the ENTITY_1[COUNTRY] ,where English is the official ENTITY_2[LANGUAGE] .
+ENTITY_2[LANGUAGE] of the ENTITY_1[COUNTRY] , where you will find ENTITY_3[CITY] .
+ENTITY_3[CITY] is in the ENTITY_1[COUNTRY] where ENTITY_2[LANGUAGE] is spoken .
+ENTITY_3[CITY] is located in the ENTITY_1[COUNTRY] where ENTITY_2[PERSON] is a leader .
+ENTITY_3[CITY] is located within the ENTITY_1[COUNTRY] whose leader is ENTITY_2[PERSON] .
+ENTITY_3[CITY] , is located in the ENTITY_1[COUNTRY] , where ENTITY_2[PERSON] is leader .
+The leader of the ENTITY_1[COUNTRY] , where ENTITY_3[CITY] is located is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is a leader of the ENTITY_1[COUNTRY] where ENTITY_3[CITY] is located .
+ENTITY_3[CITY] is located in the ENTITY_1[COUNTRY] , where the leader is ENTITY_2[PERSON] .
+ENTITY_3[CITY] is located in the ENTITY_1[COUNTRY] where ENTITY_2[PERSON] is a leader .
+The ENTITY_1[BUILDING] leads ENTITY_3[CITY] , and is part of the ENTITY_2[ORGANISATION] .
+The ENTITY_1[BUILDING] , forms part of the ENTITY_2[ORGANISATION] , and leads ENTITY_3[CITY] .
+ENTITY_1[BUILDING] is part of ENTITY_2[ORGANISATION] and leads ENTITY_3[CITY] .
+ENTITY_3[CITY] is part of ENTITY_1[ADMINISTRATIVEREGION] ENTITY_2[COUNTRY] .
+Ann Arbor is located in ENTITY_1[ADMINISTRATIVEREGION] in the ENTITY_2[COUNTRY] of America .
+Ann Arbor is part of ENTITY_1[ADMINISTRATIVEREGION] in the U.S .
+The largest city of ENTITY_1[ADMINISTRATIVEREGION] is ENTITY_2[CITY] and ENTITY_3[CITY] part of the county as well .
+ENTITY_3[CITY] part of ENTITY_1[ADMINISTRATIVEREGION] , where ENTITY_2[CITY] the largest city .
+ENTITY_2[CITY] the largest city in ENTITY_1[ADMINISTRATIVEREGION] ( of which ENTITY_3[CITY] a part of ) , Texas .
+Dane Whitman , alter ego Black Knight , was created by the ENTITY_3[ETHNICGROUP] , ENTITY_2[PERSON] .
+Dane Whitman , a.k.a. Black Knight , was created by ENTITY_2[PERSON] (  ENTITY_3[ETHNICGROUP]  ) in the comics genre .
+Dane Whitman , a.k.a. Black Knight , was created by ENTITY_2[PERSON] (  ENTITY_3[ETHNICGROUP]  ) and considered to be in the comics genre .
+ENTITY_3[ALTERNATIVENAME] is the alternative name for the comic character , ENTITY_1[COMICSCHARACTER] was created by ENTITY_2[PERSON] .
+The comic book character ENTITY_3[ALTERNATIVENAME] Black Knight is also known as simply ENTITY_3[ALTERNATIVENAME] or the alter ego Black Knight , and was created by ENTITY_2[PERSON] .
+ENTITY_3[ALTERNATIVENAME] Black , also known as ENTITY_3[ALTERNATIVENAME] was created by ENTITY_2[PERSON] .
+ENTITY_1[PERSON] is an ENTITY_2[ETHNICGROUP] national who created ENTITY_3[AGENT] .
+ENTITY_3[AGENT] was created by ENTITY_2[ETHNICGROUP] , ENTITY_1[PERSON] .
+ENTITY_1[PERSON] is the ENTITY_2[ETHNICGROUP] national who created the character ENTITY_3[AGENT] .
+ENTITY_3[AGENT] was created by ENTITY_1[PERSON] , an ENTITY_2[ETHNICGROUP] .
+The ENTITY_2[ETHNICGROUP] ENTITY_1[PERSON] created the character ENTITY_3[AGENT] .
+The ENTITY_3[COMICSCHARACTER] Auron was created by ENTITY_1[PERSON] , an ENTITY_2[ETHNICGROUP] .
+ENTITY_2[ETHNICGROUP] , ENTITY_1[PERSON] , is the creator of the ENTITY_3[COMICSCHARACTER] , Auron .
+The ENTITY_2[ETHNICGROUP] ENTITY_1[PERSON] created the ENTITY_3[COMICSCHARACTER] Auron .
+The American ENTITY_1[COMICSCHARACTER] who created the character ENTITY_3[AGENT] .
+A ENTITY_2[COUNTRY] national , comic book writer , Roger McKenzie , is the creator of ENTITY_3[AGENT] .
+ENTITY_1[COMICSCHARACTER] is the creator of ENTITY_3[AGENT] .
+ENTITY_1[PERSON] is the ENTITY_2[ETHNICGROUP] creator of ENTITY_3[AGENT] .
+The ENTITY_3[AGENT] was created by ENTITY_1[PERSON] , who was an ENTITY_2[ETHNICGROUP] national .
+ENTITY_1[PERSON] is an ENTITY_2[ETHNICGROUP] who created the ENTITY_3[AGENT] .
+ENTITY_3[PERSON] is the creator of " The Arrow" , otherwise known as ENTITY_2[ALTERNATIVENAME] .
+Arrow , also known as ENTITY_2[ALTERNATIVENAME] , was created by ENTITY_3[PERSON] .
+Arrow , otherwise known as ENTITY_2[ALTERNATIVENAME] , was created by ENTITY_3[PERSON] .
+ENTITY_2[ALTERNATIVENAME] , aka the Arrow was created by ENTITY_3[PERSON] .
+ENTITY_1[COMICSCHARACTER] Arrow 's alter ego is ENTITY_2[ALTERNATIVENAME] , created by ENTITY_3[PERSON] .
+ENTITY_2[ALTERNATIVENAME] , aka the Arrow , was created by ENTITY_3[PERSON] .
+ENTITY_3[FOOD] comes from ENTITY_1[COUNTRY] where ENTITY_2[PERSON] leader .
+ENTITY_2[PERSON] who leads ENTITY_1[COUNTRY] , where ENTITY_3[FOOD] originates .
+ENTITY_3[FOOD] is a dish from the country of ENTITY_1[MUSICALARTIST] , where ENTITY_2[SETTLEMENT] is the capital .
+The capital of ENTITY_1[MUSICALARTIST] is ENTITY_2[SETTLEMENT] and ENTITY_3[FOOD] comes from there .
+ENTITY_2[SETTLEMENT] , ENTITY_1[MUSICALARTIST] is where ENTITY_3[FOOD] originates .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[MUSICALARTIST] where you will find ENTITY_3[FOOD] .
+ENTITY_3[FOOD] comes from ENTITY_1[MUSICALARTIST] , a country led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[FOOD] comes from ENTITY_1[MUSICALARTIST] where ENTITY_2[OFFICEHOLDER] is a leader .
+ENTITY_3[FOOD] comes from ENTITY_1[MUSICALARTIST] where ENTITY_2[OFFICEHOLDER] is a leader .
+ENTITY_2[OFFICEHOLDER] led ENTITY_1[MUSICALARTIST] boasts the popular ENTITY_3[FOOD] dish .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[MUSICALARTIST] where a popular dish is ENTITY_3[FOOD] .
+ENTITY_3[FOOD] is a dish from the country of ENTITY_1[MUSICALARTIST] , where ENTITY_2[OFFICEHOLDER] is a leader .
+ENTITY_3[FOOD] comes from ENTITY_1[MUSICALARTIST] where ENTITY_2[OFFICEHOLDER] is a leader .
+ENTITY_3[FOOD] is a dish from ENTITY_1[MUSICALARTIST] where ENTITY_2[OFFICEHOLDER] is the Leader .
+ENTITY_3[FOOD] can be found in ENTITY_1[COUNTRY] where ENTITY_2[CITY] is the capital .
+ENTITY_2[CITY] is the capital of ENTITY_1[COUNTRY] where ENTITY_3[FOOD] is a traditional accompaniment .
+ENTITY_1[COUNTRY] ( capital : ENTITY_2[CITY]  ) is the origin of ENTITY_3[FOOD] .
+ENTITY_3[FOOD] is a traditional ENTITY_1[COUNTRY] sauce where the leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is a leader from ENTITY_1[COUNTRY] where ENTITY_3[FOOD] is a traditional sauce .
+ENTITY_3[FOOD] is a food dish found in ENTITY_1[POPULATEDPLACE] where the ENTITY_2[SETTLEMENT] are an ethnic group .
+ENTITY_3[FOOD] is a food found in ENTITY_1[POPULATEDPLACE] ; the ENTITY_2[SETTLEMENT] are one of the ethnic groups found in the country .
+ENTITY_3[FOOD] is a food found in ENTITY_1[POPULATEDPLACE] where an ethnic group is ENTITY_2[SETTLEMENT] .
+ENTITY_2[ETHNICGROUP] is one of the ethnic groups in ENTITY_1[POPULATEDPLACE] , where the dish ENTITY_3[FOOD] can be found .
+The country of ENTITY_3[FOOD] is ENTITY_1[POPULATEDPLACE] , where the ENTITY_2[ETHNICGROUP] are an ethnic group .
+ENTITY_1[POPULATEDPLACE] where the ENTITY_1[POPULATEDPLACE] ENTITY_2[ORGANISATION] are an ethnic group is the origin of ENTITY_3[FOOD] .
+ENTITY_3[FOOD] is a food found in ENTITY_1[POPULATEDPLACE] , where the ENTITY_1[POPULATEDPLACE] ENTITY_2[ORGANISATION] are an ethnic group .
+ENTITY_3[FOOD] originates from ENTITY_1[POPULATEDPLACE] where the ENTITY_1[POPULATEDPLACE] ENTITY_2[ORGANISATION] are an ethnic group .
+ENTITY_3[COMPANY] were created by ENTITY_1[COMPANY] which was founded in ENTITY_2[CITY] .
+ENTITY_1[COMPANY] , founded in ENTITY_2[CITY] , is the creator of ENTITY_3[COMPANY] .
+ENTITY_3[FOOD] and ENTITY_1[FOOD] are related and ENTITY_2[SPECIES] can be used as a variation in pakora .
+ENTITY_1[FOOD] , similar to ENTITY_3[FOOD] , can include ENTITY_2[SPECIES] .
+The dish ENTITY_3[FOOD] is related to ENTITY_1[FOOD] and ENTITY_2[SPECIES] can be used in it .
+ENTITY_3[FOOD] is from The ENTITY_1[MUSICALARTIST] , which includes the ENTITY_2[ORGANISATION] people .
+ENTITY_2[ORGANISATION] are a group in the ENTITY_1[MUSICALARTIST] where ENTITY_3[FOOD] is eaten .
+In the country of the ENTITY_1[MUSICALARTIST] they speak ENTITY_2[LANGUAGE] and a common dish is ENTITY_3[FOOD] .
+ENTITY_3[FOOD] comes from the ENTITY_1[MUSICALARTIST] , one of the languages used in the ENTITY_1[MUSICALARTIST] is ENTITY_2[LANGUAGE] .
+ENTITY_3[FOOD] comes from the ENTITY_1[MUSICALARTIST] and ENTITY_2[LANGUAGE] is one of the languages spoken there .
+ENTITY_2[LANGUAGE] is one of the languages in the ENTITY_1[MUSICALARTIST] where ENTITY_3[FOOD] comes from .
+The ENTITY_3[FOOD] dish can be found in the ENTITY_1[MUSICALARTIST] where one of the languages used is ENTITY_2[LANGUAGE] .
+ENTITY_2[SPECIES] is the language of the ENTITY_1[MUSICALARTIST] where ENTITY_3[FOOD] comes from .
+ENTITY_2[SPECIES] is the language of the ENTITY_1[MUSICALARTIST] where ENTITY_3[FOOD] is eaten .
+The ENTITY_1[MUSICALARTIST] , where ENTITY_2[SPECIES] is spoken , is the country ENTITY_3[FOOD] comes from .
+ENTITY_3[FOOD] is a dish from the ENTITY_1[MUSICALARTIST] , where English is spoken .
+The ENTITY_3[FOOD] dish can be found in the ENTITY_1[MUSICALARTIST] where the language is ENTITY_2[SPECIES] .
+In the ENTITY_1[MUSICALARTIST] , where ENTITY_3[FOOD] comes from , the spoken language is ENTITY_2[LANGUAGE] .
+ENTITY_3[FOOD] comes from the ENTITY_1[MUSICALARTIST] which is where ENTITY_2[LANGUAGE] is spoken .
+ENTITY_3[FOOD] is eaten in the ENTITY_1[MUSICALARTIST] , where one of the languages spoken is ENTITY_2[LANGUAGE] .
+ENTITY_3[FOOD] is a variation of ENTITY_1[FOOD] which is a variation of ENTITY_2[SPECIES] .
+ENTITY_3[FOOD] and ENTITY_1[FOOD] ( and its variation of ENTITY_2[SPECIES]  ) are kinds of the same dish .
+ENTITY_1[FOOD] is a variation of ENTITY_2[SPECIES] and ENTITY_3[FOOD] .
+English is one of the ENTITY_2[LANGUAGE] spoken in ENTITY_1[CITY] where ENTITY_3[FOOD] comes from .
+ENTITY_3[FOOD] is a regional ENTITY_1[CITY] cuisine , where ENTITY_2[LANGUAGE] .
+English is one of the ENTITY_2[LANGUAGE] spoken in ENTITY_1[CITY] where ENTITY_3[FOOD] is a dish .
+ENTITY_3[FOOD] is a dish from ENTITY_1[CITY] where ENTITY_2[LANGUAGE] is spoken .
+ENTITY_3[FOOD] is a popular dish in ENTITY_1[CITY] where they speak ENTITY_2[LANGUAGE] .
+ENTITY_3[FOOD] is from ENTITY_1[CITY] whose leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[FOOD] is from the ENTITY_1[CITY] region where ENTITY_2[OFFICEHOLDER] is a leader .
+ENTITY_3[FOOD] is from ENTITY_1[CITY] where ENTITY_2[OFFICEHOLDER] is the leader .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[CITY] where ENTITY_3[FOOD] is a popular dish .
+ENTITY_3[FOOD] is a dish from ENTITY_1[CITY] and ENTITY_2[OFFICEHOLDER] is it 's leader .
+ENTITY_3[FOOD] and ENTITY_1[SPECIES] ( which has ENTITY_2[FOOD] as an ingredient ) are variations of the same dish .
+ENTITY_2[FOOD] is an ingredient in ENTITY_1[SPECIES] and ENTITY_3[FOOD] is a variation of this dish .
+ENTITY_3[FOOD] is a variation of the dish ENTITY_1[SPECIES] , of which ENTITY_2[FOOD] is an ingredient .
+The ENTITY_2[CURRENCY] is the currency of ENTITY_1[COUNTRY] where ENTITY_3[PERSON] comes from .
+In ENTITY_1[COUNTRY] , people pay for the traditional ENTITY_3[PERSON] dish with the ENTITY_2[CURRENCY] .
+ENTITY_3[PERSON] is a traditional dish from ENTITY_1[COUNTRY] , where the ENTITY_2[CURRENCY] is used .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] which is where ENTITY_3[FOOD] is from .
+ENTITY_3[FOOD] is from ENTITY_1[COUNTRY] whose ENTITY_2[LANGUAGE] is Spanish .
+ENTITY_1[COUNTRY] (  ENTITY_2[LANGUAGE] : Spanish ) is the origin of the dish , ENTITY_3[FOOD] .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] where ENTITY_3[PERSON] is a traditional dish .
+ENTITY_3[PERSON] is a traditional dish from ENTITY_1[COUNTRY] where ENTITY_2[LANGUAGE] is spoken .
+ENTITY_3[PERSON] originates from ENTITY_2[LANGUAGE] ENTITY_1[COUNTRY] .
+ENTITY_3[FOOD] originates from the country of ENTITY_1[COUNTRY] where the leader is ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+ENTITY_3[FOOD] originiates from ENTITY_1[COUNTRY] and ENTITY_2[PERSON] it 's leader .
+ENTITY_3[FOOD] is from ENTITY_1[COUNTRY] and ENTITY_2[PERSON] it 's leader .
+The ENTITY_1[SPECIES] belongs to the family of ENTITY_2[SPECIES] and is an ingredient in ENTITY_3[FOOD] .
+An ingredient of ENTITY_3[FOOD] is ENTITY_1[SPECIES] which belongs to the ENTITY_2[SPECIES] family .
+The ENTITY_1[SPECIES] comes from the ENTITY_2[SPECIES] family and is an ingredient in ENTITY_3[FOOD] .
+ENTITY_1[SPECIES] belongs to the genus ENTITY_2[SPECIES] and is an ingredient of ENTITY_3[FOOD] .
+ENTITY_1[SPECIES] belongs to the genus ENTITY_2[SPECIES] and is an ingredient in ENTITY_3[FOOD] .
+ENTITY_2[ORGANISATION] are one of the ethnic groups in the ENTITY_1[COUNTRY] where the dish known as ENTITY_3[FOOD] can be found .
+ENTITY_3[FOOD] is from the ENTITY_1[COUNTRY] ( along with ethnic ENTITY_2[ORGANISATION]  ) .
+A ENTITY_3[FOOD] is a dessert from the ENTITY_1[COUNTRY] which has ENTITY_2[ETHNICGROUP] one of its ethnic groups of the country .
+ENTITY_3[FOOD] and the ethnic ENTITY_2[ETHNICGROUP] .
+In the ENTITY_1[COUNTRY] Native Americans are an ethnic group and ENTITY_3[FOOD] is a dish found there .
+The ENTITY_3[MEANOFTRANSPORTATION] is owned by ENTITY_1[PERSON] which is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] is the owner of the ENTITY_3[MEANOFTRANSPORTATION] and are located in ENTITY_2[SETTLEMENT] .
+The ENTITY_3[MEANOFTRANSPORTATION] is owned by ENTITY_1[PERSON] who are located in ENTITY_2[SETTLEMENT] .
+The ENTITY_3[WORK] , the ENTITY_1[MEANOFTRANSPORTATION] , and the ENTITY_2[MEANOFTRANSPORTATION] are similar and therefore related means of transport .
+The DeSoto is related to the ENTITY_2[MEANOFTRANSPORTATION] , and the ENTITY_3[WORK] and the ENTITY_1[MEANOFTRANSPORTATION] are related means of transportation .
+The ENTITY_3[WORK] , ENTITY_1[MEANOFTRANSPORTATION] and ENTITY_2[MEANOFTRANSPORTATION] are all related .
+The Delta 11 , launched from ENTITY_2[BUILDING] , is comparable with the ENTITY_1[MEANOFTRANSPORTATION] .
+The rocket ENTITY_3[MEANOFTRANSPORTATION] is comparable to ENTITY_1[MEANOFTRANSPORTATION] which was launched at the ENTITY_2[BUILDING] .
+The ENTITY_3[MEANOFTRANSPORTATION] is similar to the ENTITY_1[MEANOFTRANSPORTATION] rocket , which was launched at the ENTITY_2[BUILDING] .
+The ENTITY_3[MEANOFTRANSPORTATION] is comparable with the ENTITY_1[MEANOFTRANSPORTATION] whose launch site was at ENTITY_2[ARCHITECTURALSTRUCTURE] .
+The rocket ENTITY_3[MEANOFTRANSPORTATION] is comparable to the ENTITY_1[MEANOFTRANSPORTATION] which was launched from the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+The ENTITY_1[MEANOFTRANSPORTATION] , which is comparable to ENTITY_3[MEANOFTRANSPORTATION] Antares , was launched at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+The ENTITY_3[MEANOFTRANSPORTATION] was launched from the ENTITY_1[INFRASTRUCTURE] launchpad which is found at the ENTITY_2[ORGANISATION] .
+ENTITY_3[MEANOFTRANSPORTATION] was launched at ENTITY_1[INFRASTRUCTURE] at the ENTITY_2[ORGANISATION] .
+The launch site of the ENTITY_3[MEANOFTRANSPORTATION] was ENTITY_1[INFRASTRUCTURE] launchpad at the ENTITY_2[ORGANISATION] .
+The ENTITY_3[MEANOFTRANSPORTATION] , ENTITY_2[MEANOFTRANSPORTATION] and the ENTITY_1[MEANOFTRANSPORTATION] are related means of transportation .
+The ENTITY_3[MEANOFTRANSPORTATION] and the ENTITY_1[MEANOFTRANSPORTATION] ( which is related to the ENTITY_2[MEANOFTRANSPORTATION]  ) are similar means of transport .
+ENTITY_1[MEANOFTRANSPORTATION] and ENTITY_2[MEANOFTRANSPORTATION] are connected. The ENTITY_3[MEANOFTRANSPORTATION] and the ENTITY_1[MEANOFTRANSPORTATION] are connected .
+The ENTITY_3[MEANOFTRANSPORTATION] and the ENTITY_1[MEANOFTRANSPORTATION] are similar means of transport and the latter is also related to the ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_1[MEANOFTRANSPORTATION] , ENTITY_2[MEANOFTRANSPORTATION] and the ENTITY_1[MEANOFTRANSPORTATION] are all cars and as such , are related means of transport .
+The ENTITY_1[MEANOFTRANSPORTATION] , which is a similar means of transport to the ENTITY_3[MEANOFTRANSPORTATION] , is also a related means of transport to the ENTITY_2[MEANOFTRANSPORTATION] .
+The icebreaker ENTITY_3[MEANOFTRANSPORTATION] was built in ENTITY_1[COUNTRY] where ENTITY_2[OFFICEHOLDER] is a leader .
+The icebreaker , the ENTITY_3[MEANOFTRANSPORTATION] , is built by ENTITY_1[COUNTRY] , where the leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is a leader in ENTITY_1[COUNTRY] where the icebreaker ship ENTITY_3[MEANOFTRANSPORTATION] was built .
+ENTITY_2[COMPANY] is the parent company of , the ENTITY_1[COMPANY] Co. which is the builder of the ENTITY_3[MEANOFTRANSPORTATION] .
+ENTITY_2[COMPANY] is the parent company of the ENTITY_1[COMPANY] Co which built the ENTITY_3[MEANOFTRANSPORTATION] .
+The ENTITY_3[MEANOFTRANSPORTATION] was built by ENTITY_1[COMPANY] , the parent company of which , is ENTITY_2[COMPANY] .
+ENTITY_3[MEANOFTRANSPORTATION] , ENTITY_1[MEANOFTRANSPORTATION] and the ENTITY_2[MEANOFTRANSPORTATION] are related types of transportation .
+The ENTITY_1[MEANOFTRANSPORTATION] is related to the ENTITY_2[MEANOFTRANSPORTATION] and the ENTITY_3[MEANOFTRANSPORTATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] and the ENTITY_1[MEANOFTRANSPORTATION] are related vehicles. The ENTITY_3[MEANOFTRANSPORTATION] and ENTITY_1[MEANOFTRANSPORTATION] are also related means of transport .
+The ENTITY_3[MEANOFTRANSPORTATION] is powered by a ENTITY_1[COMPANY] engine in ENTITY_2[CITY] .
+The ENTITY_3[MEANOFTRANSPORTATION] is powered by ENTITY_1[COMPANY] made engines , located in ENTITY_2[CITY] .
+The ENTITY_3[MEANOFTRANSPORTATION] is powered by a ENTITY_1[COMPANY] engine which was created in the city of ENTITY_2[CITY] .
+The ENTITY_3[MEANOFTRANSPORTATION] is powered by an engine made by ENTITY_1[COMPANY] which is owned by ENTITY_2[COMPANY] .
+The ENTITY_3[MEANOFTRANSPORTATION] is powered by the ENTITY_2[COMPANY] owned , ENTITY_1[COMPANY] , made engines .
+The ENTITY_3[MEANOFTRANSPORTATION] is powered by ENTITY_2[COMPANY] company ENTITY_1[COMPANY] made engines .
+ENTITY_2[COMPANY] is the parent co. of ENTITY_1[COMPANY] who made an engine for the ENTITY_3[MEANOFTRANSPORTATION] .
+The ENTITY_3[MEANOFTRANSPORTATION] is powered by engines made by ENTITY_1[COMPANY] whose parent company is ENTITY_2[COMPANY] .
+The parent company of ENTITY_1[COMPANY] , who make the engines that power the ENTITY_3[MEANOFTRANSPORTATION] , is ENTITY_2[COMPANY] .
+ENTITY_1[COMPANY] is located in ENTITY_2[COUNTRY] and built the ENTITY_3[MEANOFTRANSPORTATION] .
+ENTITY_1[COMPANY] is found in ENTITY_2[COUNTRY] and they built the ENTITY_3[MEANOFTRANSPORTATION] .
+The ENTITY_3[MEANOFTRANSPORTATION] was built by ENTITY_1[COMPANY] , who are located in ENTITY_2[COUNTRY] .
+The ENTITY_1[INFRASTRUCTURE] is associated with the ENTITY_2[MEANOFTRANSPORTATION] rocket , and was the launch site of the ENTITY_3[MEANOFTRANSPORTATION] .
+ENTITY_2[MEANOFTRANSPORTATION] and ENTITY_3[MEANOFTRANSPORTATION] were launched at ENTITY_1[INFRASTRUCTURE] .
+The ENTITY_2[MEANOFTRANSPORTATION] and the ENTITY_3[MEANOFTRANSPORTATION] were launched from the ENTITY_1[INFRASTRUCTURE] .
+Located in ENTITY_2[CITY] , ENTITY_1[COMPANY] , built the ENTITY_3[MEANOFTRANSPORTATION] .
+The ENTITY_3[MEANOFTRANSPORTATION] was built on the ENTITY_1[COMPANY] , the location of which , is in ENTITY_2[CITY] .
+The ENTITY_1[COMPANY] is located in ENTITY_2[CITY] and bullit the ENTITY_3[MEANOFTRANSPORTATION] .
+ENTITY_2[PERSON] is a key person at ENTITY_1[COMPANY] , the operator of the icebreaker , ENTITY_3[MEANOFTRANSPORTATION] .
+ENTITY_2[PERSON] is a key person at the company ENTITY_1[COMPANY] who operate the ENTITY_3[MEANOFTRANSPORTATION] .
+ENTITY_2[PERSON] is a key emplyee at ENTITY_1[COMPANY] which operates the icebreaker ENTITY_3[MEANOFTRANSPORTATION] .
+The ENTITY_3[MEANOFTRANSPORTATION] is assembled in the ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[PERSON] .
+ENTITY_3[MEANOFTRANSPORTATION] was assembled in the ENTITY_1[COUNTRY] which is ruled by Queen ENTITY_2[PERSON] .
+The ENTITY_3[MEANOFTRANSPORTATION] is assembled in the ENTITY_1[COUNTRY] where the ruler is Queen ENTITY_2[PERSON] .
+The ENTITY_3[PERSON] came from the U.S. the capital city of which is ENTITY_2[SETTLEMENT]
+ENTITY_3[PERSON] originates from the ENTITY_1[COUNTRY] which has ENTITY_2[SETTLEMENT] as its capital .
+ENTITY_2[SETTLEMENT] is the capital of the ENTITY_1[COUNTRY] , the country where the ENTITY_3[PERSON] is from .
+The ENTITY_3[PERSON] 11 comes from the ENTITY_1[COUNTRY] where ENTITY_2[ETHNICGROUP] live .
+ENTITY_2[ETHNICGROUP] live in the U.S , the home of The ENTITY_3[PERSON] .
+People from the US are called ENTITY_2[ETHNICGROUP] and ENTITY_3[PERSON] is from the ENTITY_1[COUNTRY] .
+ENTITY_3[PERSON] originates from the ENTITY_1[COUNTRY] , of which ENTITY_2[ETHNICGROUP] are an ethnic group .
+ENTITY_3[PERSON] came from the ENTITY_1[COUNTRY] , a country where ENTITY_2[ETHNICGROUP] are one of the ethnic groups .
+The ENTITY_3[PERSON] is from the ENTITY_1[COUNTRY] , where ENTITY_2[ETHNICGROUP] are one of the ethnic groups .
+The ENTITY_3[MEANOFTRANSPORTATION] hails from the US , where ENTITY_2[ETHNICGROUP] are an ethnic group .
+ENTITY_3[MEANOFTRANSPORTATION] originated in the ENTITY_1[COUNTRY] , a country where the ENTITY_2[ETHNICGROUP] are an ethnic group .
+ENTITY_3[MEANOFTRANSPORTATION] hails from the US where the ENTITY_2[ETHNICGROUP] are one of the country 's ethnic groups .
+ENTITY_3[MEANOFTRANSPORTATION] hails from the ENTITY_1[COUNTRY] , the leader of which , is titled , ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+The U.S. is the origin of the ENTITY_3[MEANOFTRANSPORTATION] and has the President as its leader .
+ENTITY_3[MEANOFTRANSPORTATION] hails from the US which is led by the ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+The ENTITY_3[PLACE] is found in the ENTITY_1[ORGANISATION] which is located in ENTITY_2[ADMINISTRATIVEREGION] .
+The ENTITY_3[PLACE] is located in the district of the ENTITY_1[ORGANISATION] which is located ENTITY_2[ADMINISTRATIVEREGION] .
+The ENTITY_3[PLACE] is in the ENTITY_1[ORGANISATION] in ENTITY_2[ADMINISTRATIVEREGION] .
+The ENTITY_3[PLACE] is located in Izmir , ENTITY_1[COUNTRY] , where the capital is ENTITY_2[CITY] .
+The ENTITY_3[PLACE] is located in İzmir , ENTITY_1[COUNTRY] which capital is ENTITY_2[CITY] .
+The ENTITY_3[PLACE] is found in ENTITY_1[COUNTRY] where the currency is the T ENTITY_2[CURRENCY]
+The ENTITY_3[PLACE] is in ENTITY_1[COUNTRY] , where the currency ENTITY_2[CURRENCY] .
+The ENTITY_3[PLACE] is in ENTITY_1[COUNTRY] which largest city is ENTITY_2[CITY] .
+ENTITY_2[CITY] is the largest city in ENTITY_1[COUNTRY] , where the ENTITY_3[PLACE] is located .
+ENTITY_1[PERSON] , who represented ENTITY_2[ADMINISTRATIVEREGION] , ended his career on ENTITY_3[DATE] .
+ENTITY_1[PERSON] , who represented ENTITY_2[ADMINISTRATIVEREGION] , ended his career ENTITY_3[DATE]
+ENTITY_1[PERSON] represented ENTITY_2[ADMINISTRATIVEREGION] and ended his political career are ENTITY_3[DATE]
+ENTITY_1[PERSON] , who died in ENTITY_3[CITY] , represented ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[PERSON] ,who represented ENTITY_2[ADMINISTRATIVEREGION] , died in ENTITY_3[CITY] .
+ENTITY_1[PERSON] , who represented ENTITY_2[ADMINISTRATIVEREGION] , died in ENTITY_3[CITY] .
+ENTITY_1[PERSON] represented ENTITY_2[ADMINISTRATIVEREGION] where he worked as ENTITY_3[PERSON] .
+ENTITY_1[PERSON] , represented Vermon , and worked as the ENTITY_3[PERSON] ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[PERSON] represented the State of ENTITY_2[ADMINISTRATIVEREGION] where he worked as the secretary of the State .
+ENTITY_1[PERSON] represented ENTITY_2[ADMINISTRATIVEREGION] , whose largest city is ENTITY_3[CITY] .
+ENTITY_1[PERSON] represented ENTITY_2[ADMINISTRATIVEREGION] , the largest city of which , is ENTITY_3[CITY] ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_3[PERSON] battled in the ENTITY_1[EVENT] in which ENTITY_2[OFFICEHOLDER] was a commander .
+ENTITY_2[OFFICEHOLDER] was a commander in the ENTITY_1[EVENT] , which ENTITY_3[PERSON] fought in .
+ENTITY_3[PERSON] battled in the ENTITY_1[EVENT] , the war in which ENTITY_2[OFFICEHOLDER] was a commander .
+ENTITY_3[PERSON] fought in battles in the ENTITY_1[EVENT] , a war ENTITY_2[PERSON] was part of , as a commander .
+ENTITY_3[PERSON] fought in , and ENTITY_2[PERSON] was a commander in , the ENTITY_1[EVENT] .
+ENTITY_3[PERSON] served in the ENTITY_1[EVENT] , commanded by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] was born in ENTITY_1[COUNTRY] , where ENTITY_1[COUNTRY] ENTITY_2[SPECIES] is the language spoken .
+ENTITY_1[COUNTRY] was the birthplace of ENTITY_3[PERSON] whose language is ENTITY_1[COUNTRY] ENTITY_2[SPECIES] .
+ENTITY_1[COUNTRY] n born ENTITY_3[PERSON] speaks ENTITY_1[COUNTRY] ENTITY_2[SPECIES] which is the language of ENTITY_1[COUNTRY] .
+ENTITY_3[PERSON] died in ENTITY_1[COUNTRY] , the country led by , ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[PERSON] 's place of death was in ENTITY_1[COUNTRY] , a country which is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[PERSON] died in ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+Both ENTITY_3[PERSON] and Robert .E. Lee ( commander ) were at the ENTITY_1[EVENT] .
+ENTITY_3[PERSON] fought in the ENTITY_1[EVENT] , where ENTITY_2[PERSON] was a commander .
+ENTITY_2[PERSON] was commander in the ENTITY_1[EVENT] in which ENTITY_3[PERSON] also fought .
+ENTITY_3[PERSON] took part in the ENTITY_1[EVENT] , which was part of the ENTITY_2[EVENT] conflict .
+The ENTITY_1[EVENT] was part of the ENTITY_2[EVENT] and one of the men who fought in that battle was ENTITY_3[PERSON] .
+ENTITY_1[EVENT] was part of the ENTITY_2[EVENT] and one of its participants was ENTITY_3[PERSON] .
+ENTITY_2[PERSON] was a commander in the ENTITY_1[EVENT] where ENTITY_3[PERSON] also fought .
+ENTITY_2[PERSON] was a commander at the ENTITY_1[EVENT] , a battle ENTITY_3[PERSON] fought in .
+ENTITY_2[PERSON] was one commander at the ENTITY_1[EVENT] and ENTITY_3[PERSON] fought in this same battle .
+ENTITY_3[PERSON] was born in the ENTITY_1[COUNTRY] , where the ENTITY_2[CURRENCY] is the currency .
+ENTITY_3[PERSON] was born in the ENTITY_1[COUNTRY] , where the currency is the ENTITY_2[CURRENCY] .
+The ENTITY_2[CURRENCY] is the currency in the ENTITY_1[COUNTRY] where ENTITY_3[PERSON] was born .
+ENTITY_3[PERSON] comes from the ENTITY_1[COUNTRY] where the ENTITY_2[CURRENCY] is the currency .
+ENTITY_3[PERSON] is from the ENTITY_1[COUNTRY] , whose currency is the ENTITY_2[CURRENCY] .
+ENTITY_3[OFFICEHOLDER] 's country is the ENTITY_1[COUNTRY] where the currency is the ENTITY_2[CURRENCY] .
+ENTITY_3[OFFICEHOLDER] is a resident of ENTITY_1[COUNTRY] which uses the ENTITY_2[CURRENCY] as its currency. .
+ENTITY_3[OFFICEHOLDER] comes from the ENTITY_1[COUNTRY] where the currency is the ENTITY_2[CURRENCY] .
+ENTITY_2[OFFICEHOLDER] is the leader of the ENTITY_1[COUNTRY] where ENTITY_3[PERSON] was born .
+ENTITY_3[PERSON] was born in the ENTITY_1[COUNTRY] where the leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[PERSON] was born in the ENTITY_1[COUNTRY] which is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[OFFICEHOLDER] lives in The ENTITY_1[COUNTRY] whose leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[OFFICEHOLDER] is from the ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[OFFICEHOLDER] 's country is the ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[OFFICEHOLDER] is a member of the Greek ENTITY_1[ORGANISATION] Party , whose colour is ENTITY_2[COLOUR] .
+ENTITY_3[OFFICEHOLDER] was a member of the ENTITY_1[ORGANISATION] and ENTITY_2[COLOUR] is their colour .
+ENTITY_3[OFFICEHOLDER] is part of the ENTITY_1[ORGANISATION] whose color is ENTITY_2[COLOUR] .
+ENTITY_2[OFFICEHOLDER] is a commander in the ENTITY_1[ORGANISATION] , which ENTITY_3[PERSON] was a member of .
+ENTITY_3[PERSON] served in the ENTITY_1[ORGANISATION] which is commanded by ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[PERSON] was in the ENTITY_1[ORGANISATION] ; where ENTITY_2[OFFICEHOLDER] is the commander .
+ENTITY_3[PERSON] died in ENTITY_1[CITY] , which is part of the ENTITY_2[COUNTRY] .
+ENTITY_3[PERSON] died at ENTITY_1[CITY] , in the ENTITY_2[COUNTRY] .
+ENTITY_3[PERSON] died in ENTITY_1[CITY] ENTITY_2[COUNTRY] .
+ENTITY_3[PERSON] 's nationality is ENTITY_1[COUNTRY] , where one of the ethnic groups , is ENTITY_2[ETHNICGROUP] .
+The ENTITY_2[ETHNICGROUP] are an ethnic group in ENTITY_1[COUNTRY] , the country of which ENTITY_3[PERSON] is a national .
+ENTITY_3[PERSON] is a Polish national where the ENTITY_2[SPECIES] is spoken .
+ENTITY_3[PERSON] is a national of ENTITY_1[COUNTRY] where the ENTITY_2[SPECIES] is spoken .
+ENTITY_3[PERSON] is a national of ENTITY_1[COUNTRY] , where the ENTITY_2[SPECIES] is spoken .
+ENTITY_3[PERSON] is from ENTITY_1[COUNTRY] , where they speak Polish .
+The ENTITY_2[LANGUAGE] is used in ENTITY_1[COUNTRY] , the country ENTITY_3[PERSON] is a national of .
+ENTITY_3[PERSON] is ENTITY_2[LANGUAGE] people in ENTITY_1[COUNTRY] speak Polish .
+ENTITY_3[OFFICEHOLDER] is a member of the ENTITY_1[ORGANISATION] which uses ENTITY_2[COLOUR] as one of its colours .
+ENTITY_3[OFFICEHOLDER] is a member of the ENTITY_1[ORGANISATION] which uses the colour ENTITY_2[COLOUR] .
+ENTITY_3[OFFICEHOLDER] is a member of the ENTITY_1[ORGANISATION] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+A member of the ENTITY_1[ORGANISATION] is ENTITY_3[OFFICEHOLDER] . The leader of that party is ENTITY_2[OFFICEHOLDER] .
+The leader of the ENTITY_1[ORGANISATION] is called ENTITY_2[OFFICEHOLDER] and ENTITY_3[OFFICEHOLDER] is also a member .
+ENTITY_3[PERSON] is from ENTITY_1[COUNTRY] , where the leader is , ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+ENTITY_3[PERSON] is a national of ENTITY_1[COUNTRY] whose leader is Felipe VI .
+ENTITY_3[PERSON] was born in the ENTITY_1[COUNTRY] , where one of the ethnic groups , is ENTITY_2[ORGANISATION] .
+ENTITY_3[PERSON] was born in the ENTITY_1[COUNTRY] were ENTITY_2[ORGANISATION] are an ethnic group .
+ENTITY_3[PERSON] was born in the ENTITY_1[COUNTRY] ; where ENTITY_2[ORGANISATION] are an ethnic group .
+ENTITY_3[PERSON] is from ENTITY_1[ADMINISTRATIVEREGION] where ENTITY_2[CITY] is the largest city .
+ENTITY_2[CITY] is the largest city in ENTITY_3[PERSON] 's state of ENTITY_1[ADMINISTRATIVEREGION] .
+ENTITY_3[PERSON] was from ENTITY_1[ADMINISTRATIVEREGION] , whose largest city is ENTITY_2[CITY] .
+The ENTITY_2[ORGANISATION] has ENTITY_3[SOCCERCLUB] . , ( who have been champions ) and ENTITY_1[SOCCERCLUB] among its competing teams .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] , which ENTITY_3[SOCCERCLUB] were once the champions of .
+In the ENTITY_2[ORGANISATION] , ENTITY_1[SOCCERCLUB] play and the champions are ENTITY_3[SOCCERCLUB] .
+ENTITY_2[MANAGER] is the manager of ENTITY_1[SOCCERCLUB] which has ENTITY_3[NUMBEROFMEMBERS] members .
+ENTITY_2[MANAGER] was the manager of ENTITY_1[SOCCERCLUB] , it has ENTITY_3[NUMBEROFMEMBERS] members .
+ENTITY_1[SOCCERCLUB] , which has got ENTITY_3[NUMBEROFMEMBERS] members , was managed by ENTITY_2[MANAGER] .
+The manager of ENTITY_1[SOCCERCLUB] , who play in the ENTITY_3[SPORTSSEASON] , is ENTITY_2[MANAGER] .
+ENTITY_1[SOCCERCLUB] , ( managed by ENTITY_2[MANAGER]  ) , played in the ENTITY_3[SPORTSSEASON] .
+ENTITY_2[MANAGER] was the manager of ENTITY_1[SOCCERCLUB] and they participated in the ENTITY_3[SPORTSSEASON] .
+ENTITY_1[SOCCERCLUB] has got ENTITY_2[NUMBEROFMEMBERS] members and are in season ENTITY_2[NUMBEROFMEMBERS]
+ENTITY_1[SOCCERCLUB] has got ENTITY_2[NUMBEROFMEMBERS] members , he played in the ENTITY_3[YEAR] season .
+ENTITY_1[SOCCERCLUB] , has ENTITY_2[NUMBEROFMEMBERS] members , and was in the ENTITY_3[YEAR] season .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] , the capital of which is ENTITY_2[CITY] .
+The ground of ENTITY_3[SOCCERCLUB] is located near ENTITY_2[CITY] , capital of ENTITY_1[COUNTRY] .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] , which has ENTITY_2[CITY] as its capital .
+ENTITY_2[POPULATEDPLACE] inhabit ENTITY_1[COUNTRY] where the ground of ENTITY_3[SOCCERCLUB] is located .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] , where the people who live there are called ENTITY_2[POPULATEDPLACE] .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] , where ENTITY_2[POPULATEDPLACE] live .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] where ENTITY_2[OFFICEHOLDER] is the leader .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] , where the leader is ENTITY_2[OFFICEHOLDER] .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] , which has the leader ENTITY_2[OFFICEHOLDER] .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] , where the official ENTITY_2[LANGUAGE] is Italian .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] , where unsurprisingly they speak ENTITY_2[LANGUAGE] .
+The ground of ENTITY_3[SOCCERCLUB] is located in ENTITY_1[COUNTRY] where the official ENTITY_2[LANGUAGE] is Italian .
+ENTITY_1[PERSON] , who manages ENTITY_3[SOCCERCLUB] , played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] and manages ENTITY_3[SOCCERCLUB] .
+ENTITY_1[PERSON] manages ENTITY_3[SOCCERCLUB] and plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SOCCERCLUB] and he manages ENTITY_3[SOCCERCLUB] .
+ENTITY_1[PERSON] manages ENTITY_3[SOCCERCLUB] and plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] and manages ENTITY_3[SOCCERCLUB] .
+ENTITY_1[PERSON] , who manages ENTITY_3[SOCCERCLUB] , was once a player for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] and has been the manager of ENTITY_3[SOCCERCLUB] .
+ENTITY_1[PERSON] is attached to the club ENTITY_2[SOCCERCLUB] and manages ENTITY_3[SOCCERCLUB] .
+ENTITY_1[PERSON] is attached to the club ENTITY_2[SOCCERCLUB] and he has been the manager of ENTITY_3[SOCCERCLUB] .
+ENTITY_1[PERSON] is attached to the club ENTITY_2[SOCCERCLUB] and has been the manager of ENTITY_3[SOCCERCLUB] .
+ENTITY_2[SOCCERCLUB] team won the championship before in the ENTITY_1[ORGANISATION] , obviously they are in that league .
+ENTITY_2[SOCCERCLUB] are the ENTITY_1[ORGANISATION] Champions and ENTITY_3[SOCCERCLUB] play in the same league .
+Fylde played in the ENTITY_1[ORGANISATION] league of which ENTITY_2[SOCCERCLUB] are the champions .
+The ENTITY_1[ARCHITECTURALSTRUCTURE] , located in ENTITY_2[ADMINISTRATIVEREGION] , is the home ground of AEK ENTITY_2[ADMINISTRATIVEREGION] FC .
+The ENTITY_1[ARCHITECTURALSTRUCTURE] is where ENTITY_2[ADMINISTRATIVEREGION] ENTITY_3[SOCCERCLUB] football club play .
+The ENTITY_1[ARCHITECTURALSTRUCTURE] , is ENTITY_2[ADMINISTRATIVEREGION] home ground of ENTITY_3[SOCCERCLUB]
+The ENTITY_1[ARCHITECTURALSTRUCTURE] is located in ENTITY_2[ADMINISTRATIVEREGION] and is the home ground of ENTITY_3[SOCCERCLUB]
+The ground for ENTITY_3[SOCCERCLUB] is the ENTITY_1[ARCHITECTURALSTRUCTURE] located in ENTITY_2[ADMINISTRATIVEREGION] .
+The ground for ENTITY_3[SOCCERCLUB] is the ENTITY_1[ARCHITECTURALSTRUCTURE] in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SOCCERCLUB] and he is the manager of 1. FC Koln .
+ENTITY_1[PERSON] is the manager of FC Kolin and his club is ENTITY_2[SOCCERCLUB] .
+The manager of ENTITY_3[SOCCERCLUB] is ENTITY_1[PERSON] , who 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] and is the manager of 1. FC Koln .
+The manager of 1. FC Koln is ENTITY_1[PERSON] , who plays for ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] , the manager of ENTITY_3[SOCCERCLUB] , plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] , manager of ENTITY_3[SOCCERCLUB] , is also in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] club and is the manager of 1. FC Koln .
+ENTITY_3[SOCCERCLUB] play in ENTITY_1[EVENT] where ENTITY_2[SOCCERCLUB] have been champions .
+ENTITY_2[SOCCERCLUB] are former champions of ENTITY_1[EVENT] , and ENTITY_3[SOCCERCLUB] are also in the same competition .
+ENTITY_3[SOCCERCLUB] play in the ENTITY_1[EVENT] league in which ENTITY_2[SOCCERCLUB] have been champions .
+ENTITY_3[SOCCERCLUB] play in the ENTITY_1[EVENT] league where the champions are ENTITY_2[SOCCERCLUB]
+ENTITY_2[SOCCERCLUB] have been ENTITY_1[EVENT] champions and ENTITY_3[SOCCERCLUB] play in the same league .
+ENTITY_2[SOCCERCLUB] are former champions of ENTITY_1[EVENT] , ENTITY_3[SOCCERCLUB] also play in the same competition .
+The ENTITY_1[UNIVERSITY] is located in the country of ENTITY_2[COUNTRY] which has the religion The ENTITY_3[BUILDING] ENTITY_2[COUNTRY] .
+The ENTITY_1[UNIVERSITY] in ENTITY_2[COUNTRY] is also where the ENTITY_3[BUILDING] ENTITY_2[COUNTRY] is located .
+ENTITY_1[UNIVERSITY] is in ENTITY_2[COUNTRY] as well as the ENTITY_3[BUILDING] ENTITY_2[COUNTRY] .
+ENTITY_2[DEAN] is dean of the ENTITY_1[UNIVERSITY] where there is an academic staff of ENTITY_3[YEAR] .
+The ENTITY_1[UNIVERSITY] , which has an academic staff size of ENTITY_3[YEAR] , has ENTITY_2[DEAN] as its Dean .
+ENTITY_1[UNIVERSITY] has an academic staff size of ENTITY_3[YEAR] and the dean is ENTITY_2[DEAN] .
+ENTITY_2[LATINNAME] is the latin name of the ENTITY_1[UNIVERSITY] which is affiliated to the ENTITY_3[ORGANISATION] .
+The Latin name for the ENTITY_1[UNIVERSITY] , which is affiliated with the ENTITY_3[ORGANISATION] , is ENTITY_2[LATINNAME] .
+ENTITY_1[UNIVERSITY] is affiliated with the ENTITY_3[ORGANISATION] and its called ENTITY_2[LATINNAME] in latin .
+The ENTITY_1[UNIVERSITY] takes ENTITY_2[NUMBEROFSTUDENTS] students and is affiliated to the ENTITY_3[ORGANISATION] .
+The ENTITY_1[UNIVERSITY] has ENTITY_2[NUMBEROFSTUDENTS] students and is affiliated with the ENTITY_3[ORGANISATION] .
+The ENTITY_1[UNIVERSITY] has ENTITY_2[NUMBEROFSTUDENTS] students and is affiliated with the ENTITY_3[ORGANISATION] .
+The ENTITY_1[UNIVERSITY] has ENTITY_2[NUMBEROFSTUDENTS] students and is located in ENTITY_3[COUNTRY] .
+The ENTITY_1[UNIVERSITY] in ENTITY_3[COUNTRY] has ENTITY_2[NUMBEROFSTUDENTS] students .
+The ENTITY_1[UNIVERSITY] in ENTITY_3[COUNTRY] has ENTITY_2[NUMBEROFSTUDENTS] students .
+ENTITY_3[WRITTENWORK] is published in the UK where English is the spoken ENTITY_2[LANGUAGE] .
+ENTITY_3[WRITTENWORK] is from the ENTITY_1[COUNTRY] where the ENTITY_2[LANGUAGE] spoken is English .
+The ENTITY_3[WRITTENWORK] was published in the ENTITY_1[COUNTRY] where the ENTITY_2[LANGUAGE] is spoken .
+The ENTITY_3[WRITTENWORK] was published in the UK , where ENTITY_2[OFFICEHOLDER] was a leader .
+ENTITY_3[WRITTENWORK] is published in the UK where ENTITY_2[OFFICEHOLDER] is the leader .
+ENTITY_3[WRITTENWORK] is from the ENTITY_1[COUNTRY] where the leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where the capital is ENTITY_2[SETTLEMENT]
+' ENTITY_3[BOOK] ' comes from the ENTITY_1[COUNTRY] where the capital is ENTITY_2[SETTLEMENT]
+ENTITY_3[BOOK] originates from the ENTITY_1[COUNTRY] where the capital city is ENTITY_2[SETTLEMENT]
+ENTITY_3[BOOK] originates from the ENTITY_1[COUNTRY] where the capital is ENTITY_2[SETTLEMENT]
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] , where ENTITY_2[ETHNICGROUP] form one of the ethnic groups .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where there are many ENTITY_2[ETHNICGROUP] .
+ENTITY_3[BOOK] originates from the ENTITY_1[COUNTRY] , which counts ENTITY_2[ETHNICGROUP] among its ethnic groups .
+The ENTITY_1[COUNTRY] has an ethnic group called ENTITY_2[ETHNICGROUP] and is the home of ENTITY_3[BOOK] .
+In almost unrelated facts both ENTITY_2[ETHNICGROUP] and the book ENTITY_3[BOOK] come from the U.S .
+The book ENTITY_3[BOOK] comes from the U.S where there are many ENTITY_2[ETHNICGROUP] .
+The book ENTITY_3[BOOK] is an example of ENTITY_2[ETHNICGROUP] Literature. White people are a part of the U.S 's ethnic make-up .
+' ENTITY_3[BOOK] ' is from The ENTITY_1[COUNTRY] , the country where ENTITY_2[ETHNICGROUP] live .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where the ENTITY_2[LANGUAGE] is English .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] , which has English as one of ENTITY_2[LANGUAGE] .
+ENTITY_2[LANGUAGE] spoken in the ENTITY_1[COUNTRY] . This country is home to the ENTITY_3[BOOK] .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where ENTITY_2[LANGUAGE] .
+ENTITY_3[BOOK] originates from the ENTITY_1[COUNTRY] where the ENTITY_2[LANGUAGE] is English .
+" ENTITY_3[BOOK] was Published in the ENTITY_1[COUNTRY] , of which ENTITY_2[LANGUAGE] .
+" ENTITY_3[BOOK] " was published in the ENTITY_1[COUNTRY] , where the official ENTITY_2[LANGUAGE] is English .
+ENTITY_3[BOOK] originates from the ENTITY_1[COUNTRY] , where the official ENTITY_2[LANGUAGE] is English .
+ENTITY_2[LANGUAGE] of the ENTITY_1[COUNTRY] the country where the book ENTITY_3[BOOK] was written .
+The book ENTITY_3[BOOK] comes from the ENTITY_1[COUNTRY] where the ENTITY_2[LANGUAGE] is spoken .
+ENTITY_3[BOOK] is from The ENTITY_1[COUNTRY] therefore is written in english .
+ENTITY_3[BOOK] was written in the U.S where ENTITY_2[PERSON] is the leader .
+ENTITY_3[BOOK] comes from the ENTITY_1[COUNTRY] where ENTITY_2[PERSON] is the president .
+ENTITY_3[BOOK] was written in the U.S where ENTITY_2[PERSON] is President .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] , led by President ENTITY_2[PERSON] .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where ENTITY_2[PERSON] is President .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] , where the leader is ENTITY_2[PERSON] .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where ENTITY_2[PERSON] is president .
+ENTITY_3[BOOK] originates from the ENTITY_1[COUNTRY] where ENTITY_2[PERSON] is President .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where the leader is ENTITY_2[PERSON] .
+ENTITY_3[BOOK] was Published in the ENTITY_1[COUNTRY] where ENTITY_2[PERSON] is president .
+' ENTITY_3[BOOK] ' was published in the ENTITY_1[COUNTRY] , the country where ENTITY_2[PERSON] is the leader .
+ENTITY_3[BOOK] originates from the ENTITY_1[COUNTRY] where ENTITY_2[PERSON] is the leader .
+ENTITY_3[BOOK] was written in the ENTITY_1[COUNTRY] where the leader is known as the President .
+ENTITY_3[BOOK] comes from the ENTITY_1[COUNTRY] , where the ENTITY_2[PERSON] .
+ENTITY_3[BOOK] was written in the U.S where the title of the leader is President .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where the leader is known as the President .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] where the title of the leader is President .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] , whose leader is called the President .
+The head of state of the ENTITY_1[COUNTRY] is known as the President. This country is home to the ENTITY_3[BOOK] .
+ENTITY_3[BOOK] is from the ENTITY_1[COUNTRY] , whose leader is the President .
+The leader of the ENTITY_1[COUNTRY] is the President. This country is home to the ENTITY_3[BOOK] .
+" ENTITY_3[BOOK] " was published in the ENTITY_1[COUNTRY] , where the leader is known as the President .
+ENTITY_3[BOOK] originates from the ENTITY_1[COUNTRY] where the title of the leader is the President .
+ENTITY_3[BOOK] is published by ENTITY_1[COMPANY] in the ENTITY_2[COUNTRY] .
+The book ' ENTITY_3[BOOK] ' was published by ENTITY_1[COMPANY] which is in the ENTITY_2[COUNTRY] .
+' ENTITY_3[BOOK] ' was followed by ' ENTITY_1[BOOK] ' , the sequel to which was ENTITY_2[BOOK] ' .
+ENTITY_3[BOOK] was followed by ENTITY_1[BOOK] and ENTITY_2[BOOK] .
+ENTITY_1[BOOK] , which preceded ENTITY_3[BOOK] is published by Harcourt .
+ENTITY_1[BOOK] , which was preceded by ENTITY_3[BOOK] was published by Harcourt ( publishers ) .
+ENTITY_1[BOOK] , followed by ENTITY_3[BOOK] , was published by Harcourt ( publishers ) .
+ENTITY_3[AIRPORT] is located ENTITY_4[METRES] metres above sea level and operated by ENTITY_1[COMPANY] located in ENTITY_2[SETTLEMENT] .
+At ENTITY_4[METRES] metres above sea level , ENTITY_3[AIRPORT] is operated by ENTITY_1[COMPANY] which is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[COMPANY] , in ENTITY_2[SETTLEMENT] , is served by ENTITY_3[AIRPORT] , with an elevation ENTITY_4[METRES] meters about sea level and is operated by ENTITY_1[COMPANY] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_4[CITY] , in the country of ENTITY_1[COUNTRY] where the ENTITY_2[LANGUAGE] is spoken .
+ENTITY_3[AIRPORT] serves the city of ENTITY_4[CITY] in ENTITY_1[COUNTRY] where the ENTITY_2[LANGUAGE] are spoken .
+The ENTITY_3[AIRPORT] serves the city of ENTITY_4[CITY] in ENTITY_1[COUNTRY] , a country where the ENTITY_2[LANGUAGE] are spoken .
+ENTITY_3[AIRPORT] is located in ENTITY_4[CITY] , a city in ENTITY_2[OFFICEHOLDER] led ENTITY_1[COUNTRY] .
+ENTITY_2[OFFICEHOLDER] leads ENTITY_1[COUNTRY] where ENTITY_3[AIRPORT] serves the city of ENTITY_4[CITY] .
+The ENTITY_3[AIRPORT] serves the city of ENTITY_4[CITY] in ENTITY_1[COUNTRY] . The country is led by ENTITY_2[OFFICEHOLDER] .
+The ENTITY_3[AIRPORT] serves the city of ENTITY_4[CITY] in ENTITY_1[COUNTRY] . ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] .
+The ENTITY_3[AIRPORT] serves the city of ENTITY_4[CITY] , ENTITY_1[COUNTRY] . The leader of the country is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] where the ENTITY_3[AIRPORT] serves the city of ENTITY_4[CITY] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[CITY] which is in ENTITY_2[COUNTRY] where ENTITY_4[OFFICEHOLDER] is the leader .
+ENTITY_4[OFFICEHOLDER] is the leader in ENTITY_2[COUNTRY] where ENTITY_3[AIRPORT] serves the city of ENTITY_1[CITY] .
+ENTITY_1[CITY] , ENTITY_2[COUNTRY] is led by ENTITY_4[OFFICEHOLDER] and is served by the ENTITY_3[AIRPORT] .
+Adolfo Suárez ENTITY_1[CITY] –Barajas Airport is located in ENTITY_1[CITY] , part of the ENTITY_2[SETTLEMENT] ENTITY_1[CITY] in ENTITY_4[COUNTRY] .
+Adolfo Suárez ENTITY_1[CITY] –Barajas Airport is found in ENTITY_1[CITY] which is part of the ENTITY_2[SETTLEMENT] ENTITY_1[CITY] , ENTITY_4[COUNTRY] .
+The Adolfo Suarez ENTITY_1[CITY] -Barajas airport is located in the ENTITY_2[SETTLEMENT] ENTITY_1[CITY] , in ENTITY_4[COUNTRY] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] , where the city of ENTITY_3[CITY] , served by ENTITY_4[AIRPORT] , is located .
+The city of ENTITY_3[CITY] is served by ENTITY_4[AIRPORT] , which is located in ENTITY_1[COUNTRY] and led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[CITY] , located in ENTITY_1[COUNTRY] and led by ENTITY_2[OFFICEHOLDER] , is the home of the ENTITY_4[AIRPORT] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] which is where the City of ENTITY_3[CITY] is. this city is served by ENTITY_4[AIRPORT] .
+Located in ENTITY_1[COUNTRY] ( where ENTITY_2[OFFICEHOLDER] is the leader ) , the city of ENTITY_3[CITY] is served by ENTITY_4[AIRPORT] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_3[CITY] in ENTITY_1[COUNTRY] . The country is led by ENTITY_2[OFFICEHOLDER] .
+In the class ENTITY_2[SPECIES] , and belonging to the order ENTITY_4[SPECIES] is ENTITY_1[SPECIES] which is the surface type of the second runway of ENTITY_3[AIRPORT] .
+ENTITY_1[SPECIES] , which is of the order ENTITY_4[SPECIES] and in the class ENTITY_2[SPECIES] , is the surface type of the second runway of ENTITY_3[AIRPORT] .
+The 2nd runway at New Zealand 's ENTITY_3[AIRPORT] is made of ENTITY_1[SPECIES] ( Order : ENTITY_4[SPECIES] ; Class : ENTITY_2[SPECIES]  ) .
+ENTITY_1[SPECIES] is in the class ENTITY_2[SPECIES] and the order of ENTITY_3[ORDER] . It is also the surface type of the second runway of ENTITY_4[AIRPORT] .
+The 2nd runway at ENTITY_4[AIRPORT] is made of ENTITY_1[SPECIES] which belongs to the order of ENTITY_3[ORDER] and the class of ENTITY_2[SPECIES] .
+The 1st runway at ENTITY_3[AIRPORT] is made from ENTITY_1[SPECIES] which belongs to the division of ENTITY_2[SPECIES] and is of the class ENTITY_4[SPECIES] .
+The 1st runway at ENTITY_3[AIRPORT] is made from ENTITY_1[SPECIES] which belongs to the class ENTITY_4[SPECIES] and belongs to the division of ENTITY_2[SPECIES] .
+The surface of the first runway at ENTITY_3[AIRPORT] is made of ENTITY_1[SPECIES] which is part of the ENTITY_4[SPECIES] class and is a division of ENTITY_2[SPECIES] .
+ENTITY_1[SPECIES] , of the ENTITY_4[ORDER] order , belongs to the division of ENTITY_2[SPECIES] and its the surface of the 1st runway at ENTITY_3[AIRPORT] .
+The 1st runway at ENTITY_3[AIRPORT] is made from ENTITY_1[SPECIES] which belongs to the division of ENTITY_2[SPECIES] and belongs to the order of ENTITY_4[ORDER] .
+The surface of the 1st runway at ENTITY_3[AIRPORT] is ENTITY_1[SPECIES] which is of the order ENTITY_4[ORDER] , a division of ENTITY_2[SPECIES] .
+The 1st runway at ENTITY_3[AIRPORT] is made from ENTITY_1[SPECIES] which belongs to the division of ENTITY_2[SPECIES] and the order ENTITY_4[SPECIES] .
+ENTITY_1[SPECIES] belongs to the division of ENTITY_2[SPECIES] order of ENTITY_4[SPECIES] . The ENTITY_3[AIRPORT] 's first runway was made of this substance .
+ENTITY_1[SPECIES] which is of the ENTITY_4[SPECIES] order belongs to the division of ENTITY_2[SPECIES] , the 2nd runway at ENTITY_3[AIRPORT] is made of ENTITY_1[SPECIES] .
+ENTITY_1[SPECIES] is of the order ENTITY_4[SPECIES] and in the division of ENTITY_2[SPECIES] . It is the surface type of the second runway of ENTITY_3[AIRPORT] .
+The 2nd runway at ENTITY_3[AIRPORT] is made of ENTITY_1[SPECIES] , which belongs to the division of ENTITY_2[SPECIES] and the order ENTITY_4[SPECIES] .
+The 2nd runway at ENTITY_4[AIRPORT] is made of ENTITY_1[SPECIES] which belongs to the division of ENTITY_2[SPECIES] and the order of ENTITY_3[ORDER] .
+ENTITY_1[SPECIES] belongs to the order of ENTITY_3[ORDER] and the division of ENTITY_2[SPECIES] . It is also the surface type of the second runway at ENTITY_4[AIRPORT] .
+ENTITY_1[SPECIES] , a ENTITY_2[SPECIES] , belongs to the order of ENTITY_3[ORDER] , and is the surface type for the second runway of ENTITY_4[AIRPORT] .
+The ENTITY_3[AIRPORT] is located in ENTITY_1[SETTLEMENT] which is in Madrid , ENTITY_4[COUNTRY] .
+ENTITY_1[SETTLEMENT] , part of the Madrid ENTITY_2[SETTLEMENT] , ENTITY_4[COUNTRY] is host to the ENTITY_3[AIRPORT] .
+The ENTITY_4[AIRPORT] is located n ENTITY_1[SETTLEMENT] which is led by the ENTITY_2[ORGANISATION] is part of the ENTITY_3[SETTLEMENT] .
+The ENTITY_2[ORGANISATION] is the lead party of ENTITY_1[SETTLEMENT] , Spain which is part of the ENTITY_3[SETTLEMENT] . The ENTITY_4[AIRPORT] is found there .
+The ENTITY_4[AIRPORT] is located in ENTITY_1[SETTLEMENT] ,Madrid ,where the ENTITY_2[ORGANISATION] is the leading political organization .
+ENTITY_1[SETTLEMENT] , part of ENTITY_2[SETTLEMENT] , ENTITY_4[COUNTRY] , is served by ENTITY_3[AIRPORT] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] ENTITY_2[SETTLEMENT] , ENTITY_4[COUNTRY] .
+ENTITY_3[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_2[SETTLEMENT] , in the ENTITY_4[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] and has an airport called ENTITY_4[AIRPORT] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] ENTITY_2[SETTLEMENT] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which like ENTITY_2[SETTLEMENT] and ENTITY_3[ADMINISTRATIVEREGION] is part of new York .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[SETTLEMENT] ENTITY_3[ADMINISTRATIVEREGION] and is served by ENTITY_4[AIRPORT] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_2[SETTLEMENT] in ENTITY_3[ADMINISTRATIVEREGION] .
+ENTITY_4[AIRPORT] is located in ENTITY_1[SETTLEMENT] ENTITY_3[COUNTRY] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_2[SETTLEMENT] , in the ENTITY_3[COUNTRY] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_2[SETTLEMENT] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_3[ADMINISTRATIVEREGION] , in the ENTITY_2[COUNTRY] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] ENTITY_3[ADMINISTRATIVEREGION] , the ENTITY_2[COUNTRY] .
+ENTITY_4[AIRPORT] serves the city of ENTITY_1[SETTLEMENT] which is part of ENTITY_3[ADMINISTRATIVEREGION] in the U.S.A .
+ENTITY_3[MUSICALARTIST] is associated with ENTITY_4[MUSICALARTIST] and ENTITY_1[MUSICALARTIST] . Burns is an exponent of ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] is associated with ENTITY_4[MUSICALARTIST] and ENTITY_1[MUSICALARTIST] , who performs ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] does ENTITY_2[TOPICALCONCEPT] and is associated with ENTITY_3[MUSICALARTIST] and ENTITY_4[MUSICALARTIST] .
+ENTITY_1[TOPICALCONCEPT] is ENTITY_3[MUSICALARTIST] 's music genre. The origin of that type of music is ENTITY_2[TOPICALCONCEPT] ENTITY_4[TOPICALCONCEPT] gets its sounds from Hip Hop music .
+ENTITY_3[MUSICALARTIST] 's genre is Hip Hop music , the stylistic origin of which is ENTITY_2[TOPICALCONCEPT] ENTITY_4[TOPICALCONCEPT] is a derivative of ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] derives from ENTITY_4[TOPICALCONCEPT] and ENTITY_2[TOPICALCONCEPT] . ENTITY_3[MUSICALARTIST] is a Hip Hop musician .
+The musical genre of ENTITY_3[MUSICALARTIST] is ENTITY_1[TOPICALCONCEPT] which has its stylistic origins in ENTITY_4[TOPICALCONCEPT] and ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] performs ENTITY_1[TOPICALCONCEPT] , a style that originated from ENTITY_2[TOPICALCONCEPT] and ENTITY_4[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] 's genre is Hip Hop music whose origins are ENTITY_2[TOPICALCONCEPT] music. ENTITY_1[TOPICALCONCEPT] has its styles in ENTITY_4[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] has performed the genre of ENTITY_4[TOPICALCONCEPT] . Mr. Rayel knows musical artists ENTITY_2[MUSICALARTIST] and ENTITY_1[MUSICALARTIST] .
+ENTITY_3[MUSICALARTIST] , whose musical genre is ENTITY_4[TOPICALCONCEPT] , is associated with the musician ENTITY_1[MUSICALARTIST] , who in turn , is associated with the musical artist ENTITY_2[MUSICALARTIST] .
+ENTITY_4[TOPICALCONCEPT] is the genre of ENTITY_3[MUSICALARTIST] , who is associated with the musician ENTITY_1[MUSICALARTIST] , who in turn , is associated with the musical artist ENTITY_2[MUSICALARTIST] .
+ENTITY_3[PERSON] died in ENTITY_2[ORGANISATION] ENTITY_4[OFFICEHOLDER] led , ENTITY_1[SETTLEMENT] .
+ENTITY_3[PERSON] died in ENTITY_1[SETTLEMENT] , the leader of which , is ENTITY_4[OFFICEHOLDER] . ENTITY_2[ORGANISATION] is the leader of ENTITY_1[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] , led by ENTITY_4[OFFICEHOLDER] and ENTITY_2[ORGANISATION] , is the place of death for ENTITY_3[PERSON] .
+ENTITY_3[PERSON] died in ENTITY_4[SETTLEMENT] , in ENTITY_1[SETTLEMENT] , which is led by the ENTITY_2[ORGANISATION] .
+ENTITY_3[PERSON] Garth died in ENTITY_4[SETTLEMENT] in ENTITY_1[SETTLEMENT] which is led by the ENTITY_2[ORGANISATION] .
+ENTITY_2[ORGANISATION] is the leader of ENTITY_1[SETTLEMENT] which is where ENTITY_3[PERSON] died , in ENTITY_4[SETTLEMENT] .
+The birth place of ENTITY_3[MUSICALARTIST] is ENTITY_1[CITY] , in ENTITY_2[COUNTRY] . The leader of ENTITY_1[CITY] is the politician ENTITY_4[PERSON] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[CITY] , ENTITY_2[COUNTRY] ,whose political leader is ENTITY_4[PERSON] .
+ENTITY_1[CITY] , ENTITY_2[COUNTRY] us the birthplace of ENTITY_3[MUSICALARTIST] . ENTITY_1[CITY] is led by ENTITY_4[PERSON] .
+ENTITY_3[MUSICALARTIST] who records under the ENTITY_4[COMPANY] label and is signed with ENTITY_2[SETTLEMENT] -based ENTITY_1[COMPANY] .
+Musician ENTITY_3[MUSICALARTIST] , is signed to both the record labels ENTITY_4[COMPANY] and ENTITY_1[COMPANY] , which is located in ENTITY_2[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] signed to the record label ENTITY_4[COMPANY] and ENTITY_2[SETTLEMENT] based , ENTITY_1[COMPANY] .
+The musician ENTITY_3[MUSICALARTIST] was signed to the record label ENTITY_4[MEANOFTRANSPORTATION] and is with the record label ENTITY_1[COMPANY] . ENTITY_1[COMPANY] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_3[MUSICALARTIST] signed to ENTITY_2[SETTLEMENT] -located ENTITY_1[COMPANY] . His record label is ENTITY_4[MEANOFTRANSPORTATION] .
+Musician ENTITY_3[MUSICALARTIST] , was signed to the record label ENTITY_4[MEANOFTRANSPORTATION] and ENTITY_2[SETTLEMENT] based , ENTITY_1[COMPANY] .
+ENTITY_3[MUSICALARTIST] , once signed with the defunct Universal Records , is now signed with ENTITY_2[SETTLEMENT] 's ENTITY_1[COMPANY] .
+Polydor records are located in ENTITY_2[SETTLEMENT] . ENTITY_3[MUSICALARTIST] signed to ENTITY_1[COMPANY] , located in ENTITY_2[SETTLEMENT] , whose previous record label was the ( now defunct ) Universal Records .
+The music ENTITY_2[TOPICALCONCEPT] part of the fusion genre , partly coming from ENTITY_1[TOPICALCONCEPT] which ENTITY_3[ARTIST] played once with ENTITY_4[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_3[ARTIST] member of the band NRBQ , performs ENTITY_1[TOPICALCONCEPT] and was a member of ENTITY_4[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] . A musical fusion of rock music is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[ARTIST] who once played with ENTITY_4[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] , is a member of the band NRBQ , and performs rock music. The music ENTITY_2[TOPICALCONCEPT] part of the fusion genre , partly coming from ENTITY_1[TOPICALCONCEPT] .
+ENTITY_3[ARTIST] who plays ENTITY_1[TOPICALCONCEPT] which originated from ENTITY_4[TOPICALCONCEPT] The music ENTITY_2[TOPICALCONCEPT] part of the fusion genre , partly coming from ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] , which originated from ENTITY_4[TOPICALCONCEPT] , is the genre of ENTITY_3[ARTIST] his band , NRBQ. A musical fusion of rock music is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[ARTIST] member of the band NRBQ , performs ENTITY_1[TOPICALCONCEPT] which originated from ENTITY_4[TOPICALCONCEPT] A musical fusion of rock music is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[ARTIST] ENTITY_4[ORGANISATION] the band NRBQ , the genre of which , is ENTITY_1[TOPICALCONCEPT] . The music ENTITY_2[TOPICALCONCEPT] part of the fusion genre , partly coming from ENTITY_1[TOPICALCONCEPT] .
+The music ENTITY_2[TOPICALCONCEPT] part of the fusion genre , partly coming from ENTITY_1[TOPICALCONCEPT] , the genre of NRBQ band member and singer , ENTITY_3[ARTIST]
+ENTITY_3[ARTIST] rock music performer , is a ENTITY_4[ORGANISATION] the band NRBQ. ENTITY_2[TOPICALCONCEPT] comes from ENTITY_1[TOPICALCONCEPT] and is a part of the fusion genre .
+ENTITY_3[MUSICALARTIST] , an artist with the band ENTITY_4[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] , performs ENTITY_1[TOPICALCONCEPT] music , which has its origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] ( Origin : ENTITY_2[TOPICALCONCEPT]  ) is the genre of ENTITY_3[MUSICALARTIST] , who is a member of ENTITY_4[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_3[MUSICALARTIST] plays for the ENTITY_4[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band and performs ENTITY_1[TOPICALCONCEPT] music which has its origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] , whose musical genre is ENTITY_1[TOPICALCONCEPT] , plays for the ENTITY_4[ORGANISATION] band. ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_3[MUSICALARTIST] plays for the ENTITY_4[ORGANISATION] band and performs ENTITY_1[TOPICALCONCEPT] music , which has its origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] musician ENTITY_3[MUSICALARTIST] is in the band ENTITY_4[ORGANISATION] . ENTITY_1[TOPICALCONCEPT] derives from ENTITY_2[TOPICALCONCEPT] .
+ENTITY_2[TOPICALCONCEPT] ian ENTITY_3[MUSICALARTIST] plays with bands , ENTITY_1[ORGANISATION] and ENTITY_4[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_3[MUSICALARTIST] is an artist with the band ENTITY_4[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] and ENTITY_1[ORGANISATION] band , who perform ENTITY_2[TOPICALCONCEPT] .
+ENTITY_3[MUSICALARTIST] played with the band ENTITY_1[ORGANISATION] which performs ENTITY_2[TOPICALCONCEPT] music. ENTITY_4[TOPICALCONCEPT] is a musical fusion of black metal .
+ENTITY_3[MUSICALARTIST] played with the band ENTITY_1[ORGANISATION] , a ENTITY_2[TOPICALCONCEPT] music band. ENTITY_4[TOPICALCONCEPT] music is a fusion of Black Metal .
+ENTITY_3[MUSICALARTIST] played with the band ENTITY_1[ORGANISATION] , the musical genre of which , is ENTITY_2[TOPICALCONCEPT] ENTITY_4[TOPICALCONCEPT] is a musical fusion of black metal .
+ENTITY_4[PERSON] comes from the U.K. and is ENTITY_2[ETHNICGROUP] . ENTITY_3[PERSON] is queen .
+ENTITY_4[PERSON] was born in the ENTITY_1[COUNTRY] which is led by ENTITY_3[PERSON] . People from the ENTITY_1[COUNTRY] are called ENTITY_2[ETHNICGROUP] .
+ENTITY_4[PERSON] is from the UK , where ENTITY_3[PERSON] is queen , and people are ENTITY_2[ETHNICGROUP] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_4[SETTLEMENT] in the USA , a country where the ENTITY_2[ORGANISATION] are an ethnic group .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_4[SETTLEMENT] , ENTITY_1[COUNTRY] , where ENTITY_2[ORGANISATION] are one of the ethnic groups .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_4[SETTLEMENT] , ENTITY_1[COUNTRY] where ENTITY_2[ORGANISATION] are an ethnic group .
+ENTITY_3[MUSICALARTIST] died in ENTITY_1[COUNTRY] , where the leader is ENTITY_2[OFFICEHOLDER] . He was born in ENTITY_4[CITY] .
+Born in ENTITY_4[CITY] , ENTITY_3[MUSICALARTIST] , died in ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+ENTITY_4[CITY] is the birth place of ENTITY_3[MUSICALARTIST] who died in ENTITY_1[COUNTRY] whose leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[COUNTRY] , where the leader is ENTITY_2[OFFICEHOLDER] . He died in ENTITY_4[CITY] .
+ENTITY_3[MUSICALARTIST] was born in , ENTITY_2[OFFICEHOLDER] led , ENTITY_1[COUNTRY] and died in ENTITY_4[CITY] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[COUNTRY] , where the leader is ENTITY_2[OFFICEHOLDER] . He died in ENTITY_4[CITY] .
+ENTITY_3[MUSICALARTIST] passed away in ENTITY_4[CITY] , ENTITY_1[COUNTRY] where ENTITY_2[OFFICEHOLDER] is the leader .
+ENTITY_3[MUSICALARTIST] died in ENTITY_4[CITY] , ENTITY_1[COUNTRY] ( which has ENTITY_2[OFFICEHOLDER] as leader ) .
+ENTITY_3[MUSICALARTIST] died in ENTITY_4[CITY] , in ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+ENTITY_4[MUSICALARTIST] was born in ENTITY_3[CITY] , ENTITY_1[COUNTRY] where ENTITY_2[OFFICEHOLDER] is the leader .
+ENTITY_4[MUSICALARTIST] was born in ENTITY_3[CITY] , in the country of ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[CITY] is in the country of ENTITY_1[COUNTRY] and the birth place o f ENTITY_4[MUSICALARTIST] . ENTITY_2[OFFICEHOLDER] is ENTITY_1[COUNTRY] 's leader .
+ENTITY_3[MUSICALARTIST] died in ENTITY_1[COUNTRY] , where the leader is ENTITY_2[OFFICEHOLDER] . His birth place was ENTITY_4[CITY] .
+ENTITY_3[MUSICALARTIST] waas born in ENTITY_4[CITY] and died in ENTITY_2[OFFICEHOLDER] led ENTITY_1[COUNTRY] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_4[CITY] and died in ENTITY_1[COUNTRY] . ENTITY_2[OFFICEHOLDER] leads ENTITY_1[COUNTRY] .
+ENTITY_3[MUSICALARTIST] was born in ENTITY_1[COUNTRY] whose leader is ENTITY_2[OFFICEHOLDER] and he died in ENTITY_4[CITY] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] , the country where ENTITY_3[MUSICALARTIST] was born and died , in ENTITY_4[CITY] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] , where ENTITY_3[MUSICALARTIST] was born ( he died in ENTITY_4[CITY]  ) .
+ENTITY_1[COUNTRY] 's leader is now ENTITY_2[OFFICEHOLDER] because ENTITY_3[MUSICALARTIST] died in ENTITY_4[CITY] which is in ENTITY_1[COUNTRY] .
+ENTITY_3[MUSICALARTIST] died in ENTITY_4[CITY] , ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[MUSICALARTIST] death place was in ENTITY_4[CITY] , ENTITY_1[COUNTRY] , where the leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[COUNTRY] is led by ENTITY_2[OFFICEHOLDER] . ENTITY_3[CITY] in that country is the birth place of ENTITY_4[MUSICALARTIST] .
+The birth place of ENTITY_4[MUSICALARTIST] is ENTITY_3[CITY] , in ENTITY_1[COUNTRY] , the leader of which , is ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[ASTRONAUT] , born in ENTITY_3[COUNTRY] , was a ENTITY_2[PERSON] a member of ENTITY_4[PLACE] 's crew .
+ENTITY_3[COUNTRY] born ENTITY_1[ASTRONAUT] was a ENTITY_2[PERSON] on ENTITY_4[PLACE] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_3[COUNTRY] , served as a ENTITY_2[PERSON] and was a member of the ENTITY_4[PLACE] crew .
+ENTITY_1[ASTRONAUT] ( born in ENTITY_3[COUNTRY]  ) served as a ENTITY_2[PERSON] and was a crew member of ENTITY_4[PLACE] .
+ENTITY_1[ASTRONAUT] (  born in ENTITY_3[COUNTRY]  ) was a part of ENTITY_4[PLACE] and served as ENTITY_2[PERSON] .
+Born in ENTITY_3[COUNTRY] , ENTITY_1[ASTRONAUT] graduated AFIT , M.S. in 1962 and is now the ENTITY_2[TITLE] .
+ENTITY_2[TITLE] , ENTITY_1[ASTRONAUT] , was born in ENTITY_3[COUNTRY] and graduated from his alma Mater , ENTITY_4[ALMAMATER] with an M.S .
+ENTITY_1[ASTRONAUT] was born in ENTITY_3[COUNTRY] and went to AFIT , M.S. 1962 and was the ENTITY_2[TITLE] .
+ENTITY_4[ORGANISATION] 's ENTITY_2[PLACE] crew included ENTITY_3[ASTRONAUT] and ENTITY_1[ASTRONAUT] .
+ENTITY_1[ASTRONAUT] and ENTITY_3[ASTRONAUT] were both crew members on ENTITY_2[PLACE] operated by ENTITY_4[ORGANISATION] .
+ENTITY_1[ASTRONAUT] and ENTITY_3[ASTRONAUT] were crew members of ENTITY_4[ORGANISATION] 's ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] received an MS from his alma Mater , ENTITY_3[ALMAMATER] and served as a crew member of ENTITY_2[PLACE] along with ENTITY_4[ASTRONAUT] , .
+ENTITY_1[ASTRONAUT] , who graduated from ENTITY_3[ALMAMATER] with an M.S. , was a crew member of ENTITY_2[PLACE] along with ENTITY_4[ASTRONAUT] .
+ENTITY_1[ASTRONAUT] , who graduated with an M.S. , from ENTITY_3[ALMAMATER] , served as a crew member on ENTITY_2[PLACE] alongside ENTITY_4[ASTRONAUT] .
+ENTITY_1[ASTRONAUT] , born ENTITY_2[YEAR] joined NASA in ENTITY_2[YEAR] to serve as a crew member on ENTITY_4[PLACE] .
+ENTITY_1[ASTRONAUT] , who was born on the ENTITY_3[DATE] joined NASA in ENTITY_2[YEAR] and served as a member of the crew of ENTITY_4[PLACE] .
+ENTITY_1[ASTRONAUT] , born ENTITY_3[DATE] was chosen by NASA in ENTITY_2[YEAR] and served as a crew member on ENTITY_4[PLACE] .
+ENTITY_1[ASTRONAUT] , born in ENTITY_3[COUNTRY] graduated with an MS from AFIT in ENTITY_2[YEAR] was chosen by NASA in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_3[COUNTRY] , graduated from AFIT in ENTITY_2[YEAR] joined NASA in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] joined NASA in ENTITY_2[YEAR] , is an American and was born in ENTITY_4[COUNTRY] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_4[COUNTRY] , then served as a ENTITY_3[PERSON] when he was chosen by NASA in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] was a ENTITY_3[PERSON] who joined NASA in ENTITY_2[YEAR] having been born in ENTITY_4[COUNTRY] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_4[COUNTRY] and his occupation was a ENTITY_3[PERSON] when selected by NASA in ENTITY_2[YEAR] .
+ENTITY_3[PERSON] , who played for the ENTITY_4[SOCCERCLUB] , plays for ENTITY_1[SOCCERCLUB] under their manager ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for the ENTITY_4[SOCCERCLUB] and his club is ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for the ENTITY_4[SOCCERCLUB] and also for ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] , who made his debut for the ENTITY_4[SPORTSTEAM] , used to play for the ENTITY_1[SPORTSTEAM] which play in ENTITY_2[CITY] .
+ENTITY_3[PERSON] debuted for the ENTITY_4[SPORTSTEAM] and his team is the LA based , ENTITY_1[SPORTSTEAM] .
+ENTITY_3[PERSON] , who made his debut with the ENTITY_4[SPORTSTEAM] , formerly played for the ENTITY_1[SPORTSTEAM] who play in ENTITY_2[CITY] .
+ENTITY_3[PERSON] former team is the ENTITY_1[SPORTSTEAM] who are based at the ENTITY_2[CITY] ENTITY_4[ARCHITECTURALSTRUCTURE] in LA .
+ENTITY_3[PERSON] used to play for ENTITY_1[SPORTSTEAM] who are based in LA at the ENTITY_2[CITY] ENTITY_4[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] ' former team , the ENTITY_1[SPORTSTEAM] , are based in LA. , and play at the ENTITY_2[CITY] ENTITY_4[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] was born in ENTITY_1[ADMINISTRATIVEREGION] , ENTITY_4[COUNTRY] and he died in ENTITY_4[COUNTRY] . The leader of ENTITY_1[ADMINISTRATIVEREGION] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[PERSON] was born in ENTITY_1[ADMINISTRATIVEREGION] and died in ENTITY_4[COUNTRY] . ENTITY_2[OFFICEHOLDER] is ENTITY_1[ADMINISTRATIVEREGION] 's leader .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[ADMINISTRATIVEREGION] , which is where ENTITY_3[PERSON] was born , he died in ENTITY_4[COUNTRY] .
+ENTITY_3[PERSON] 's club is the ENTITY_4[SPORTSTEAM] and he plays for ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] has played for the ENTITY_4[SPORTSTEAM] and ENTITY_1[SOCCERCLUB] , the latter of which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for the ENTITY_4[SPORTSTEAM] and for ENTITY_1[SOCCERCLUB] who are managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] 's club is ENTITY_4[SOCCERCLUB] and he plays for ENTITY_1[SOCCERCLUB] , which is managed by ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] . ENTITY_3[PERSON] , whose club is ENTITY_4[SOCCERCLUB] , is connected to the Orange County Blues Football Club .
+ENTITY_3[PERSON] 's club is ENTITY_4[SOCCERCLUB] and he plays for ENTITY_1[SOCCERCLUB] under their manager ENTITY_2[PERSON] .
+ENTITY_3[PERSON] is in the ENTITY_4[SPORTSTEAM] club and plays for the ENTITY_1[SOCCERCLUB] who are managed by ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the manager for ENTITY_1[SOCCERCLUB] , the team , ENTITY_3[PERSON] plays for. He also plays for ENTITY_4[SPORTSTEAM] .
+ENTITY_3[PERSON] is connected to the ENTITY_1[SOCCERCLUB] Football Club , whose manager is ENTITY_2[PERSON] . He now plays for ENTITY_4[SPORTSTEAM] .
+ENTITY_4[SOCCERCLUB] ENTITY_3[PERSON] plays for ENTITY_1[SOCCERCLUB] , the manager of which is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] , who plays for the ENTITY_4[SOCCERCLUB] is connected to the ENTITY_1[SOCCERCLUB] Football Club which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for club ENTITY_4[SOCCERCLUB] and currently plays for the ENTITY_1[SOCCERCLUB] , which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for club ENTITY_4[SOCCERCLUB] and is connected to the ENTITY_1[SOCCERCLUB] Football Club which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] belongs to the clubs , ENTITY_4[SOCCERCLUB] and ENTITY_1[SOCCERCLUB] . The latter is managed by , ENTITY_2[PERSON] .
+ENTITY_3[PERSON] , is connected to the ENTITY_4[SOCCERCLUB] club. His club is ENTITY_1[SOCCERCLUB] , the manager of which , is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] , whose club is ENTITY_1[SOCCERCLUB] managed by ENTITY_2[PERSON] , is connected to the ENTITY_4[SOCCERCLUB] club .
+ENTITY_3[PERSON] 's club is ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] , and he plays for the Netherlands National club for players under 17 .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] , the club of ENTITY_3[PERSON] , who plays for the ENTITY_4[SOCCERCLUB] .
+The ENTITY_3[PERSON] , Abner , plays for the ENTITY_4[SOCCERCLUB] . He also plays for ENTITY_1[SOCCERCLUB] , managed by ENTITY_2[PERSON] .
+Former Brazil national ENTITY_3[PERSON] team member , Abner , plays for the club , ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] who once played for ENTITY_1[SOCCERCLUB] under their manager ENTITY_2[PERSON] , but now plays for the ENTITY_4[SOCCERCLUB] .
+ENTITY_3[PERSON] , Abner , played for the ENTITY_4[SOCCERCLUB] . He also for the football club ENTITY_1[SOCCERCLUB] , the manager of which , is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] for the ENTITY_4[SOCCERCLUB] and also for ENTITY_1[SOCCERCLUB] who are managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] who has represented the ENTITY_4[SOCCERCLUB] and plays for ENTITY_1[SOCCERCLUB] under their manager ENTITY_2[PERSON] .
+ENTITY_3[PERSON] , Abner , plays ENTITY_4[SOCCERCLUB] . and ENTITY_1[SOCCERCLUB] , the manager of which , is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] , Abner plays for the club , ENTITY_1[SOCCERCLUB] and belongs to ENTITY_4[SOCCERCLUB] club. ENTITY_2[PERSON] manages the ENTITY_1[SOCCERCLUB] .
+The ENTITY_3[PERSON] Abner has played for ENTITY_4[SOCCERCLUB] and also ENTITY_1[SOCCERCLUB] , which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for ENTITY_4[SOCCERCLUB] and also for ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] er 's club is ENTITY_4[SOCCERCLUB] and he played for ENTITY_1[SOCCERCLUB] managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for the club ENTITY_1[SOCCERCLUB] and ENTITY_4[SOCCERCLUB] . The manager of ENTITY_1[SOCCERCLUB] is ENTITY_2[PERSON] .
+ENTITY_1[CITY] , part of Greater ENTITY_1[CITY] , is led by ENTITY_4[PERSON] and is the birthplace of ENTITY_3[PERSON] .
+ENTITY_3[PERSON] was born in ENTITY_1[CITY] , ( part of ENTITY_2[SETTLEMENT] , where ENTITY_4[PERSON] is the leader .
+ENTITY_3[PERSON] was born in ENTITY_1[CITY] , part of ENTITY_2[SETTLEMENT] , the leader of which , is ENTITY_4[PERSON] .
+ENTITY_3[PERSON] made his debut for the ENTITY_1[SPORTSTEAM] who are based in the city of ENTITY_2[CITY] . He later played for the ENTITY_4[SPORTSTEAM] .
+Former ENTITY_4[SPORTSTEAM] player , ENTITY_3[PERSON] , debuted with the ENTITY_1[SPORTSTEAM] , which are based in the city of ENTITY_2[CITY] .
+ENTITY_3[PERSON] former team is the ENTITY_4[SPORTSTEAM] and his debut team was the ENTITY_1[SPORTSTEAM] which are based in the city of ENTITY_2[CITY] .
+ENTITY_3[PERSON] 's former team is the ENTITY_4[SPORTSTEAM] and his debut team was the ENTITY_1[SPORTSTEAM] who are based in the city of ENTITY_2[CITY] .
+ENTITY_3[PERSON] , whose former team is the ENTITY_4[SPORTSTEAM] , made his debut with the American football team ENTITY_2[CITY] Titans based in the city of Nashville .
+ENTITY_3[PERSON] ' debut team was the ENTITY_1[SPORTSTEAM] , who are based in the city of ENTITY_2[CITY] . He later played for the ENTITY_4[SPORTSTEAM] .
+ENTITY_3[PERSON] club is ENTITY_4[SOCCERCLUB] and he has also played for ENTITY_1[SOCCERCLUB] who are based at ENTITY_2[SETTLEMENT] .
+ENTITY_3[PERSON] whose club is ENTITY_4[SOCCERCLUB] is a member of the United Petrotin F.C. club that has the ENTITY_2[SETTLEMENT] as their ground .
+ENTITY_3[PERSON] has played for ENTITY_4[SOCCERCLUB] and ENTITY_1[SOCCERCLUB] , the latter of which play at ENTITY_2[SETTLEMENT] .
+ENTITY_3[PERSON] , who has represented ENTITY_4[SPORTSTEAM] , played for ENTITY_1[SOCCERCLUB] , whose ground is ENTITY_2[SETTLEMENT] .
+ENTITY_3[PERSON] , who plays for the ENTITY_4[SPORTSTEAM] previously played for ENTITY_1[SOCCERCLUB] whose ground is at ENTITY_2[SETTLEMENT] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] , who play their home games at ENTITY_2[SETTLEMENT] ground. He also played for the ENTITY_4[SPORTSTEAM] .
+ENTITY_3[PERSON] played for ENTITY_1[SOCCERCLUB] in ENTITY_2[ARCHITECTURALSTRUCTURE] and ENTITY_4[SOCCERCLUB]
+ENTITY_3[PERSON] is a member of the ENTITY_1[SOCCERCLUB] club , (  ENTITY_4[SOCCERCLUB]  ). United Petrotin FC 's ground is ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] now plays for ENTITY_4[SOCCERCLUB] but previously for ENTITY_1[SOCCERCLUB] whose ground is the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] plays for ENTITY_4[SOCCERCLUB] and is a member of the ENTITY_1[SOCCERCLUB] club playing at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] plays for the ENTITY_4[SOCCERCLUB] and ENTITY_1[SOCCERCLUB] which plays in ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] played for ENTITY_4[SOCCERCLUB] and also for ENTITY_1[SOCCERCLUB] whose ground is the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_3[PERSON] played for ENTITY_4[SOCCERCLUB] and also ENTITY_1[SOCCERCLUB] , the latter of which is managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] previously played for ENTITY_4[SOCCERCLUB] and currently for ENTITY_1[SOCCERCLUB] who are managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] played for the ENTITY_4[SOCCERCLUB] club and currently for ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_4[SOCCERCLUB] club member , ENTITY_3[PERSON] , plays for ENTITY_1[SOCCERCLUB] , the manager of which , is ENTITY_2[PERSON] .
+ENTITY_3[PERSON] 's clubs are ENTITY_4[SOCCERCLUB] and also ENTITY_1[SOCCERCLUB] managed by ENTITY_2[PERSON] .
+ENTITY_3[PERSON] plays for ENTITY_4[SOCCERCLUB] and his club is ENTITY_1[SOCCERCLUB] which is managed by ENTITY_2[PERSON] .
+ENTITY_3[BUILDING] was designed by the architect ENTITY_4[PERSON] who was born in ENTITY_1[CITY] where the leader is the ENTITY_2[ORGANISATION] .
+ENTITY_1[CITY] , led by the ENTITY_2[ORGANISATION] , was the birthplace of ENTITY_4[PERSON] who designed ENTITY_3[BUILDING] .
+The ENTITY_2[ORGANISATION] lead ENTITY_1[CITY] , home town of architect ENTITY_4[PERSON] , who designed ENTITY_3[BUILDING] .
+ENTITY_4[PERSON] , who designed ENTITY_3[BUILDING] , comes from ENTITY_1[CITY] , which is run by the ENTITY_2[ORGANISATION] .
+The ENTITY_3[BUILDING] is located in ENTITY_1[CITY] , which is a part of ENTITY_4[SETTLEMENT] , in the ENTITY_2[COUNTRY] .
+ENTITY_3[BUILDING] is located in ENTITY_1[CITY] ( in the ENTITY_2[COUNTRY]  ) which is a part of ENTITY_4[SETTLEMENT] .
+ENTITY_3[BUILDING] is located in ENTITY_1[CITY] , ENTITY_4[SETTLEMENT] , ENTITY_2[COUNTRY] .
+ENTITY_1[COUNTRY] is led by ENTITY_2[OFFICEHOLDER] and is the location of the ENTITY_3[BUILDING] in ENTITY_4[CITY] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] where ENTITY_3[BUILDING] is located in ENTITY_4[CITY] .
+ENTITY_3[BUILDING] is located in ENTITY_4[CITY] , ENTITY_1[COUNTRY] where ENTITY_2[OFFICEHOLDER] is the leader .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] where ENTITY_3[BUILDING] is located in ENTITY_4[CITY] .
+ENTITY_3[BUILDING] is in ENTITY_4[CITY] , ENTITY_1[COUNTRY] , which is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_3[BUILDING] is located in the city of the same name in ENTITY_1[COUNTRY] , a leader of which is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is an ENTITY_1[COUNTRY] n leader. ENTITY_3[BUILDING] is located in ENTITY_4[CITY] in ENTITY_1[COUNTRY] .
+ENTITY_3[BUILDING] is located in ENTITY_1[COUNTRY] 's ENTITY_4[CITY] , which is run by ENTITY_2[OFFICEHOLDER] .
+ENTITY_4[CITY] is located in ENTITY_1[COUNTRY] . The current leader in ENTITY_1[COUNTRY] is ENTITY_2[OFFICEHOLDER] also ENTITY_3[BUILDING] is located in ENTITY_4[CITY] ENTITY_1[COUNTRY] .
+ENTITY_2[OFFICEHOLDER] was the leader of ENTITY_1[SETTLEMENT] , ENTITY_4[COUNTRY] , the location of ENTITY_3[BUILDING] .
+ENTITY_3[BUILDING] is located in ENTITY_1[SETTLEMENT] , ENTITY_4[COUNTRY] , which is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[SETTLEMENT] , ENTITY_4[COUNTRY] , home to ENTITY_3[BUILDING] .
+People who live in ENTITY_1[COUNTRY] are known as ENTITY_1[COUNTRY] n. ENTITY_3[BUILDING] is located in the country which is led by ENTITY_4[OFFICEHOLDER] .
+The residents of ENTITY_1[COUNTRY] are the ENTITY_1[COUNTRY] ENTITY_2[ETHNICGROUP] and the country is led by ENTITY_4[OFFICEHOLDER] . ENTITY_3[BUILDING] is located in the country .
+ENTITY_2[PERSON] and ENTITY_4[OFFICEHOLDER] are leaders in ENTITY_1[COUNTRY] where ENTITY_3[BUILDING] is located .
+While the leader of ENTITY_1[COUNTRY] is ENTITY_4[OFFICEHOLDER] , another leader is ENTITY_2[PERSON] , and ENTITY_3[BUILDING] is a location in ENTITY_1[COUNTRY] .
+ENTITY_3[BUILDING] is located in ENTITY_1[COUNTRY] , the country where the leader is ENTITY_2[PERSON] and the prime minister is ENTITY_4[OFFICEHOLDER] .
+ENTITY_2[PERSON] and ENTITY_4[OFFICEHOLDER] are leaders in ENTITY_1[COUNTRY] where ENTITY_3[BUILDING] is located .
+ENTITY_3[BUILDING] is located in ENTITY_1[COUNTRY] where ENTITY_2[PERSON] and ENTITY_4[OFFICEHOLDER] are leaders .
+ENTITY_2[PERSON] is a leader of ENTITY_1[COUNTRY] where ENTITY_3[BUILDING] is located in ENTITY_4[CITY] .
+ENTITY_3[BUILDING] is located in ENTITY_4[CITY] in ENTITY_1[COUNTRY] which is has a leader called T.S. Thakur .
+ENTITY_2[PERSON] is a leader in ENTITY_1[COUNTRY] , which is the country where ENTITY_3[BUILDING] (  ENTITY_4[CITY]  ) is located .
+ENTITY_3[BUILDING] is located in ENTITY_4[SETTLEMENT] , ENTITY_1[COUNTRY] . ENTITY_2[PERSON] is a leader of ENTITY_1[COUNTRY] .
+ENTITY_3[BUILDING] is located in ENTITY_4[SETTLEMENT] in ENTITY_1[COUNTRY] , which is led by ENTITY_2[PERSON] .
+ENTITY_4[BUILDING] is located in ENTITY_1[COUNTRY] , where the leader isT ENTITY_2[PERSON] and the demonym for ENTITY_3[ETHNICGROUP] living there is ENTITY_1[COUNTRY] n .
+The residents of ENTITY_1[COUNTRY] are known as the ENTITY_1[COUNTRY] ENTITY_3[ETHNICGROUP] . ENTITY_4[BUILDING] is located in the country which is led by ENTITY_2[PERSON] .
+ENTITY_4[BUILDING] is located in ENTITY_1[COUNTRY] , where the leader is called ENTITY_2[PERSON] and the ENTITY_3[ETHNICGROUP] are called ENTITY_1[COUNTRY] n .
+Based in ENTITY_2[SETTLEMENT] , the ENTITY_1[COMPANY] was founded in ENTITY_3[SETTLEMENT] and is the tenant of the ENTITY_4[BUILDING] .
+ENTITY_1[COMPANY] , founded in ENTITY_3[SETTLEMENT] , is located in ENTITY_2[SETTLEMENT] and is the tenant of the ENTITY_4[BUILDING] .
+The tenant of the ENTITY_4[BUILDING] is ENTITY_1[COMPANY] , the company which was founded in ENTITY_3[SETTLEMENT] and is now based in ENTITY_2[SETTLEMENT] .
+Irish English is the official ENTITY_2[LANGUAGE] ENTITY_1[COUNTRY] , which is led by ENTITY_4[OFFICEHOLDER] and home to ENTITY_3[BUILDING] .
+ENTITY_3[BUILDING] is located in the ENTITY_1[COUNTRY] , the leader of this country is ENTITY_4[OFFICEHOLDER] and one of the ENTITY_2[LANGUAGE] used is English .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] which capital is ENTITY_2[SETTLEMENT] and ENTITY_3[OFFICEHOLDER] is the Chief of Justice .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] , the capital of which is ENTITY_2[SETTLEMENT] and where ENTITY_3[OFFICEHOLDER] is a leader .
+ENTITY_4[BUILDING] is in the ENTITY_1[COUNTRY] . The capital is ENTITY_2[SETTLEMENT] and ENTITY_3[OFFICEHOLDER] is a leader .
+ENTITY_3[OFFICEHOLDER] is a leader of the ENTITY_1[COUNTRY] where the capital city is Washington DC. ENTITY_4[BUILDING] is located in the country .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] , which are led by ENTITY_3[OFFICEHOLDER] and whose capital is ENTITY_2[SETTLEMENT]
+ENTITY_3[OFFICEHOLDER] is the leader of the ENTITY_1[COUNTRY] where the native ENTITY_2[LANGUAGE] is English. ENTITY_4[BUILDING] is also located there .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] where ENTITY_2[LANGUAGE] and one of its leaders is ENTITY_3[OFFICEHOLDER] .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] , ENTITY_2[LANGUAGE] of the ENTITY_1[COUNTRY] and ENTITY_3[OFFICEHOLDER] is the leader of the ENTITY_1[COUNTRY] .
+ENTITY_3[OFFICEHOLDER] is a leader of the ENTITY_1[COUNTRY] in which ENTITY_2[LANGUAGE] and is home to ENTITY_4[BUILDING] .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] , which is led by ENTITY_3[OFFICEHOLDER] .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] where they speak ENTITY_2[LANGUAGE] led by ENTITY_3[OFFICEHOLDER] .
+President ENTITY_4[PERSON] is the leader of the ENTITY_1[COUNTRY] where ENTITY_3[BUILDING] is located .
+President ENTITY_4[PERSON] is leader of the ENTITY_1[COUNTRY] where ENTITY_3[BUILDING] is located .
+President ENTITY_3[OFFICEHOLDER] leads the ENTITY_1[COUNTRY] which is the location of ENTITY_4[BUILDING] .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] where President ENTITY_3[OFFICEHOLDER] is leader .
+The ENTITY_1[COUNTRY] is led by the ENTITY_2[PERSON] ENTITY_1[COUNTRY] . One of the leaders is ENTITY_3[OFFICEHOLDER] , and ENTITY_4[BUILDING] is located in the country .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] where the Chief Justice is ENTITY_3[OFFICEHOLDER] and the leader 's title is ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] , with ENTITY_3[OFFICEHOLDER] being the ENTITY_2[PERSON] ENTITY_1[COUNTRY] .
+ENTITY_3[OFFICEHOLDER] 's title as leader is ENTITY_2[PERSON] ENTITY_1[COUNTRY] . ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] .
+ENTITY_4[BUILDING] is located in the ENTITY_1[COUNTRY] . The leader of this country has the title ENTITY_2[PERSON] ENTITY_1[COUNTRY] , which in this case is ENTITY_3[OFFICEHOLDER] .

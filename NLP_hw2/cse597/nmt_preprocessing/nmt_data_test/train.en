@@ -1,0 +1,2539 @@
+The leader of ENTITY_1[AIRPORT] is ENTITY_2[LEADERNAME] .
+The ENTITY_1[AIRPORT] of ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above sea level .
+ENTITY_1[AIRPORT] is at an elevation ENTITY_2[DATE] metres above seal level .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above the sea level .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+The location of ENTITY_1[AIRPORT] is ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is operated by ENTITY_2[OPERATINGORGANISATION] .
+ENTITY_2[OPERATINGORGANISATION] is the operation organisation of ENTITY_1[AIRPORT] .
+ENTITY_2[OPERATINGORGANISATION] is the operating organisation for ENTITY_1[AIRPORT] .
+ENTITY_2[OPERATINGORGANISATION] operates ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is operated by the ENTITY_2[OPERATINGORGANISATION] organisation .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+The ENTITY_1[AIRPORT] has a runway length of ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway length is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[RUNWAYLENGTH] .
+The length of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of the ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+The runway name at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name at ENTITY_1[AIRPORT] , .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_1[CITY] is in the ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in the ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] is part of Taylor County ,Texas .
+ENTITY_1[CITY] a part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] part of ENTITY_2[ADMINISTRATIVEREGION] .
+The length of the 1st runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet .
+The first runway at ENTITY_1[AIRPORT] is made from ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The 1st runway at ENTITY_1[AIRPORT] is made of ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The third runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet long .
+The 3rd runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet .
+The ENTITY_1[AIRPORT] 's 3rd runway length is ft is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] ICAO Location Identifier is ENTITY_2[ICAO_LOCATION_IDENTIFIER] .
+ENTITY_2[ICAO_LOCATION_IDENTIFIER] is the ICAO location identifier of ENTITY_1[AIRPORT] .
+The ICAO Location Identifier of ENTITY_1[AIRPORT] is ENTITY_2[ICAO_LOCATION_IDENTIFIER] .
+ENTITY_1[AIRPORT] elevation above the sea level in metres is ENTITY_2[YEAR] .
+The ENTITY_1[AIRPORT] is ENTITY_2[YEAR] metres above sea level .
+ENTITY_1[AIRPORT] is located ENTITY_2[YEAR] metres above sea level .
+The location identifier for ENTITY_1[AIRPORT] is ENTITY_2[LOCATIONIDENTIFIER] .
+The ENTITY_1[AIRPORT] 's location id is ENTITY_2[LOCATIONIDENTIFIER] .
+The location Identifier of ENTITY_1[AIRPORT] is ENTITY_2[LOCATIONIDENTIFIER] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] has the runway name ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name at ENTITY_1[AIRPORT] .
+The name of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+The length of the first runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet .
+ENTITY_2[DATE] feet is the length of the first runway at ENTITY_1[AIRPORT] .
+The 1st runway length in feet of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_2[SETTLEMENT] is served by the ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is ENTITY_2[YEAR] metres above sea level .
+ENTITY_1[AIRPORT] is located at ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] location idenitifier is ENTITY_2[LOCATIONIDENTIFIER] .
+ENTITY_2[LOCATIONIDENTIFIER] is the I.D. of the ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] location identifier is ENTITY_2[LOCATIONIDENTIFIER] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The length of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] has an elevation of ENTITY_2[DATE] metres above sea level .
+ENTITY_1[AIRPORT] is elevated ENTITY_2[DATE] metres above sea level .
+ENTITY_1[AIRPORT] is in ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] is found in ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] is found in ENTITY_2[CITY] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] can be found in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located at ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is found in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located at ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is operated by ENTITY_2[COMPANY] .
+ENTITY_2[COMPANY] is the operating organisation for ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is operated by ENTITY_2[COMPANY] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The length of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+ENTITY_1[AIRPORT] has a runway that is ENTITY_2[RUNWAYLENGTH] metres long .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[RUNWAYNAME] .
+The ENTITY_1[AIRPORT] runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+ENTITY_2[RUNWAYNAME] is the name of the runway for ENTITY_1[AIRPORT] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+ENTITY_2[RUNWAYNAME] is the runway name of the ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is elevated ENTITY_2[DATE] feet above sea level .
+ENTITY_1[AIRPORT] has an elevation above the sea level ( in feet ) of ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] is located ENTITY_2[DATE] metres above sea level .
+ENTITY_1[AIRPORT] has the elevation ENTITY_2[DATE] meters above the sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above sea level .
+The location of ENTITY_1[AIRPORT] is ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+The operating organization for ENTITY_1[AIRPORT] is ENTITY_2[OPERATINGORGANISATION] .
+ENTITY_1[AIRPORT] is operated by ENTITY_2[OPERATINGORGANISATION] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters long .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway length is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] has the runway name ENTITY_2[DATE]
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name at ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] 's runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] IATA Location Identifier is ENTITY_2[IATA_LOCATION_IDENTIFIER] .
+ENTITY_2[IATA_LOCATION_IDENTIFIER] is the IATA I.D. of the ENTITY_1[AIRPORT] .
+ENTITY_2[IATA_LOCATION_IDENTIFIER] is the ATA Location Identifier for ENTITY_1[AIRPORT] .
+The location identifier for ENTITY_1[AIRPORT] is ENTITY_2[ICAO_LOCATION_IDENTIFIER] .
+The ENTITY_1[AIRPORT] 's ICAO location identifier is ENTITY_2[ICAO_LOCATION_IDENTIFIER] .
+The ICAO Location Identifier of ENTITY_1[AIRPORT] is ENTITY_2[ICAO_LOCATION_IDENTIFIER] .
+ENTITY_1[AIRPORT] is elevated ENTITY_2[ELEVATIONABOVETHESEALEVEL_( IN_METRES )] metres above sea level .
+The elevation above the sea level ( in metres ) of ENTITY_1[AIRPORT] is ENTITY_2[ELEVATIONABOVETHESEALEVEL_( IN_METRES )] .
+ENTITY_1[AIRPORT] is in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[AIRPORT] is in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_2[NATIVENAME] is the native name of ENTITY_1[AIRPORT] .
+The native name of ENTITY_1[AIRPORT] is ENTITY_2[NATIVENAME] .
+The ENTITY_2[OPERATINGORGANISATION] is the operating organisation of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is operated by the ENTITY_2[OPERATINGORGANISATION] .
+The operating organization for ENTITY_1[AIRPORT] is the ENTITY_2[OPERATINGORGANISATION] .
+The ENTITY_2[OPERATINGORGANISATION] operates the ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is operated by the ENTITY_2[OPERATINGORGANISATION] .
+ENTITY_2[RUNWAYLENGTH] is the length of the runway of ENTITY_1[AIRPORT] .
+The length of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above sea level .
+The elevation above the sea level ( in metres ) of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+The location of ENTITY_1[AIRPORT] is ENTITY_2[LOCATION] .
+The location identifier for ENTITY_1[AIRPORT] is ENTITY_2[LOCATIONIDENTIFIER] .
+The location identifier of ENTITY_1[AIRPORT] is ENTITY_2[LOCATIONIDENTIFIER] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_2[ICAO_LOCATION_IDENTIFIER] is the ICAO location identifier of ENTITY_1[AIRPORT] , .
+The ICAO Location Identifier of ENTITY_1[AIRPORT] is ENTITY_2[ICAO_LOCATION_IDENTIFIER] .
+ENTITY_1[AIRPORT] is ENTITY_2[YEAR] feet above sea level .
+The ENTITY_1[AIRPORT] is ENTITY_2[YEAR] ft above sea level .
+ENTITY_1[AIRPORT] has an elevation above the sea level ( in feet ) of ENTITY_2[YEAR] .
+The ENTITY_1[AIRPORT] is situated in the ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located at ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is found in ENTITY_2[MUSICALARTIST] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[AIRPORT] is in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[AIRPORT] is operated by the ENTITY_2[ORGANISATION] .
+The ENTITY_2[ORGANISATION] is the operating organisation for ENTITY_1[AIRPORT] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The ENTITY_1[AIRPORT] has a runway length of ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] ,992.88 .
+ENTITY_2[DATE] is the length of the runway at ENTITY_1[AIRPORT] .
+ENTITY_2[DATE] is the runway name at ENTITY_1[AIRPORT] .
+ENTITY_2[DATE] is the runway name of the ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+The AI ENTITY_1[AIRPORT] 's runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name at ENTITY_1[AIRPORT] .
+The name of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] has the runway name ENTITY_2[RUNWAYNAME] .
+ENTITY_1[CITY] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[CITY] is part of the ENTITY_2[SETTLEMENT] .
+The leader party at ENTITY_1[CITY] is the Peoples Party ( Spain ) .
+ENTITY_2[SETTLEMENT] is the capital of ENTITY_1[COUNTRY] .
+The main ENTITY_2[LANGUAGE] spoken on ENTITY_1[COUNTRY] is English .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] uses the ENTITY_2[LANGUAGE] .
+ENTITY_1[COUNTRY] 's leader name is ENTITY_2[PERSON] .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[PERSON] .
+The leader 's name of ENTITY_1[COUNTRY] is ENTITY_2[PERSON] .
+The first runway at ENTITY_1[AIRPORT] is made of ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The 1st runway at ENTITY_1[AIRPORT] has an ENTITY_2[1ST_RUNWAY_SURFACETYPE] surface .
+The 1st runway at ENTITY_1[AIRPORT] is made from ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The surface of the 1st runway at ENTITY_1[AIRPORT] is ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The 1st runway at ENTITY_1[AIRPORT] is made from ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The ENTITY_1[AIRPORT] serves ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above sea level .
+The ENTITY_1[AIRPORT] elevation above the sea level ( in meters ) is ENTITY_2[DATE]
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+The ENTITY_1[AIRPORT] runway has a length of ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_1[AIRPORT] 's runway has a length of ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[DATE]
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+The runway at ENTITY_1[AIRPORT] is named ENTITY_2[DATE]
+ENTITY_2[SETTLEMENT] is the capital of ENTITY_1[COUNTRY] .
+The main ENTITY_2[LANGUAGE] spoken on ENTITY_1[COUNTRY] is English .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] uses the ENTITY_2[LANGUAGE] .
+ENTITY_1[COUNTRY] 's leader name is ENTITY_2[PERSON] .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[PERSON] .
+ENTITY_2[SETTLEMENT] is the capital of ENTITY_1[COUNTRY] .
+The main ENTITY_2[LANGUAGE] spoken on ENTITY_1[COUNTRY] is English .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] uses the ENTITY_2[LANGUAGE] .
+ENTITY_1[COUNTRY] 's leader name is ENTITY_2[PERSON] .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[PERSON] .
+The leader 's name of ENTITY_1[COUNTRY] is ENTITY_2[PERSON] .
+The first runway at ENTITY_1[AIRPORT] is made of ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The 1st runway at ENTITY_1[AIRPORT] has an ENTITY_2[1ST_RUNWAY_SURFACETYPE] surface .
+The 1st runway at ENTITY_1[AIRPORT] is made from ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The surface of the 1st runway at ENTITY_1[AIRPORT] is ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The 1st runway at ENTITY_1[AIRPORT] is made from ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The ENTITY_1[AIRPORT] serves ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above sea level .
+The ENTITY_1[AIRPORT] elevation above the sea level ( in meters ) is ENTITY_2[DATE]
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+The ENTITY_1[AIRPORT] runway has a length of ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_1[AIRPORT] 's runway has a length of ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[DATE]
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+The runway at ENTITY_1[AIRPORT] is named ENTITY_2[DATE]
+ENTITY_2[DATE] is the runway name of ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITYSERVED] .
+The city of ENTITY_2[CITYSERVED] is served by ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is found in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+The ENTITY_2[OPERATINGORGANISATION] governs the ENTITY_1[AIRPORT] .
+The ENTITY_2[OPERATINGORGANISATION] is the operating organisation of the ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is operated by ENTITY_2[OPERATINGORGANISATION] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway name at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+The ENTITY_1[AIRPORT] 's runway name is ENTITY_2[RUNWAYNAME] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name at ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] has a runway named ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] 's runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] is a country in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is in the U.S .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+The length of the first runway of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+The first runway length in feet of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] city served ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] elevation above the sea level in metres is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] has an elevation of ENTITY_2[DATE] metres above sea level .
+ENTITY_1[AIRPORT] is elevated ENTITY_2[DATE] metres above sea level .
+ENTITY_1[AIRPORT] is found in ENTITY_2[LOCATION] .
+The location of ENTITY_1[AIRPORT] is ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is found in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[LOCATION] .
+The location of ENTITY_1[AIRPORT] is ENTITY_2[LOCATION] .
+The location identifier of ENTITY_1[AIRPORT] is ENTITY_2[LOCATIONIDENTIFIER] .
+The ENTITY_1[AIRPORT] 's location id is ENTITY_2[LOCATIONIDENTIFIER] .
+The loaction identifier of ENTITY_1[AIRPORT] is ENTITY_2[LOCATIONIDENTIFIER] .
+ENTITY_1[AIRPORT] owner is ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_2[ADMINISTRATIVEREGION] is the owner of the ENTITY_1[AIRPORT] .
+The owner of ENTITY_1[AIRPORT] is ENTITY_2[ADMINISTRATIVEREGION] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+The ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters long .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[DATE] .
+ENTITY_2[DATE] is the runway name of ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_2[DATE] is the runway name of ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_1[CITY] 's leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the name of the leader of ENTITY_1[CITY] .
+The leader of ENTITY_1[CITY] is ENTITY_2[OFFICEHOLDER] .
+The length of the first runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres .
+The length of the 1st runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres .
+The length of the first runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] meters .
+The first runway at ENTITY_1[AIRPORT] Airport is made from ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The first runway of ENTITY_1[AIRPORT] is made in ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The 1st runway at ENTITY_1[AIRPORT] is made from ENTITY_2[1ST_RUNWAY_SURFACETYPE] .
+The fourth runway at Schiphol Airport in Amsterdam is made of ENTITY_2[4TH_RUNWAY_SURFACETYPE] .
+The 4th runway at ENTITY_1[AIRPORT] has a surface of ENTITY_2[4TH_RUNWAY_SURFACETYPE] .
+ENTITY_1[AIRPORT] is 5th runway number ENTITY_2[YEAR] .
+ENTITY_2[YEAR] is the number of the fifth runway of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] Airport 's 5th runway has the number ENTITY_2[YEAR] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] serves ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] is ENTITY_2[] metres above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[] above sea level .
+ENTITY_1[AIRPORT] is at an elevation of ENTITY_2[] from sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[] metres above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[] above sea level .
+ENTITY_1[AIRPORT] is at an elevation of ENTITY_2[] from sea level .
+ENTITY_1[AIRPORT] Airport is located in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is ENTITY_2[( IN_METRES] metres above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[( IN_METRES] above sea level .
+ENTITY_1[AIRPORT] is at an elevation of ENTITY_2[( IN_METRES] from sea level .
+ENTITY_1[AIRPORT] Airport is located in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] operating organization is ENTITY_2[OPERATINGORGANISATION] .
+ENTITY_2[OPERATINGORGANISATION] operates the ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] is run by the operation organisation the ENTITY_2[OPERATINGORGANISATION] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters .
+ENTITY_1[AIRPORT] is ENTITY_2[( IN_METRES] metres above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[( IN_METRES] above sea level .
+ENTITY_1[AIRPORT] is at an elevation of ENTITY_2[( IN_METRES] from sea level .
+ENTITY_1[AIRPORT] Airport is located in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is ENTITY_2[( IN_METRES] metres above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[( IN_METRES] above sea level .
+ENTITY_1[AIRPORT] is at an elevation of ENTITY_2[( IN_METRES] from sea level .
+ENTITY_1[AIRPORT] Airport is located in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is ENTITY_2[METRES] metres above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[METRES] above sea level .
+ENTITY_1[AIRPORT] is at an elevation of ENTITY_2[METRES] from sea level .
+ENTITY_1[AIRPORT] Airport is located in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] operating organization is ENTITY_2[OPERATINGORGANISATION] .
+ENTITY_2[OPERATINGORGANISATION] operates the ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] is run by the operation organisation the ENTITY_2[OPERATINGORGANISATION] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The length of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] metres .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] Airport is ENTITY_2[RUNWAYLENGTH]
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] Airport has a runway length of ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] metres .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] is ENTITY_2[METRES] metres above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[METRES] above sea level .
+ENTITY_1[AIRPORT] is at an elevation of ENTITY_2[METRES] from sea level .
+ENTITY_1[AIRPORT] Airport is located in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] operating organization is ENTITY_2[COMPANY] .
+ENTITY_2[COMPANY] operates the ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] is run by the operation organisation the ENTITY_2[COMPANY] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The length of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] metres .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] Airport is ENTITY_2[RUNWAYLENGTH]
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] Airport has a runway length of ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] metres .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+The runway at ENTITY_1[AIRPORT] is 04/22 'Oostbaan .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of the ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] Airport has a runway named ENTITY_2[RUNWAYNAME] .
+The runway name of ENTITY_1[AIRPORT] Airport is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] are the names for the runway at ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] Airport has the runway name 18L/36R 'Aalsmeerbaan .
+ENTITY_2[RUNWAYNAME] is the runway name at ENTITY_1[AIRPORT] .
+The runway at ENTITY_1[AIRPORT] Airport is called ENTITY_2[RUNWAYNAME] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] is country seat to ENTITY_2[COUNTYSEAT] .
+ENTITY_2[COUNTYSEAT] is the country seat of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] has its county seat in ENTITY_2[COUNTYSEAT] .
+The largest city in ENTITY_1[AIRPORT] is ENTITY_2[LARGESTCITY] .
+ENTITY_2[LARGESTCITY] is the largest city in ENTITY_1[AIRPORT] .
+The third runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet .
+The ENTITY_1[AIRPORT] 's 3rd runway length in ft is ENTITY_2[DATE] .
+The length of the 3rd runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet .
+ENTITY_1[AIRPORT] is 4th runway length feet of ENTITY_2[DATE] .
+The fourth runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet long .
+ENTITY_1[AIRPORT] 's 4th runway has a length in feet of ENTITY_2[DATE] .
+The fourth runway at ENTITY_1[AIRPORT] is made from ENTITY_2[4TH_RUNWAY_SURFACETYPE] .
+The ENTITY_1[AIRPORT] fourth runway is made of ENTITY_2[4TH_RUNWAY_SURFACETYPE] .
+The 4th runway at ENTITY_1[AIRPORT] is made of ENTITY_2[4TH_RUNWAY_SURFACETYPE] .
+ENTITY_1[AIRPORT] 's city is served by ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[AIRPORT] location identifier is ENTITY_2[LOCATIONIDENTIFIER] .
+ENTITY_2[LOCATIONIDENTIFIER] is the location identifier of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATIONIDENTIFIER] .
+The length of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] metres .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway is ENTITY_2[DATE] meters long .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] runway length is ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+The ENTITY_1[AIRPORT] 's runway length is ENTITY_2[DATE]
+ENTITY_1[AIRPORT] runway name is ENTITY_2[DATE]
+ENTITY_2[DATE] is the runway name of ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_1[AIRPORT] 's runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_2[DATE] is the name of the runway of ENTITY_1[AIRPORT] .
+The name of the runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+The runway at ENTITY_1[AIRPORT] is called ENTITY_2[RUNWAYNAME] .
+The length of the first runway at ENTITY_1[AIRPORT] is ENTITY_2[1ST_RUNWAY_LENGTHFEET] feet .
+The first runway of ENTITY_1[AIRPORT] is ENTITY_2[1ST_RUNWAY_LENGTHFEET] feet long .
+The 1st runway length in feet of ENTITY_1[AIRPORT] is ENTITY_2[1ST_RUNWAY_LENGTHFEET] .
+ENTITY_1[AIRPORT] ENTITY_2[DATE] runway is Number ENTITY_2[DATE] .
+ENTITY_2[DATE] is the number of the first runway of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] 's ENTITY_2[DATE] runway has the number ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] city served is ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above sea level .
+The ENTITY_1[AIRPORT] is ENTITY_2[DATE] meters above sea level .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above the sea level .
+ENTITY_1[AIRPORT] is located at ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] long .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_2[RUNWAYLENGTH] is the runway length at ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] length .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway at ENTITY_1[AIRPORT] is called ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name at ENTITY_1[AIRPORT] .
+The runway at ENTITY_1[AIRPORT] is named ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is a runway name at ENTITY_1[AIRPORT] .
+The runway at ENTITY_1[AIRPORT] is named ENTITY_2[RUNWAYNAME] .
+The name of ENTITY_1[AIRPORT] runway is ENTITY_2[RUNWAYNAME] .
+ENTITY_1[CITY] is admin ENTITY_2[ADMINISTRATIVEARRONDISSEMENT] Arrondissement .
+ENTITY_2[ADMINISTRATIVEARRONDISSEMENT] ENTITY_1[CITY] is the administrative arrondissement of ENTITY_1[CITY] .
+The administrative ENTITY_2[ADMINISTRATIVEARRONDISSEMENT] ENTITY_1[CITY] is the ENTITY_2[ADMINISTRATIVEARRONDISSEMENT] ENTITY_1[CITY] .
+ENTITY_1[CITY] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is a popular tourist destination in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in ENTITY_2[COUNTRY] .
+The mayor of ENTITY_1[CITY] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the mayor of ENTITY_1[CITY] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITY] .
+ENTITY_2[CITY] is served by ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] operation organization is ENTITY_2[OPERATINGORGANISATION] .
+ENTITY_2[OPERATINGORGANISATION] operates the ENTITY_1[AIRPORT] .
+The ENTITY_2[OPERATINGORGANISATION] is the operating organisation of ENTITY_1[AIRPORT] .
+The owner of ENTITY_1[AIRPORT] is the ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is owned by ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is owned by the ENTITY_2[SETTLEMENT] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] in length .
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[CITY] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[CITY] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[CITY] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[CITY] , is part of ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] is part of ENTITY_1[CITY] .
+ENTITY_1[AIRPORT] is 1st ENTITY_2[DATE] runway length .
+The first runway of ENTITY_1[AIRPORT] has a length of ENTITY_2[DATE] feet .
+The 1st runway length in feet of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] city served ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITY] .
+ENTITY_2[CITY] is a city which is served by ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] elevation above the sea level in metres is ENTITY_2[YEAR] .
+ENTITY_1[AIRPORT] has an elevation of ENTITY_2[YEAR] metres above sea level .
+ENTITY_1[AIRPORT] is elevated ENTITY_2[YEAR] metres above sea level .
+ENTITY_1[AIRPORT] can be found in ENTITY_2[SETTLEMENT] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[AIRPORT] is in ENTITY_2[SETTLEMENT] .
+The location identifier for ENTITY_1[AIRPORT] is ENTITY_2[LOCATIONIDENTIFIER] .
+The ENTITY_1[AIRPORT] 's location id is ENTITY_2[LOCATIONIDENTIFIER] .
+The location identifier of ENTITY_1[AIRPORT] is ENTITY_2[LOCATIONIDENTIFIER] .
+The operating organization for ENTITY_1[AIRPORT] is in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_2[ADMINISTRATIVEREGION] is the operating organisation of ENTITY_1[AIRPORT] .
+The operators of ENTITY_1[AIRPORT] are in ENTITY_2[ADMINISTRATIVEREGION] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH]
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_2[DATE] is the runway name of ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+ENTITY_2[DATE] is the runway name of ENTITY_1[AIRPORT] .
+ENTITY_2[SPECIES] is the surface type of the second runway of ENTITY_1[AIRPORT] .
+The 2nd runway at ENTITY_1[AIRPORT] is made of ENTITY_2[SPECIES] .
+The 3rd runway at ENTITY_1[AIRPORT] is ENTITY_2[YEAR] feet in length .
+The ENTITY_1[AIRPORT] 's 3rd runway length in feet is ENTITY_2[YEAR] .
+The 3rd runway at ENTITY_1[AIRPORT] is ENTITY_2[YEAR] feet long .
+ENTITY_1[AIRPORT] 's 3rd runway surface type is ENTITY_2[SPECIES] .
+The 3rd runway at ENTITY_1[AIRPORT] is made of ENTITY_2[SPECIES] .
+The ENTITY_1[AIRPORT] is ENTITY_2[DATE] meters above sea level .
+ENTITY_1[AIRPORT] is elevated ENTITY_2[DATE] metres above sea level .
+The ENTITY_1[AIRPORT] is in ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[CITY] , New Zealand .
+The ENTITY_2[ORGANISATION] is the operating organisation for ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] is operated by the ENTITY_2[ORGANISATION] .
+ENTITY_1[AIRPORT] is operated by the ENTITY_2[ORGANISATION] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The ENTITY_1[AIRPORT] 's runway length is ENTITY_2[RUNWAYLENGTH]
+ENTITY_1[AIRPORT] runway length is ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+The runway name at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+The runway at ENTITY_1[AIRPORT] is called ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is a runway name at ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] 's runway name is ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[DATE]
+ENTITY_2[DATE] is the runway name of ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[DATE]
+The length of the first runway at ENTITY_1[AIRPORT] is ENTITY_2[1ST_RUNWAY_LENGTHFEET] feet .
+The 1st runway at ENTITY_1[AIRPORT] is ENTITY_2[1ST_RUNWAY_LENGTHFEET] feet in length .
+ENTITY_1[AIRPORT] 's 1st runway has a length of ENTITY_2[1ST_RUNWAY_LENGTHFEET] feet .
+The ENTITY_1[AIRPORT] 's 3rd runway length in ft is ENTITY_2[DATE] .
+The length of the 3rd runway at ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet .
+ENTITY_2[IATA_LOCATION_IDENTIFIER] is the IATA location identifier for ENTITY_1[AIRPORT] .
+The IATA Location Identifier of ENTITY_1[AIRPORT] is ENTITY_2[IATA_LOCATION_IDENTIFIER] .
+ENTITY_1[AIRPORT] is ENTITY_2[YEAR] metres above sea level .
+ENTITY_1[AIRPORT] is elevated ENTITY_2[YEAR] metres above sea level .
+ENTITY_1[AIRPORT] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] is the location of ENTITY_1[AIRPORT] .
+The operating organization for ENTITY_1[AIRPORT] is called ENTITY_2[COMPANY] .
+ENTITY_1[AIRPORT] is operated by ENTITY_2[COMPANY] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] meters .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The average runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] m .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] 's runway is ENTITY_2[DATE] meters long .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_2[RUNWAYNAME] is the runway name of ENTITY_1[AIRPORT] .
+The runway name of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYNAME] .
+ENTITY_2[RUNWAYNAME] is the runway name of the ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] has the runway name ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] has a runway named ENTITY_2[RUNWAYNAME] .
+ENTITY_1[AIRPORT] is located in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is a city in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] mayor is ENTITY_2[MAYOR] .
+ENTITY_2[MAYOR] is the mayor of ENTITY_1[AIRPORT] .
+The mayor of ENTITY_1[AIRPORT] is ENTITY_2[MAYOR] .
+The ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITYSERVED] .
+ENTITY_1[AIRPORT] is ENTITY_2[DATE] metres above sea level .
+The elevation above the sea level ( in metres ) of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] is in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+The runway length at ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] has a runway length of ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[CITY] is in the U.S.A .
+ENTITY_1[CITY] is in the ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of ENTITY_2[ISPARTOF] .
+The leader of ENTITY_1[CITY] is ENTITY_2[LEADERNAME] .
+The leader 's name of ENTITY_1[CITY] , is ENTITY_2[LEADERNAME] .
+ENTITY_1[AIRPORT] 's ICAO Location Identifier is ENTITY_2[ICAO_LOCATION_IDENTIFIER] .
+ENTITY_2[ICAO_LOCATION_IDENTIFIER] is the ICAO Location Identifier of ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] serves ENTITY_2[CITY] .
+ENTITY_1[AIRPORT] serves the city of ENTITY_2[CITY] .
+The elevation above sea level for ENTITY_1[AIRPORT] is ENTITY_2[DATE] ft .
+The ENTITY_1[AIRPORT] is ENTITY_2[DATE] feet above sea level .
+ENTITY_1[AIRPORT] has an elevation of ENTITY_2[DATE] feet above sea level .
+The elevation above the sea level ( in metres ) of ENTITY_1[AIRPORT] is ENTITY_2[DATE] .
+ENTITY_1[AIRPORT] is in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is located at ENTITY_2[LOCATION] .
+The ENTITY_1[AIRPORT] is operated by the ENTITY_2[OPERATINGORGANISATION] .
+The ENTITY_2[OPERATINGORGANISATION] is the operating organisation of ENTITY_1[AIRPORT] , .
+ENTITY_1[AIRPORT] is operated by the ENTITY_2[OPERATINGORGANISATION] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH]
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+The runway length of ENTITY_1[AIRPORT] is ENTITY_2[RUNWAYLENGTH] .
+ENTITY_1[AIRPORT] runway name is ENTITY_2[DATE]
+ENTITY_2[DATE] is the runway name of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] has the runway name ENTITY_2[DATE]
+The runway surface at ENTITY_1[AIRPORT] is made from ENTITY_2[RUNWAYSURFACETYPE] .
+The ENTITY_1[AIRPORT] 's runway surface is made of ENTITY_2[RUNWAYSURFACETYPE] .
+The capital of ENTITY_1[COUNTRY] ENTITY_2[CAPITAL] .
+The capital city of ENTITY_1[COUNTRY] ENTITY_2[CAPITAL] .
+French is the spoken ENTITY_2[LANGUAGE] in ENTITY_1[COUNTRY] .
+The ENTITY_2[LANGUAGE] of ENTITY_1[COUNTRY] is French .
+French is one of the ENTITY_2[LANGUAGE] spoken in ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] language is ENTITY_2[LANGUAGE] .
+ENTITY_2[LANGUAGE] of ENTITY_1[COUNTRY] .
+The ENTITY_2[LANGUAGE] spoken is ENTITY_1[COUNTRY] is German .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[LEADERNAME] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[LEADERNAME] .
+ENTITY_2[LEADERNAME] ENTITY_1[COUNTRY] is the leader of ENTITY_1[COUNTRY] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[LEADERNAME] ENTITY_1[COUNTRY] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[LEADERNAME] ENTITY_1[COUNTRY] .
+French is the official ENTITY_2[OFFICIALLANGUAGE] of ENTITY_1[COUNTRY] .
+The official ENTITY_2[OFFICIALLANGUAGE] of ENTITY_1[COUNTRY] is French .
+German is the official ENTITY_2[OFFICIALLANGUAGE] of ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] 's official ENTITY_2[OFFICIALLANGUAGE] is German .
+German is an official ENTITY_2[OFFICIALLANGUAGE] of ENTITY_1[COUNTRY] .
+The ENTITY_1[ORGANISATION] is in ENTITY_2[LOCATION] .
+The ENTITY_1[ORGANISATION] is located in ENTITY_2[LOCATION] .
+ENTITY_1[CITY] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of the State of Paraná .
+ENTITY_1[CITY] is part of Parana state .
+ENTITY_1[CITY] is part of the state of Parana .
+ENTITY_1[CITY] is led by the Democratic Labour Party ( Brazil ) .
+The capital of ENTITY_1[COUNTRY] is ENTITY_2[CAPITAL] .
+ENTITY_2[CAPITAL] is the capital of ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] language is ENTITY_2[LANGUAGE] .
+ENTITY_2[LANGUAGE] of ENTITY_1[COUNTRY] .
+The ENTITY_2[LANGUAGE] of ENTITY_1[COUNTRY] is Danish .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] 's ENTITY_2[LANGUAGE] is Faroese .
+ENTITY_2[LANGUAGE] spoken in ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] of ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] spoken in ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] spoken in ENTITY_1[COUNTRY] .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+One of the languages of ENTITY_1[COUNTRY] is ENTITY_2[LANGUAGE] .
+ENTITY_1[COUNTRY] 's leader name is ENTITY_2[LEADERNAME] .
+ENTITY_2[LEADERNAME] leads ENTITY_1[COUNTRY] .
+ENTITY_2[LEADERNAME] is the leader of ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[LEADERNAME] ENTITY_1[COUNTRY] .
+ENTITY_2[LEADERNAME] ENTITY_1[COUNTRY] is the leader of ENTITY_1[COUNTRY] .
+The Queen of ENTITY_1[COUNTRY] is ENTITY_2[LEADERNAME] .
+ENTITY_1[COMPANY] is in the city of ENTITY_2[CITY] .
+ENTITY_1[COMPANY] is located in the city of ENTITY_2[CITY] .
+ENTITY_1[COMPANY] is located in ENTITY_2[CITY] .
+ENTITY_1[SETTLEMENT] is in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] , in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is a township in ENTITY_2[ADMINISTRATIVEREGION] , United States .
+The Egg Harbor Township ,New Jersey is a part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[ORGANISATION] jurisdiction is ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] is the jurisdiction of the ENTITY_1[ORGANISATION] .
+The ENTITY_1[ORGANISATION] has its jurisdiction in ENTITY_2[SETTLEMENT] .
+ENTITY_1[ORGANISATION] jurisdiction is ENTITY_2[SETTLEMENT] .
+The ENTITY_1[ORGANISATION] has jurisdiction of the ENTITY_2[SETTLEMENT] .
+The jurisdiction of the ENTITY_1[ORGANISATION] is the ENTITY_2[SETTLEMENT] .
+The ENTITY_1[SETTLEMENT] is in the country of ENTITY_2[COUNTRY] .
+The ENTITY_1[SETTLEMENT] is led by the ENTITY_2[ORGANISATION] .
+The ENTITY_2[ORGANISATION] leads the ENTITY_1[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] demonym is ENTITY_2[ORGANISATION] .
+The people of ENTITY_1[MUSICALARTIST] are called ENTITY_2[ORGANISATION] .
+The demonym of the inhabitants of ENTITY_1[MUSICALARTIST] is ENTITY_2[ORGANISATION] .
+ENTITY_2[ORGANISATION] spoken in ENTITY_1[MUSICALARTIST] .
+The ENTITY_2[ORGANISATION] spoken in ENTITY_1[MUSICALARTIST] is Greek .
+ENTITY_1[MUSICALARTIST] leader name is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the name of the leader of ENTITY_1[MUSICALARTIST] .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[OFFICEHOLDER] .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[MUSICALARTIST] 's leader name is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[MUSICALARTIST] .
+ENTITY_2[OFFICEHOLDER] is the name of the Leader of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] part of the town of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of Menasha ( town ) , Wisconsin .
+ENTITY_1[SETTLEMENT] , is located in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of the U.S .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[MUSICALARTIST] .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[OFFICEHOLDER] .
+One of the leaders of ENTITY_1[MUSICALARTIST] is called ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is a leader of ENTITY_1[MUSICALARTIST] .
+The leader of ENTITY_1[MUSICALARTIST] is T.S. Thakur .
+ENTITY_1[ORGANISATION] has an aircraft-capable helicopter known as the ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] is an aircraft helicopter of the ENTITY_1[ORGANISATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] is a Helicopter used by the ENTITY_1[ORGANISATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] is a transport aircraft in the ENTITY_1[ORGANISATION] .
+The transport aircraft for the ENTITY_1[ORGANISATION] is the ENTITY_2[MEANOFTRANSPORTATION] .
+ENTITY_1[COMPANY] is in ENTITY_2[SETTLEMENT] .
+ENTITY_1[COMPANY] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_1[COMPANY] location is in ENTITY_2[COUNTRY] .
+ENTITY_1[COMPANY] is in ENTITY_2[COUNTRY] .
+ENTITY_1[COMPANY] is located in ENTITY_2[COUNTRY] .
+The currency in ENTITY_1[MUSICALARTIST] is the ENTITY_1[MUSICALARTIST] ENTITY_2[CURRENCY] .
+The currency of ENTITY_1[MUSICALARTIST] is the ENTITY_1[MUSICALARTIST] ENTITY_2[CURRENCY] .
+The ENTITY_2[LANGUAGE] are spoken in ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is led by ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[MUSICALARTIST] 's leader is ENTITY_2[OFFICEHOLDER] .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[MUSICALARTIST] leader name is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the name of the leader of ENTITY_1[MUSICALARTIST] .
+The leader if ENTITY_1[MUSICALARTIST] is called ENTITY_2[OFFICEHOLDER] .
+The official language of ENTITY_1[MUSICALARTIST] is ENTITY_2[LANGUAGE] .
+ENTITY_2[LANGUAGE] is the official language of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[CITY] is in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is located in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] is in the country of ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is located in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is part of the ENTITY_2[SETTLEMENT] ENTITY_1[CITY] .
+Ahora ENTITY_1[CITY] is the leading party of ENTITY_1[CITY] .
+The leader party in ENTITY_1[CITY] is Ahora ENTITY_1[CITY] .
+ENTITY_1[SETTLEMENT] is in the ENTITY_2[COUNTRY] .
+The ENTITY_1[SETTLEMENT] is in the U.S .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[MUSICALARTIST] has a leader called ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[MUSICALARTIST] 's leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[MUSICALARTIST] .
+ENTITY_2[OFFICEHOLDER] is a leader of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] 's leader is ENTITY_2[OFFICEHOLDER] .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[OFFICEHOLDER] .
+The ENTITY_1[ORGANISATION] is headquartered at ENTITY_2[AIRPORT] .
+The ENTITY_1[ORGANISATION] Headquarters is the ENTITY_2[AIRPORT] .
+ENTITY_1[CITY] is in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is located in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] is in the country of ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is located in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is part of the ENTITY_2[SETTLEMENT] ENTITY_1[CITY] .
+Ahora ENTITY_1[CITY] is the leading party of ENTITY_1[CITY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] , is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of the ENTITY_2[ISPARTOF] ENTITY_1[CITY] .
+Ahora ENTITY_1[CITY] is the leading party of ENTITY_1[CITY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] , is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] , is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of the ENTITY_2[ISPARTOF] ENTITY_1[CITY] .
+Ahora ENTITY_1[CITY] is the leading party of ENTITY_1[CITY] .
+The leader party in ENTITY_1[CITY] is Ahora ENTITY_1[CITY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] , is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of the ENTITY_2[ISPARTOF] ENTITY_1[CITY] .
+Ahora ENTITY_1[CITY] is the leading party of ENTITY_1[CITY] .
+The leader party in ENTITY_1[CITY] is Ahora ENTITY_1[CITY] .
+ENTITY_1[AIRPORT] is in the ENTITY_2[COUNTRY] .
+The ENTITY_1[AIRPORT] is in the U.S .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[LEADERNAME] .
+ENTITY_1[COUNTRY] has a leader called ENTITY_2[LEADERNAME] .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[LEADERNAME] .
+ENTITY_2[LEADERNAME] is the leader of ENTITY_1[COUNTRY] .
+ENTITY_2[LEADERNAME] is a leader of ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[LEADERNAME] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[LEADERNAME] .
+The ENTITY_1[AIRPORT] is headquartered at ENTITY_2[HEADQUARTER] .
+The ENTITY_1[AIRPORT] Headquarters is the ENTITY_2[HEADQUARTER] .
+The headquarters of the ENTITY_1[AIRPORT] are at ENTITY_2[HEADQUARTER] .
+ENTITY_1[AIRPORT] 's location is ENTITY_2[LOCATION] .
+The ENTITY_1[AIRPORT] is in the ENTITY_2[LOCATION] .
+The ENTITY_1[AIRPORT] is located at ENTITY_2[LOCATION] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is part of the ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] class is ENTITY_2[CLASS] .
+ENTITY_1[AIRPORT] is in the class ENTITY_2[CLASS] .
+ENTITY_1[AIRPORT] belongs to the division of ENTITY_2[DIVISION] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] , is part of ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of the ENTITY_2[ISPARTOF] ENTITY_1[CITY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] is in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[CITY] is in the country of ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is located in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is part of the ENTITY_2[SETTLEMENT] ENTITY_1[CITY] .
+Ahora ENTITY_1[CITY] is the leading party of ENTITY_1[CITY] .
+The leader party in ENTITY_1[CITY] is Ahora ENTITY_1[CITY] .
+ENTITY_1[SETTLEMENT] is in the ENTITY_2[COUNTRY] .
+The ENTITY_1[SETTLEMENT] is in the U.S .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[COUNTRY] has a leader called ENTITY_2[OFFICEHOLDER] .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[COUNTRY] .
+ENTITY_2[OFFICEHOLDER] is a leader of ENTITY_1[COUNTRY] .
+ENTITY_1[COUNTRY] 's leader is ENTITY_2[OFFICEHOLDER] .
+The leader of ENTITY_1[COUNTRY] is ENTITY_2[OFFICEHOLDER] .
+The ENTITY_1[ORGANISATION] is headquartered at ENTITY_2[AIRPORT] .
+The ENTITY_1[ORGANISATION] Headquarters is the ENTITY_2[AIRPORT] .
+The headquarters of the ENTITY_1[ORGANISATION] are at ENTITY_2[AIRPORT] .
+ENTITY_1[ORGANISATION] 's location is ENTITY_2[AIRPORT] .
+The ENTITY_1[ORGANISATION] is in the ENTITY_2[AIRPORT] .
+The ENTITY_1[ORGANISATION] is located at ENTITY_2[AIRPORT] .
+ENTITY_1[SETTLEMENT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[SETTLEMENT] .
+ENTITY_1[SPECIES] class is ENTITY_2[SPECIES] .
+ENTITY_1[SPECIES] is in the class ENTITY_2[SPECIES] .
+ENTITY_1[SPECIES] belongs to the division of ENTITY_2[DIVISION] .
+ENTITY_1[SPECIES] belongs to the order of ENTITY_2[ORDER] .
+ENTITY_1[SPECIES] is the order of ENTITY_2[ORDER] .
+ENTITY_1[SPECIES] is of the ENTITY_2[ORDER] order .
+ENTITY_1[SPECIES] is of the order ENTITY_2[ORDER] .
+ENTITY_1[SPECIES] is a member of the order of ENTITY_2[ORDER] .
+ENTITY_1[AIRPORT] headquarter is ENTITY_2[HEADQUARTER] .
+The ENTITY_2[HEADQUARTER] is the headquarters of the ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] 's headquarter is ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_2[ADMINISTRATIVEREGION] is the base of the ENTITY_1[AIRPORT] .
+The ENTITY_1[AIRPORT] has its headquarters in ENTITY_2[ADMINISTRATIVEREGION] .
+The ENTITY_1[AIRPORT] serves the ENTITY_2[ADMINISTRATIVEREGION] region .
+The ENTITY_1[AIRPORT] serves ENTITY_2[ADMINISTRATIVEREGION] .
+Punjab is found in the country ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] .
+ENTITY_2[LEADERNAME] is a leader in the ENTITY_1[AIRPORT] .
+ENTITY_2[LEADERNAME] is the leader of ENTITY_1[AIRPORT] .
+ENTITY_1[AIRPORT] 's leader is ENTITY_2[LEADERNAME] .
+The leader of ENTITY_1[AIRPORT] is ENTITY_2[LEADERNAME] .
+The ENTITY_1[AIRPORT] , is led by the ENTITY_2[LEADERTITLE] .
+ENTITY_1[AIRPORT] is led by the ENTITY_2[LEADERTITLE] .
+ENTITY_1[SETTLEMENT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[SETTLEMENT] .
+The ENTITY_2[ORGANISATION] is the lead party of ENTITY_1[SETTLEMENT] , Spain .
+ENTITY_1[SETTLEMENT] is located in the U.S .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] , is part of the ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] chief is ENTITY_2[CHIEF] .
+ENTITY_2[CHIEF] is the chief of the ENTITY_1[AIRPORT] .
+Punjab is found in the country ENTITY_1[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] .
+ENTITY_2[OFFICEHOLDER] is a leader in the ENTITY_1[SETTLEMENT] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] 's leader is ENTITY_2[OFFICEHOLDER] .
+The leader of ENTITY_1[SETTLEMENT] is ENTITY_2[OFFICEHOLDER] .
+The ENTITY_1[SETTLEMENT] , is led by the ENTITY_2[ORGANISATION] .
+ENTITY_1[SETTLEMENT] is led by the ENTITY_2[ORGANISATION] .
+ENTITY_1[SETTLEMENT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[SETTLEMENT] .
+The ENTITY_2[ORGANISATION] is the lead party of ENTITY_1[SETTLEMENT] , Spain .
+ENTITY_1[SETTLEMENT] is located in the U.S .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] , is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of the ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] , is part of the ENTITY_2[COUNTRY] .
+ENTITY_1[ORGANISATION] chief is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the chief of the ENTITY_1[ORGANISATION] .
+ENTITY_2[PERSON] is the chief of ENTITY_1[ORGANISATION] .
+ENTITY_1[ORGANISATION] 's leader name is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the head of the ENTITY_1[ORGANISATION] .
+ENTITY_2[PERSON] is the leader of the ENTITY_1[ORGANISATION] .
+ENTITY_1[CITY] is part Of ENTITY_2[POPULATEDPLACE] .
+ENTITY_1[CITY] is part of the state of ENTITY_2[POPULATEDPLACE] .
+ENTITY_1[CITY] is part of ENTITY_2[POPULATEDPLACE] .
+ENTITY_1[CITY] is part of the ENTITY_2[SETTLEMENT] .
+ENTITY_1[CITY] is part of the ENTITY_2[SETTLEMENT] .
+ENTITY_2[CITY] the capital of ENTITY_1[ADMINISTRATIVEREGION] .
+The capital of ENTITY_1[ADMINISTRATIVEREGION] is ENTITY_2[CITY] .
+ENTITY_1[ADMINISTRATIVEREGION] is in the ENTITY_2[COUNTRY] .
+ENTITY_1[ADMINISTRATIVEREGION] is located in the ENTITY_2[COUNTRY] .
+ENTITY_1[ADMINISTRATIVEREGION] demonym is ENTITY_2[ETHNICGROUP] .
+The inhabitants of ENTITY_1[ADMINISTRATIVEREGION] have the demonym of ENTITY_2[ETHNICGROUP] .
+A ENTITY_2[ETHNICGROUP] is a demonym term used in ENTITY_1[ADMINISTRATIVEREGION] .
+The people of ENTITY_1[ADMINISTRATIVEREGION] are known as Texans .
+The inhabitants of ENTITY_1[ADMINISTRATIVEREGION] have the demonym Texan .
+The people of ENTITY_1[ADMINISTRATIVEREGION] are called Texans .
+ENTITY_2[LANGUAGE] is spoken in ENTITY_1[ADMINISTRATIVEREGION] .
+ENTITY_2[LANGUAGE] of ENTITY_1[ADMINISTRATIVEREGION] .
+The ENTITY_2[LANGUAGE] spoken in ENTITY_1[ADMINISTRATIVEREGION] is English .
+ENTITY_2[LANGUAGE] is spoken in ENTITY_1[ADMINISTRATIVEREGION] .
+ENTITY_2[LANGUAGE] spoken in ENTITY_1[ADMINISTRATIVEREGION] .
+ENTITY_1[AIRPORT] is located in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[AIRPORT] is part of the ENTITY_2[ISPARTOF] .
+ENTITY_1[AIRPORT] is part of ENTITY_2[COUNTRY] .
+The headquarters of ENTITY_1[COMPANY] are located in ENTITY_2[SETTLEMENT] .
+The headquarters of ENTITY_1[COMPANY] are in ENTITY_2[SETTLEMENT] .
+The headquarters of ENTITY_1[COMPANY] are located in Turkmenistan .
+The headquarters of ENTITY_1[COMPANY] are in Turkmenistan .
+The hub airport for ENTITY_1[COMPANY] is ENTITY_2[AIRPORT] .
+ENTITY_1[COMPANY] utilizes the ENTITY_2[AIRPORT] as its hub .
+The hub airport for ENTITY_1[COMPANY] is ENTITY_2[HUBAIRPORT] .
+ENTITY_1[CITY] is located in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of the ENTITY_2[ISPARTOF] .
+ENTITY_1[CITY] is part of ENTITY_2[COUNTRY] .
+The headquarters of ENTITY_1[COMPANY] are located in ENTITY_2[SETTLEMENT] .
+The headquarters of ENTITY_1[COMPANY] are in ENTITY_2[SETTLEMENT] .
+ENTITY_1[CITY] is located in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is in ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is part of the ENTITY_2[SETTLEMENT] .
+ENTITY_1[CITY] is part of ENTITY_2[COUNTRY] .
+The headquarters of ENTITY_1[COMPANY] are located in ENTITY_2[SETTLEMENT] .
+The headquarters of ENTITY_1[COMPANY] are in ENTITY_2[SETTLEMENT] .
+The headquarters of ENTITY_1[COMPANY] are located in ENTITY_2[MUSICALARTIST] .
+The headquarters of ENTITY_1[COMPANY] are in ENTITY_2[MUSICALARTIST] .
+The hub airport for ENTITY_1[COMPANY] is ENTITY_2[AIRPORT] .
+ENTITY_1[COMPANY] utilizes the ENTITY_2[AIRPORT] as its hub .
+The hub airport for ENTITY_1[COMPANY] is ENTITY_2[AIRPORT] .
+ENTITY_2[AIRPORT] is the hub for ENTITY_1[COMPANY] .
+The hub airport for ENTITY_1[COMPANY] is ENTITY_2[AIRPORT] .
+The hub Airport of ENTITY_1[COMPANY] is ENTITY_2[AIRPORT] .
+ENTITY_1[ORGANISATION] aircraft fighter is ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] is an aircraft fighter in the ENTITY_1[ORGANISATION] .
+ENTITY_1[ORGANISATION] 's aircraft fighter is called ENTITY_2[MEANOFTRANSPORTATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] is an aircraft fighter in the U.S. Air Force .
+ENTITY_2[MEANOFTRANSPORTATION] was a Fighter Aircraft of the ENTITY_1[ORGANISATION] .
+The ENTITY_2[MEANOFTRANSPORTATION] can be found on USAF aircraft carriers .
+The ENTITY_2[MEANOFTRANSPORTATION] is an attack aircraft of the ENTITY_1[ORGANISATION] .
+One of the noted ENTITY_1[ORGANISATION] battles was the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] was involved in battles at the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] battled in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] fought battles in the ENTITY_2[EVENT] .
+The ENTITY_1[ORGANISATION] has fought in the ENTITY_2[EVENT] .
+The ENTITY_2[EVENT] is one of the battles of the ENTITY_1[ORGANISATION] .
+ENTITY_2[EVENT] was a battle involving the ENTITY_1[ORGANISATION] .
+The USAF was involved ENTITY_2[EVENT] .
+The ENTITY_2[EVENT] was a battle involving the ENTITY_1[ORGANISATION] .
+ENTITY_2[MEANOFTRANSPORTATION] is a transport aircraft in the ENTITY_1[ORGANISATION] .
+The transport aircraft for the ENTITY_1[ORGANISATION] is the ENTITY_2[MEANOFTRANSPORTATION] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] started performing in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is an artist with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[SETTLEMENT] is in ENTITY_2[COUNTRY] .
+ENTITY_1[SETTLEMENT] is located in ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] started performing in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is an artist with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] started performing in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is an artist with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] plays for the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_1[MUSICALARTIST] plays for the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_1[MUSICALARTIST] has a background with a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] started performing in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is an artist with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] plays for the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_1[MUSICALARTIST] plays for the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_1[MUSICALARTIST] has a background with a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] started performing in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is an artist with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] plays for the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_1[MUSICALARTIST] plays for the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_1[MUSICALARTIST] has a background with a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] 's birth date is ENTITY_2[DATE] .
+ENTITY_1[MUSICALARTIST] was born ENTITY_2[DATE]
+ENTITY_1[MUSICALARTIST] was born ENTITY_2[DATE]
+ENTITY_1[MUSICALARTIST] 's musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] is a musician for the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] started performing in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is an artist with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] plays for the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_1[MUSICALARTIST] plays for the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] band .
+ENTITY_1[MUSICALARTIST] has a background with a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] 's birth date is ENTITY_2[DATE] .
+ENTITY_1[MUSICALARTIST] was born ENTITY_2[DATE]
+ENTITY_1[MUSICALARTIST] was born ENTITY_2[DATE]
+ENTITY_1[MUSICALARTIST] 's musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] is a musician for the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] collaborates with ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] plays with ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] is an artist for the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] was part of the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] has a background as a ENTITY_2[BACKGROUND] .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is a performer of the music genre ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is an ENTITY_2[TOPICALCONCEPT] musician .
+ENTITY_1[MUSICALARTIST] performs Psychedelia music .
+ENTITY_1[MUSICALARTIST] 's genre is Psychedelia .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[AGENT] .
+Musician , ENTITY_1[MUSICALARTIST] plays the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] 's ENTITY_2[AGENT] is the keyboard .
+ENTITY_1[MUSICALARTIST] plays the keyboard .
+ENTITY_1[MUSICALARTIST] played the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] 's instrument is the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] comes from ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[MUSICALARTIST] is from ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[MUSICALARTIST] is from ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] origin 's ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] has been signed to the record label ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] is signed to the record label ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] 's record label is called ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] started performing in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is associated with the group ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] played for the ENTITY_2[ORGANISATION] band .
+ENTITY_1[MUSICALARTIST] performed for ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] is an artist for the band Isis .
+ENTITY_1[MUSICALARTIST] is a musician in the ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] performs for ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] played for ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] performed with the band Sumac .
+ENTITY_1[MUSICALARTIST] played with the band ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] .
+Musician , ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] falls in the genre of ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] also uses the musical genre ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is an exponent of ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_2[TOPICALCONCEPT] is a genre of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is part of the ENTITY_2[TOPICALCONCEPT] genre .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's music is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is a performer of the musical genre ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] uses the genre ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is closely associated with the genre ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] 's musical genre is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] is an exponent of ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] sings for a living .
+ENTITY_1[MUSICALARTIST] is a singer .
+ENTITY_1[MUSICALARTIST] is from Massachusetts .
+ENTITY_1[MUSICALARTIST] was born in Massachusetts .
+ENTITY_1[MUSICALARTIST] is originally from Massachusetts .
+ENTITY_1[MUSICALARTIST] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] came from the U.S .
+ENTITY_1[MUSICALARTIST] 's origin is the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] started performing in ENTITY_2[DATE] .
+ENTITY_1[ARTIST] has a background as a ENTITY_2[BACKGROUND] .
+ENTITY_1[ARTIST] 's background is that of ENTITY_2[BACKGROUND] .
+ENTITY_1[ARTIST] was born ENTITY_2[DATE]
+The birth date of ENTITY_1[ARTIST] is ENTITY_2[DATE]
+ENTITY_1[ARTIST] was born ENTITY_2[DATE]
+ENTITY_1[ARTIST] was born in Katowice .
+The birth place of ENTITY_1[ARTIST] is ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] was born in ENTITY_2[COUNTRY] .
+The musical genre of ENTITY_1[ARTIST] is ENTITY_2[GENRE] .
+ENTITY_1[ARTIST] performs ENTITY_2[GENRE] .
+The musician ENTITY_1[ARTIST] originates from Katowice .
+ENTITY_1[ARTIST] originated in Katowice .
+ENTITY_1[ARTIST] was born in Katowice .
+ENTITY_1[ARTIST] originated from ENTITY_2[COUNTRY] .
+The origin of ENTITY_1[ARTIST] is ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] is from ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] has a background as a ENTITY_2[BACKGROUND] .
+ENTITY_1[ARTIST] ’s musical background is as a ENTITY_2[BACKGROUND] .
+ENTITY_1[ARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[ARTIST] was born in Stockholm .
+Sweden is the birthplace of ENTITY_1[ARTIST] .
+ENTITY_1[ARTIST] was born in Sweden .
+Sweden is the birth place of ENTITY_1[ARTIST] .
+ENTITY_1[ARTIST] was born in ENTITY_2[DATE] .
+ENTITY_1[ARTIST] performs ENTITY_2[GENRE] music .
+ENTITY_1[ARTIST] 's genre is ENTITY_2[GENRE] .
+ENTITY_1[ARTIST] 's occupation is a singer .
+ENTITY_1[ARTIST] is a singer .
+Singing is ENTITY_1[ARTIST] 's occupation .
+ENTITY_1[ARTIST] is a songwriter .
+The record label of ENTITY_1[ARTIST] is ENTITY_2[COMPANY] .
+ENTITY_1[ARTIST] is signed to the record label ENTITY_2[COMPANY] .
+ENTITY_1[ARTIST] uses the record label ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] started out as a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] 's background is that of ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] has a background in ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[SETTLEMENT] .
+The birth place of ENTITY_1[MUSICALARTIST] is ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[SETTLEMENT] .
+The birth place of ENTITY_1[MUSICALARTIST] is ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] died in ENTITY_2[SETTLEMENT] .
+The birth place of ENTITY_1[MUSICALARTIST] was ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] died in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[GENRE] .
+The genre ENTITY_2[GENRE] , is the musical genre that ENTITY_1[MUSICALARTIST] is involved in .
+The alternative name of ENTITY_1[MUSICALARTIST] is ENTITY_2[ALTERNATIVENAME] .
+ENTITY_1[MUSICALARTIST] has the alternative name ENTITY_2[ALTERNATIVENAME] .
+ENTITY_1[MUSICALARTIST] goes by the alternative name ENTITY_2[ALTERNATIVENAME] .
+ENTITY_1[MUSICALARTIST] started out as a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] has a background as a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] 's background is ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] was born ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] died in ENTITY_2[CITY] .
+The death place of ENTITY_1[MUSICALARTIST] is ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] died in the ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] died in the U.S .
+Th music genre for ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] s genre is The ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] music genre are ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] is from the ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] originates from ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] is originally from ENTITY_2[SETTLEMENT]
+ENTITY_2[SETTLEMENT] is the origin of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[ARTIST] started his career in ENTITY_2[YEAR] .
+ENTITY_2[YEAR] is the year when Al Aderson , from the band NRQB , became active .
+ENTITY_1[ARTIST] with the band ENTITY_2[ORGANISATION] .
+ENTITY_1[ARTIST] was a member of ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+Al Anderson ( of the band NRBQ ) played once with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] started his career in ENTITY_2[YEAR] .
+ENTITY_2[YEAR] is the year when Al Aderson , from the band NRQB , became active .
+ENTITY_1[ARTIST] with the band ENTITY_2[ORGANISATION] .
+ENTITY_1[ARTIST] was a member of ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+Al Anderson ( of the band NRBQ ) played once with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] born on the ENTITY_2[DATE]
+ENTITY_1[ARTIST] was born on ENTITY_2[DATE] .
+ENTITY_1[ARTIST] part of the band NRBQ , was born in ENTITY_2[BIRTHPLACE] .
+Al Anderson ( from NRBQ band ) was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[ARTIST] was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[ARTIST] member of the band NRBQ , was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] NRBQ , was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] from the band NRBQ , was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[ARTIST] , was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[ARTIST] from the band NRBQ , was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[ARTIST] performs ENTITY_2[GENRE] .
+The musical genre of ENTITY_1[ARTIST] ENTITY_2[GENRE] .
+ENTITY_1[ARTIST] ENTITY_2[GENRE] .
+ENTITY_1[ARTIST] member of the band NRBQ , performs ENTITY_2[GENRE] .
+The genre of Al Anderson is ENTITY_2[GENRE] .
+ENTITY_1[ARTIST] and their genre is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] 's background is that of ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+The birth place of ENTITY_1[MUSICALARTIST] is ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_2[MUSICALARTIST] is the birth place of ENTITY_1[MUSICALARTIST] .
+ENTITY_2[MUSICALARTIST] is the birthplace of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] was born in the U.K .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] 's musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] started his career in ENTITY_2[YEAR] .
+ENTITY_2[YEAR] is the year when Al Aderson , from the band NRQB , became active .
+ENTITY_1[ARTIST] with the band ENTITY_2[ORGANISATION] .
+ENTITY_1[ARTIST] was a member of ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+Al Anderson ( of the band NRBQ ) played once with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] born on the ENTITY_2[DATE]
+ENTITY_1[ARTIST] was born on ENTITY_2[DATE] .
+ENTITY_1[ARTIST] part of the band NRBQ , was born in ENTITY_2[BIRTHPLACE] .
+Al Anderson ( from NRBQ band ) was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[ARTIST] was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[ARTIST] member of the band NRBQ , was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] NRBQ , was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] from the band NRBQ , was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[ARTIST] , was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[ARTIST] from the band NRBQ , was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[ARTIST] performs ENTITY_2[TOPICALCONCEPT] .
+The musical genre of ENTITY_1[ARTIST] ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] member of the band NRBQ , performs ENTITY_2[TOPICALCONCEPT] .
+The genre of Al Anderson is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] and their genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's background is that of ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+The birth place of ENTITY_1[MUSICALARTIST] is ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[COUNTRY] .
+ENTITY_2[COUNTRY] is the birth place of ENTITY_1[MUSICALARTIST] .
+ENTITY_2[COUNTRY] is the birthplace of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] was born in the U.K .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] 's musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is a performer of ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] s ' musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[PERSON] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[EVENT] .
+ENTITY_1[MUSICALARTIST] makes his living with ENTITY_2[EVENT] .
+ENTITY_1[MUSICALARTIST] comes from ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] 's origins are from ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is from ENTITY_2[SETTLEMENT] , .
+ENTITY_1[MUSICALARTIST] comes from ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] , is where ENTITY_1[MUSICALARTIST] is originally from .
+ENTITY_1[MUSICALARTIST] stopped performing in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] ended his career in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] began his musical career in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] started being active in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] has worked with the musical artist ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] has a background as a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] was born in the U.S.A .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] was born ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] year of birth was ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] played ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[TOPICALCONCEPT] artist .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[TOPICALCONCEPT] musician .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] is a performer of ENTITY_2[TOPICALCONCEPT] .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] performs in the ENTITY_2[TOPICALCONCEPT] genre .
+ENTITY_1[MUSICALARTIST] began her musical career in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] became active in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is associated with the musical artist ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is an artist for the band K2 .
+ENTITY_1[MUSICALARTIST] is part of the ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] is part of the band K2 ( Kovac sisters duo ) .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+A ENTITY_2[BACKGROUND] is part of ENTITY_1[MUSICALARTIST] 's background , .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[SETTLEMENT] .
+The birthplace of ENTITY_1[MUSICALARTIST] is ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] 's place of birth was the ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[MUSICALARTIST] ’s birth place is the ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[MUSICALARTIST] was born in the ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[MUSICALARTIST] .
+The birth place of ENTITY_1[MUSICALARTIST] is ENTITY_2[MUSICALARTIST] .
+ENTITY_2[MUSICALARTIST] is the birth place of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[COUNTRY] .
+The birth place of ENTITY_1[MUSICALARTIST] is ENTITY_2[COUNTRY] .
+ENTITY_2[COUNTRY] is the birth place of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] performs funk music .
+ENTITY_1[MUSICALARTIST] is an exponent of Funk .
+ENTITY_1[MUSICALARTIST] genre of music is Funk .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] is a performer of ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] 's ENTITY_2[GENRE] genre is Pop .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is an exponent of ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[GENRE] .
+ENTITY_1[ARTIST] became active in music in ENTITY_2[DATE] .
+ENTITY_1[ARTIST] started performing in ENTITY_2[DATE] .
+ENTITY_1[ARTIST] 's active years in music began in ENTITY_2[DATE] .
+ENTITY_1[ARTIST] plays with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] is associated with the musical artist ENTITY_2[PERSON] .
+ENTITY_1[ARTIST] is associated with the musical artist , ENTITY_2[PERSON] .
+ENTITY_1[ARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[ARTIST] 's background is that of ENTITY_2[BACKGROUND] .
+ENTITY_1[ARTIST] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[ARTIST] was born in the ENTITY_2[SETTLEMENT] .
+ENTITY_1[ARTIST] 's place of birth was the ENTITY_2[SETTLEMENT] .
+ENTITY_1[ARTIST] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] was born in the U.K .
+ENTITY_1[ARTIST] performs ENTITY_2[AGENT] .
+ENTITY_1[ARTIST] plays ENTITY_2[AGENT] .
+ENTITY_1[ARTIST] 's musical genre is ENTITY_2[AGENT] .
+ENTITY_1[ARTIST] performs ENTITY_2[GENRE] .
+ENTITY_1[ARTIST] 's music genre is ENTITY_2[GENRE] .
+ENTITY_2[GENRE] is the genre of ENTITY_1[ARTIST] .
+The musical genre of ENTITY_1[ARTIST] is Synthpop .
+ENTITY_1[ARTIST] performs Synthpop music .
+ENTITY_1[ARTIST] uses the Synthpop genre .
+ENTITY_1[ARTIST] was born in England .
+The birth place of ENTITY_1[ARTIST] is England .
+ENTITY_1[ARTIST] was born in Manchester .
+The birthplace of ENTITY_1[ARTIST] is Manchester .
+ENTITY_1[ARTIST] died in Sidcup .
+The place of death for ENTITY_1[ARTIST] was Sidcup .
+ENTITY_1[ARTIST] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[ARTIST] comes from the U.K .
+ENTITY_1[ARTIST] is from the UK .
+ENTITY_1[ARTIST] makes a living as an ENTITY_2[WORK] .
+ENTITY_1[ARTIST] was a professional ENTITY_2[WORK] .
+ENTITY_1[MUSICALARTIST] is associated with the musical artist ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with musician ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with fellow musician ENTITY_2[PERSON] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[PERSON] .
+ENTITY_1[MUSICALARTIST] is associated with the artist ENTITY_2[PERSON] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] has a background as a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] started out as a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] background includes ENTITY_2[BACKGROUND] .
+ENTITY_2[CITY] is the birth place of ENTITY_1[MUSICALARTIST] .
+The birth place of ENTITY_1[MUSICALARTIST] is ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] 's birth place was ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] died in ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] death place was in ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] died in ENTITY_2[MUSICALARTIST] .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] is an exponent of ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] music genre is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] performs Zamba music .
+ENTITY_1[MUSICALARTIST] 's genre is Zamba which is considered ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] is signed with the record label ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] was signed to ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] 's recording label is ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] belongs to the ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] is signed to the ENTITY_2[RECORDLABEL] Orfeo .
+The record label of ENTITY_1[MUSICALARTIST] is Orfeo ( Uruguayan ) .
+ENTITY_1[MUSICALARTIST] was signed to the ENTITY_2[COMPANY] label .
+ENTITY_1[MUSICALARTIST] 's record label is ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] has a recording label in ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] started performing in ENTITY_2[YEAR] .
+ENTITY_2[YEAR] was the beginning of ENTITY_1[MUSICALARTIST] 's active years .
+ENTITY_1[MUSICALARTIST] is associated with Bajik .
+ENTITY_1[MUSICALARTIST] was with the band Bajik .
+ENTITY_1[MUSICALARTIST] was a member of the ENTITY_2[FOOD] band .
+ENTITY_1[MUSICALARTIST] is an artist for the band ENTITY_2[ORGANISATION] .
+Alison O’Donnell was in the band ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is a musician associated with the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] has collaborated with the band ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] is associated with the band ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] is associated with the band , ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] is a musician for the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] performed for the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] .
+ENTITY_2[TOPICALCONCEPT] is the genre of ENTITY_1[MUSICALARTIST] .
+ENTITY_2[GENRE] is the genre performed by ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] played ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] 's musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[TOPICALCONCEPT] musician .
+ENTITY_1[MUSICALARTIST] 's music genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is a singer and also plays ENTITY_2[INSTRUMENT] .
+ENTITY_1[MUSICALARTIST] is a musician who uses her voice ,bodhran ,percussion and autoharp .
+The instruments that ENTITY_1[MUSICALARTIST] plays ENTITY_2[INSTRUMENT] plus she also sings .
+ENTITY_1[MUSICALARTIST] can play the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[DEVICE] .
+ENTITY_1[MUSICALARTIST] plays the instrument called the ENTITY_2[DEVICE] .
+ENTITY_1[MUSICALARTIST] is signed with the record label ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] was once signed to ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] 's record label is ENTITY_2[COMPANY] .
+The label ENTITY_2[RECORDLABEL] signed ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] 's recording label is ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] is signed to the record label of ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] 's record label is ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] was once signed to the record label ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] is signed to ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] is signed to the record label ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] record label is ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] is signed with ENTITY_2[RECORDLABEL] .
+ENTITY_2[RECORDLABEL] is the recording label of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is signed to the ENTITY_2[RECORDLABEL] label .
+ENTITY_1[MUSICALARTIST] is signed with the record label ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] has been signed to the ENTITY_2[RECORDLABEL] label .
+ENTITY_1[MUSICALARTIST] 's recording label is ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] 's record label is ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] recorded on the record label , ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] is signed to the record label ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] started his career in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] became active in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] has various alternative names such as ENTITY_2[ALTERNATIVENAME] ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] has several alternative names such as ENTITY_2[ALTERNATIVENAME] ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is also known by ENTITY_2[ALTERNATIVENAME] ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with the band ENTITY_2[ORGANISATION] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] was originally a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] has a background as a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] was born ENTITY_2[DATE]
+ENTITY_1[MUSICALARTIST] 's birth date is ENTITY_2[DATE]
+ENTITY_1[MUSICALARTIST] 's birth date is ENTITY_2[DATE] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[BIRTHPLACE] Alabama .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[CITY] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] was born in the year ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] was born ENTITY_2[YEAR] .
+A music genre for ENTITY_1[MUSICALARTIST] is ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] was a pop artist .
+ENTITY_1[MUSICALARTIST] is an exponent of ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] 's genre of music is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[COMPANY] main genre of music is the ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[COMPANY] are associated with the ENTITY_2[TOPICALCONCEPT] .
+The location of ENTITY_1[COMPANY] is ENTITY_2[CITY] .
+ENTITY_1[COMPANY] is based in ENTITY_2[CITY] .
+ENTITY_1[COMPANY] is located in ENTITY_2[CITY] .
+ENTITY_2[TOPICALCONCEPT] is a music fusion genre of ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] has the sub genre ENTITY_2[MUSICSUBGENRE] .
+Christian ENTITY_1[TOPICALCONCEPT] is a music sub genre of ENTITY_2[MUSICSUBGENRE] .
+Christian ENTITY_1[TOPICALCONCEPT] is a subgenre of ENTITY_2[MUSICSUBGENRE] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[STYLISTICORIGIN] .
+ENTITY_1[TOPICALCONCEPT] has origins in ENTITY_2[STYLISTICORIGIN] .
+ENTITY_1[TOPICALCONCEPT] has its stylistic origins in ENTITY_2[STYLISTICORIGIN] .
+ENTITY_1[TOPICALCONCEPT] 's stylistic origin is ENTITY_2[STYLISTICORIGIN] .
+ENTITY_1[ARTIST] started performing in ENTITY_2[DATE] .
+ENTITY_1[ARTIST] 's musical career began in ENTITY_2[DATE] .
+ENTITY_1[ARTIST] is associated with the musical artist ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] has worked with the band Galactic .
+ENTITY_1[ARTIST] is associated with the band , Galactic .
+ENTITY_1[ARTIST] is associated with the musical artist ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] and ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] are associates .
+ENTITY_1[ARTIST] has collaborated with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] is associated with the musical artist ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] has worked with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] is associated with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] is associated with the musical artist ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] is associated with ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] is associated with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[ARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[ARTIST] is a ENTITY_2[TOPICALCONCEPT] artist .
+ENTITY_1[ARTIST] performs ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_2[TOPICALCONCEPT] is the musical genre of ENTITY_1[ARTIST] .
+ENTITY_1[ARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] ’s musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] is an exponent of ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ARTIST] is a guitarist .
+ENTITY_1[ARTIST] is a singer .
+ENTITY_1[ARTIST] earns a living as a singer .
+ENTITY_1[ARTIST] was signed to the record label ' ENTITY_2[COMPANY] ' .
+ENTITY_1[ARTIST] is signed to the record label ENTITY_2[COMPANY] .
+ENTITY_1[ARTIST] 's record label is ENTITY_2[COMPANY] .
+ENTITY_1[ARTIST] is signed to the record label ENTITY_2[RECORDLABEL] .
+ENTITY_1[ARTIST] is signed to the ENTITY_2[RECORDLABEL] label .
+ENTITY_1[ARTIST] 's record label is ENTITY_2[RECORDLABEL] .
+The ENTITY_1[MUSICALARTIST] called Andra became active in the year ENTITY_2[YEAR] .
+Andra began her singing career in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] associated with ENTITY_2[MUSICALARTIST] .
+The ENTITY_1[MUSICALARTIST] Andra is associated with ENTITY_2[MUSICALARTIST] .
+The ENTITY_1[MUSICALARTIST] Andra is associated with the band ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] associated with musician ENTITY_2[MUSICALARTIST] .
+The ENTITY_1[MUSICALARTIST] Andra is associated with the musical artist ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] associated with the ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] Puya .
+The ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] ENTITY_1[MUSICALARTIST] Puya are associated with each other .
+Andra began her career as a solo ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] .
+The ENTITY_2[BACKGROUND] ENTITY_1[MUSICALARTIST] .
+The ENTITY_1[MUSICALARTIST] Andra 's birth place is ENTITY_2[CITY] .
+The ENTITY_1[MUSICALARTIST] Andra was born in ENTITY_2[CITY] .
+Andra was born in ENTITY_2[CITY] .
+The ENTITY_1[MUSICALARTIST] Andra was born in ENTITY_2[COUNTRY] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[YEAR] .
+The ENTITY_1[MUSICALARTIST] Andra was born in ENTITY_2[YEAR] .
+The ENTITY_1[MUSICALARTIST] called Andra was born in ENTITY_2[YEAR] .
+The musical genre of the ENTITY_1[MUSICALARTIST] Andra is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] and her music genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] of ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[MUSICALARTIST] ENTITY_2[TOPICALCONCEPT] .
+The genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] with ENTITY_2[TOPICALCONCEPT] as her genre .
+Andra is a ENTITY_2[TOPICALCONCEPT] ENTITY_1[MUSICALARTIST] .
+Andra performs ENTITY_2[TOPICALCONCEPT] music .
+The singer ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+Andra makes a living as ENTITY_1[MUSICALARTIST] and a ENTITY_2[OCCUPATION] .
+Andra 's occupations have included ENTITY_1[MUSICALARTIST] and reality TV judge .
+ENTITY_1[MUSICALARTIST] ENTITY_2[OCCUPATION] .
+ENTITY_1[MUSICALARTIST] began his musical career in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] started his career in ENTITY_2[YEAR] .
+ENTITY_1[MUSICALARTIST] is associated with a number of musical artists , these include : ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] has been associated with the following musical artists : ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with artists such as ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with the musical artist ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with the musical artist , ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with the musical artist , ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] .
+The musicians ENTITY_1[MUSICALARTIST] and ENTITY_2[MUSICALARTIST] are associates .
+ENTITY_1[MUSICALARTIST] is associated with the musical artist ENTITY_2[PERSON] .
+ENTITY_1[MUSICALARTIST] is associated with ENTITY_2[MUSICALARTIST] .
+Musicians , ENTITY_1[MUSICALARTIST] and ENTITY_2[MUSICALARTIST] , are associates .
+The birth place of ENTITY_1[MUSICALARTIST] is ENTITY_2[BIRTHPLACE] .
+ENTITY_1[MUSICALARTIST] was born in ENTITY_2[BIRTHPLACE] .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] 's musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] has performed the genre of ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] is a pianist .
+ENTITY_1[MUSICALARTIST] was a ENTITY_2[COMPANY] list .
+ENTITY_1[MUSICALARTIST] plays a ENTITY_2[COMPANY] .
+ENTITY_1[MUSICALARTIST] started his musical career in ENTITY_2[YEAR] .
+The band ENTITY_2[ORGANISATION] included the member ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] plays for the band ENTITY_2[ORGANISATION] .
+The musician , ENTITY_1[MUSICALARTIST] , is associated with the musical artist , ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] associated with the musical artist ENTITY_2[ASSOCIATEDBAND/ASSOCIATEDMUSICALARTIST] .
+The musician ENTITY_1[MUSICALARTIST] ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] that has a background with a ENTITY_2[BACKGROUND] .
+ENTITY_1[MUSICALARTIST] signed to the record label ENTITY_2[RECORDLABEL] .
+The musician ENTITY_1[MUSICALARTIST] signed to the record label ENTITY_2[RECORDLABEL] .
+The musician ENTITY_1[MUSICALARTIST] was signed to the record label Fiction .
+ENTITY_1[MUSICALARTIST] signed to the record label Fiction .
+The musician , ENTITY_1[MUSICALARTIST] record label is Fiction .
+ENTITY_1[MUSICALARTIST] signed to ENTITY_2[RECORDLABEL] .
+The record label of the musician ENTITY_1[MUSICALARTIST] ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] signed to the record label ENTITY_2[RECORDLABEL] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] 's genre is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[GENRE] .
+ENTITY_1[SETTLEMENT] is a part of Gran ENTITY_1[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is part of Gran ENTITY_1[SETTLEMENT] .
+ENTITY_2[MUSICFUSIONGENRE] is a musical fusion of ENTITY_1[ARTIST] .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[MUSICALARTIST] .
+In ENTITY_1[MUSICALARTIST] one of the main ENTITY_2[LANGUAGE] spoken is French .
+The official ENTITY_2[OFFICIALLANGUAGE] of ENTITY_1[MUSICALARTIST] is French .
+French is ENTITY_1[MUSICALARTIST] 's official ENTITY_2[OFFICIALLANGUAGE] .
+French is an official ENTITY_2[OFFICIALLANGUAGE] of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[GENRE] .
+The musical genre of ENTITY_1[MUSICALARTIST] is ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] is an exponent of ENTITY_2[GENRE] .
+ENTITY_1[MUSICALARTIST] performs ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] musical genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is a ENTITY_2[TOPICALCONCEPT] singer .
+ENTITY_1[MUSICALARTIST] plays the ENTITY_2[AGENT] .
+ENTITY_1[MUSICALARTIST] plays ENTITY_2[AGENT] .
+The Banjo instrument is closely associated with ENTITY_1[TOPICALCONCEPT] .
+An instrument played in ENTITY_1[TOPICALCONCEPT] is the banjo .
+Banjo is an instrument for ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] music .
+The stylistic origin of ENTITY_1[TOPICALCONCEPT] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[COMPANY] deal with the ENTITY_2[TOPICALCONCEPT] genre .
+ENTITY_1[COMPANY] produce ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[COMPANY] is a ENTITY_2[TOPICALCONCEPT] record label .
+The stylistic origin of ENTITY_1[ARTIST] is disco .
+ENTITY_1[ARTIST] has its origins in Disco .
+ENTITY_2[DERIVATIVE] is a derivative of ENTITY_1[TOPICALCONCEPT] .
+ENTITY_2[DERIVATIVE] derives its sounds from ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] has the sub genre ENTITY_2[MUSICSUBGENRE] .
+ENTITY_2[MUSICSUBGENRE] is a sub genre of ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] has a sub genre called ENTITY_2[MUSICSUBGENRE] .
+ENTITY_1[TOPICALCONCEPT] has its origins in Disco .
+The stylistic origin of ENTITY_1[TOPICALCONCEPT] is disco .
+ENTITY_1[TOPICALCONCEPT] originated from funk music .
+ENTITY_1[TOPICALCONCEPT] has its origins in Funk .
+ENTITY_1[TOPICALCONCEPT] has its stylistic origins in funk .
+ENTITY_1[TOPICALCONCEPT] has its stylistic origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] 's stylistic origin is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] music .
+The ENTITY_2[AGENT] is played in ENTITY_1[TOPICALCONCEPT] music .
+The ENTITY_2[AGENT] is an instrument used in ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] genre has ENTITY_2[AGENT] in it .
+ENTITY_1[TOPICALCONCEPT] has its stylistic origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] music .
+The stylistic origin of ENTITY_1[TOPICALCONCEPT] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] has its origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_2[TOPICALCONCEPT] is a fusion genre of ENTITY_1[TOPICALCONCEPT] .
+The musical genre ENTITY_2[TOPICALCONCEPT] is a fusion genre and contains elements of other genres such as ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] has its stylistic origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] is associated with the musical artist ENTITY_2[MUSICALARTIST] .
+ENTITY_1[COMPANY] is located in ENTITY_2[CITY] .
+ENTITY_1[COMPANY] are located in ENTITY_2[CITY] .
+ENTITY_1[SETTLEMENT] is governed by the Greater ENTITY_1[SETTLEMENT] Authority .
+Greater ENTITY_1[SETTLEMENT] Authority is the governing body of ENTITY_1[SETTLEMENT] .
+The governing body in ENTITY_1[SETTLEMENT] is the Greater ENTITY_1[SETTLEMENT] Authority .
+ENTITY_2[OFFICEHOLDER] is a leader in ENTITY_1[SETTLEMENT] .
+The leader of ENTITY_1[SETTLEMENT] is the ENTITY_2[ORGANISATION] .
+ENTITY_2[ORGANISATION] is the leader of ENTITY_1[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] 's leader is the ENTITY_2[ORGANISATION] .
+The ENTITY_1[SETTLEMENT] government is known as the ENTITY_2[ORGANISATION] .
+ENTITY_2[ORGANISATION] is the leader of ENTITY_1[SETTLEMENT] .
+ENTITY_1[SETTLEMENT] is led by the ENTITY_2[ORGANISATION] .
+ENTITY_1[CITY] is part of Greater ENTITY_1[CITY] .
+ENTITY_1[CITY] is a part of Greater ENTITY_1[CITY] .
+ENTITY_1[CITY] is part of the Greater ENTITY_1[CITY] area .
+The ENTITY_2[ORGANISATION] is the leader of ENTITY_1[CITY] .
+The ENTITY_2[ORGANISATION] is in the majority in ENTITY_1[CITY] .
+ENTITY_1[CITY] is in the country of ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is found in the country of ENTITY_2[MUSICALARTIST] .
+The politician , ENTITY_2[PERSON] , is ENTITY_1[CITY] 's leader .
+ENTITY_2[PERSON] leader in ENTITY_1[CITY] .
+The leader of ENTITY_1[CITY] is the politician ENTITY_2[PERSON] .
+The musical genre of the band ENTITY_1[ORGANISATION] is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[ORGANISATION] are exponents of ENTITY_2[TOPICALCONCEPT] .
+The band ENTITY_1[ORGANISATION] 's genre is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[MUSICALARTIST] has a ethnic group called the ENTITY_2[ETHNICGROUP] .
+ENTITY_1[MUSICALARTIST] 's ethnic Group is called ENTITY_2[ETHNICGROUP] .
+An ethnic group of ENTITY_1[MUSICALARTIST] are the ENTITY_2[ETHNICGROUP] people .
+The ENTITY_2[LANGUAGE] is ENTITY_1[MUSICALARTIST] is Spanish .
+ENTITY_1[MUSICALARTIST] is where the ENTITY_2[LANGUAGE] is spoken .
+The leader of ENTITY_1[MUSICALARTIST] is called ENTITY_2[OFFICEHOLDER] .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the leader of ENTITY_1[MUSICALARTIST] .
+ENTITY_2[ETHNICGROUP] are an ethnic group of ENTITY_1[COUNTRY] .
+An ethnic group of ENTITY_1[COUNTRY] is the ENTITY_2[ETHNICGROUP] .
+ENTITY_2[ETHNICGROUP] are an ethnic group in ENTITY_1[COUNTRY] .
+ENTITY_1[COMPANY] are based in ENTITY_2[SETTLEMENT] .
+ENTITY_1[COMPANY] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_1[COMPANY] are located in ENTITY_2[SETTLEMENT] .
+ENTITY_2[TOPICALCONCEPT] music is a fusion genre of ENTITY_1[TOPICALCONCEPT] .
+ENTITY_2[TOPICALCONCEPT] is a genre of music that contain elements of other genres such as ENTITY_1[TOPICALCONCEPT] and therefore can be considered a fusion genre .
+The distribution company for ENTITY_1[COMPANY] is ENTITY_2[COMPANY] .
+ENTITY_1[COMPANY] distribute through ENTITY_2[COMPANY] .
+ENTITY_2[TOPICALCONCEPT] is a derivative of ENTITY_1[TOPICALCONCEPT] .
+ENTITY_2[TOPICALCONCEPT] derives from ENTITY_1[TOPICALCONCEPT] .
+ENTITY_2[TOPICALCONCEPT] is a derivative of ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] music originated from the ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[TOPICALCONCEPT] music originated from ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[TOPICALCONCEPT] has its stylistic origin in the ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] 's stylistic origins come from ENTITY_2[TOPICALCONCEPT] .
+A musical fusion of ENTITY_1[TOPICALCONCEPT] is ENTITY_2[TOPICALCONCEPT] .
+The music ENTITY_2[TOPICALCONCEPT] part of the fusion genre , partly coming from ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[TOPICALCONCEPT] has its stylistic origins in the ENTITY_2[TOPICALCONCEPT] .
+The ENTITY_2[TOPICALCONCEPT] is a stylistic origin of ENTITY_1[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] has its stylistic origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] stylistics originated from ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[TOPICALCONCEPT] music origins are ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] 's stylistic origin is ENTITY_2[TOPICALCONCEPT] .
+ENTITY_1[TOPICALCONCEPT] originated from ENTITY_2[TOPICALCONCEPT] music .
+ENTITY_1[TOPICALCONCEPT] has its origins in ENTITY_2[TOPICALCONCEPT] .
+ENTITY_2[MUSICALARTIST] in the band ENTITY_1[ORGANISATION] .
+ENTITY_2[MUSICALARTIST] , is a band member of ENTITY_1[ORGANISATION] .
+A member of the band ENTITY_1[ORGANISATION] is trombonist ENTITY_2[MUSICALARTIST] .
+ENTITY_1[CITY] is in the country of ENTITY_2[COUNTRY] .
+ENTITY_1[CITY] is found in the country of ENTITY_2[COUNTRY] .
+The politician , ENTITY_2[PERSON] , is ENTITY_1[CITY] 's leader .
+ENTITY_2[PERSON] leader in ENTITY_1[CITY] .
+The leader of ENTITY_1[CITY] is the politician ENTITY_2[PERSON] .
+The ENTITY_1[COUNTRY] an currency is the ENTITY_1[COUNTRY] an peso .
+ENTITY_1[COUNTRY] an peso is the currency in ENTITY_1[COUNTRY] .
+The currency of ENTITY_1[COUNTRY] is the ENTITY_1[COUNTRY] an peso .
+People in ENTITY_1[COUNTRY] are known as ENTITY_1[COUNTRY] ans .
+The native citizens of ENTITY_1[COUNTRY] are called ENTITY_1[COUNTRY] ans .
+ENTITY_1[COUNTRY] ans is a demonym for ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+The ENTITY_1[COUNTRY] an currency is the ENTITY_1[COUNTRY] an peso .
+ENTITY_1[COUNTRY] an peso is the currency in ENTITY_1[COUNTRY] .
+The currency of ENTITY_1[COUNTRY] is the ENTITY_1[COUNTRY] an peso .
+People in ENTITY_1[COUNTRY] are known as ENTITY_1[COUNTRY] ans .
+The native citizens of ENTITY_1[COUNTRY] are called ENTITY_1[COUNTRY] ans .
+ENTITY_1[COUNTRY] ans is a demonym for ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+ENTITY_2[LANGUAGE] is spoken in ENTITY_1[COUNTRY] .
+In ENTITY_1[COUNTRY] the ENTITY_2[LANGUAGE] is Spanish .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+ENTITY_1[ASTRONAUT] graduated in 1955 from ENTITY_2[ALMAMATER]
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a B.S .
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a Bachelor of Science degree .
+ENTITY_1[ASTRONAUT] received a Bachelor of Science degree at the University of Texas ENTITY_2[ALMAMATER] .
+ENTITY_1[ASTRONAUT] was born on the ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] 's full name was ENTITY_2[BIRTHNAME] .
+ENTITY_1[ASTRONAUT] was born ENTITY_2[BIRTHNAME] .
+ENTITY_1[ASTRONAUT] 's birth name was ENTITY_2[BIRTHNAME] .
+ENTITY_1[ASTRONAUT] 's birth name is ENTITY_2[BIRTHNAME] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] 's birthplace is ENTITY_2[CITY] .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+ENTITY_1[ASTRONAUT] graduated in 1955 from ENTITY_2[ALMAMATER]
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a B.S .
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a Bachelor of Science degree .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+ENTITY_1[ASTRONAUT] graduated in 1955 from ENTITY_2[ALMAMATER]
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a B.S .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+ENTITY_1[ASTRONAUT] graduated in 1955 from ENTITY_2[ALMAMATER]
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+ENTITY_1[ASTRONAUT] graduated in 1955 from ENTITY_2[ALMAMATER]
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a B.S .
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a Bachelor of Science degree .
+ENTITY_1[ASTRONAUT] received a Bachelor of Science degree at the University of Texas ENTITY_2[ALMAMATER] .
+ENTITY_1[ASTRONAUT] was born on the ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] 's full name was ENTITY_2[BIRTHNAME] .
+ENTITY_1[ASTRONAUT] was born Alan LaVern Bean .
+ENTITY_1[ASTRONAUT] 's birth name was Alan LaVern Bean .
+ENTITY_1[ASTRONAUT] 's birth name is Alan LaVern Bean .
+ENTITY_1[ASTRONAUT] was born in ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] 's birthplace is ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] 's birth place is ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired in ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired in ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] 's retirement was in ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired in ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was a ENTITY_2[OCCUPATION] .
+ENTITY_1[ASTRONAUT] served as a ENTITY_2[OCCUPATION] .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+ENTITY_1[ASTRONAUT] graduated in 1955 from ENTITY_2[ALMAMATER]
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a B.S .
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a Bachelor of Science degree .
+ENTITY_1[ASTRONAUT] received a Bachelor of Science degree at the University of Texas ENTITY_2[ALMAMATER] .
+ENTITY_1[ASTRONAUT] was born on the ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] 's full name was ENTITY_2[BIRTHNAME] .
+ENTITY_1[ASTRONAUT] was born Alan LaVern Bean .
+ENTITY_1[ASTRONAUT] 's birth name was Alan LaVern Bean .
+ENTITY_1[ASTRONAUT] 's birth name is Alan LaVern Bean .
+ENTITY_1[ASTRONAUT] was born in ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] 's birthplace is ENTITY_2[CITY] .
+The Alma Mater of ENTITY_1[ASTRONAUT] is UT Austin , B.S. 1955 .
+ENTITY_1[ASTRONAUT] graduated in 1955 from ENTITY_2[ALMAMATER]
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a B.S .
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a Bachelor of Science degree .
+ENTITY_1[ASTRONAUT] received a Bachelor of Science degree at the University of Texas ENTITY_2[ALMAMATER] .
+ENTITY_1[ASTRONAUT] was born on the ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] 's full name was " ENTITY_1[ASTRONAUT] " .
+ENTITY_1[ASTRONAUT] was born ENTITY_1[ASTRONAUT] .
+ENTITY_1[ASTRONAUT] 's birth name was ENTITY_1[ASTRONAUT] .
+ENTITY_1[ASTRONAUT] 's birth name is ENTITY_1[ASTRONAUT] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] 's birthplace is ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] 's birth place is ENTITY_2[CITY] .
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired in ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired in ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] 's retirement was in ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired in ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] served as a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] performed as a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] performs as a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] is ENTITY_2[STATUS] .
+ENTITY_1[ASTRONAUT] has ENTITY_2[STATUS] .
+ENTITY_1[ASTRONAUT] is now ENTITY_2[STATUS] .
+ENTITY_1[ASTRONAUT] spent ENTITY_2[TIMEINSPACE] in Space .
+ENTITY_1[ASTRONAUT] spent ENTITY_2[TIMEINSPACE] in space .
+ENTITY_2[TIMEINSPACE] is the time ENTITY_1[ASTRONAUT] spent in Space .
+ENTITY_1[ASTRONAUT] was in space ENTITY_2[TIMEINSPACE] .
+ENTITY_1[ASTRONAUT] spent over 69 days in space , ENTITY_2[TIMEINSPACE] to be exact!
+ENTITY_1[ASTRONAUT] 's time in space was ENTITY_2[TIMEINSPACE] .
+ENTITY_1[ASTRONAUT] spend a total of ENTITY_2[TIMEINSPACE] in space .
+ENTITY_1[ASTRONAUT] was a part of the crew of ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] served as a crew member of ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] was a member of the ENTITY_2[PLACE] crew .
+ENTITY_1[ASTRONAUT] was a crew member aboard ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] was on the crew of ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] was a crew member of ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] was a crew member on the ENTITY_2[PLACE] flight mission .
+ENTITY_1[ASTRONAUT] was selected by Nasa in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] was chosen by NASA in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] was hired by NASA in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] graduated from NWC with a M.A. in 1957 .
+ENTITY_1[ASTRONAUT] graduated from ENTITY_2[ALMAMATER] with a M.A .
+ENTITY_1[ASTRONAUT] went to school at NWC and graduated with an MA in 1957 .
+ENTITY_1[ASTRONAUT] graduated from NWC , M.A. in 1957 .
+The United States Navy awarded the ENTITY_2[AWARD] ENTITY_1[ASTRONAUT] .
+ENTITY_1[ASTRONAUT] was awarded the ENTITY_2[AWARD] .
+ENTITY_1[ASTRONAUT] was awarded the ENTITY_2[AWARD] .
+ENTITY_1[ASTRONAUT] was awarded the ENTITY_2[AWARD] .
+ENTITY_1[ASTRONAUT] was awarded the United States Navy ENTITY_2[AWARD] .
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] was born on the ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] 's birth place was ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[ASTRONAUT] was born in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] retired ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] died on the ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] died ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] died ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] died ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] died ENTITY_2[DATE]
+ENTITY_1[ASTRONAUT] died in ENTITY_2[ADMINISTRATIVEREGION] .
+The nationality of ENTITY_1[ASTRONAUT] is ENTITY_2[COUNTRY] .
+ENTITY_1[ASTRONAUT] 's nationality is the ENTITY_2[COUNTRY] .
+ENTITY_1[ASTRONAUT] is an American .
+ENTITY_1[ASTRONAUT] is from the ENTITY_2[COUNTRY] .
+ENTITY_1[ASTRONAUT] was from the ENTITY_2[COUNTRY] .
+ENTITY_1[ASTRONAUT] was American .
+ENTITY_1[ASTRONAUT] 's occupation was a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] served as a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] was a ENTITY_2[PERSON] .
+ENTITY_1[ASTRONAUT] was the Chief of the Astronaut Office in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] served as Chief of the Astronaut Office in ENTITY_2[YEAR] .
+ENTITY_1[ASTRONAUT] is dead .
+ENTITY_1[ASTRONAUT] is ENTITY_2[STATUS] .
+ENTITY_1[ASTRONAUT] 's time in space amounted to ENTITY_2[TIMEINSPACE] .
+ENTITY_1[ASTRONAUT] spent ENTITY_2[TIMEINSPACE] in space .
+ENTITY_2[TIMEINSPACE] is the time ENTITY_1[ASTRONAUT] spent in space .
+ENTITY_1[ASTRONAUT] spent ENTITY_2[TIMEINSPACE] in space .
+ENTITY_1[ASTRONAUT] spent just over 9 days in space .
+ENTITY_1[ASTRONAUT] 's time in space is ENTITY_2[TIMEINSPACE] .
+ENTITY_1[ASTRONAUT] spent ENTITY_2[TIMEINSPACE] in space .
+ENTITY_1[ASTRONAUT] was the ENTITY_2[TITLE] .
+ENTITY_1[ASTRONAUT] served as the ENTITY_2[TITLE] .
+ENTITY_1[ASTRONAUT] performed as the ENTITY_2[TITLE] .
+ENTITY_1[ASTRONAUT] was a crew member of ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] served as a crew member of ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] was a member of the ENTITY_2[PLACE] crew .
+ENTITY_1[ASTRONAUT] was a crew member aboard ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] was on the crew of ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] was a member of the crew of ENTITY_2[PLACE] .
+ENTITY_1[ASTRONAUT] was awarded the ENTITY_2[WAS AWARDED]
+ENTITY_1[ASTRONAUT] was awarded ENTITY_2[WAS AWARDED]
+ENTITY_1[ASTRONAUT] was awarded the ENTITY_2[WAS AWARDED]
+ENTITY_1[ASTRONAUT] won the ENTITY_2[WAS AWARDED]
+The Chairman of ENTITY_1[SOCCERCLUB] is ENTITY_2[OFFICEHOLDER] .
+ENTITY_2[OFFICEHOLDER] is the chiarman of ENTITY_1[SOCCERCLUB] .
+ENTITY_1[SOCCERCLUB] play in ENTITY_2[EVENT] .
+ENTITY_1[SOCCERCLUB] is in ENTITY_2[EVENT] league .
+ENTITY_2[PERSON] is the manager for ENTITY_1[SOCCERCLUB] .
+ENTITY_2[PERSON] is manager of ENTITY_1[SOCCERCLUB] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] .
+ENTITY_1[SOCCERCLUB] plays in the ENTITY_2[EVENT] .
+ENTITY_1[SOCCERCLUB] play in ENTITY_2[EVENT] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[EVENT] league .
+ENTITY_1[SOCCERCLUB] 's position is the ENTITY_2[EVENT] .
+ENTITY_1[SOCCERCLUB] compete in ENTITY_2[EVENT] .
+ENTITY_1[SOCCERCLUB] is in ENTITY_2[EVENT] .
+ENTITY_2[ARCHITECTURALSTRUCTURE] is the ground of ENTITY_1[SOCCERCLUB] .
+ENTITY_1[SOCCERCLUB] 's ground is ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_1[SOCCERCLUB] play their home games at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] was born in ENTITY_2[DATE]
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] 's birthplace is ENTITY_2[MUSICALARTIST] .
+ENTITY_1[PERSON] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[PERSON] 's birthplace is ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] was born in ENTITY_2[YEAR] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] played for the club ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] plays for ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] 's draft team is ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] is ENTITY_2[DATE] m high .
+ENTITY_1[PERSON] 's height is ENTITY_2[DATE] metres .
+ENTITY_1[PERSON] is ENTITY_2[DATE] tall .
+ENTITY_1[PERSON] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] 's birth place is ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] was born in ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] er played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] youth team .
+ENTITY_1[PERSON] 's youth club was ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's is in the youth club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] youth team .
+ENTITY_1[PERSON] belongs to the youthclub ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's birthplace is ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] 's birth place is ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] was born in ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] has played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the club , ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played youth football for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played youth football for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is a member of the ENTITY_2[SOCCERCLUB] youth team .
+The ENTITY_1[PERSON] Abner was born ENTITY_2[DATE]
+ENTITY_1[PERSON] , was born ENTITY_2[DATE]
+ENTITY_1[PERSON] , Abner was born ENTITY_2[DATE]
+The ENTITY_1[PERSON] Abner was born in ENTITY_2[COUNTRY] .
+Abner ( a footballer ) was born in ENTITY_2[COUNTRY] .
+Football player , Abner , was born in ENTITY_2[COUNTRY] .
+Abner ( a footballer ) was born in ENTITY_2[CITY] .
+The ENTITY_1[PERSON] Abner plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] , Abner 's club is the ENTITY_2[SOCCERCLUB] .
+The ENTITY_1[PERSON] Abner has represented the ENTITY_2[SOCCERCLUB] .
+The ENTITY_1[PERSON] Abner plays for the ENTITY_2[SOCCERCLUB] .
+Abner plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] for the ENTITY_2[SOCCERCLUB] .
+The ENTITY_1[PERSON] Abner plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] , Abner plays for the club , ENTITY_2[SOCCERCLUB] .
+Abner played for the ENTITY_1[PERSON] club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] with the ENTITY_2[SOCCERCLUB] club .
+Abner currently plays ENTITY_1[PERSON] for ENTITY_2[SOCCERCLUB] .
+Abner 's current ENTITY_1[PERSON] club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's birthplace is ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] is the birth place of ENTITY_1[PERSON] .
+ENTITY_1[PERSON] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is connected to the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the Netherlands National club for players under 17 .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+The current club that ENTITY_1[PERSON] plays for is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] currently plays for ENTITY_2[SOCCERCLUB] .
+The current club of ENTITY_1[PERSON] is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] was born in ENTITY_2[DATE]
+ENTITY_1[PERSON] 's date of birth is ENTITY_2[DATE]
+ENTITY_1[PERSON] was born on the ENTITY_2[DATE]
+ENTITY_1[PERSON] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[PERSON] was born on ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] is the birth place of ENTITY_1[PERSON] .
+ENTITY_1[PERSON] 's year of birth is ENTITY_2[YEAR] .
+ENTITY_1[PERSON] was born in ENTITY_2[YEAR] .
+ENTITY_1[PERSON] played for the club ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] plays for ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] 's draft team was the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] 's draft team is the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] was drafted to the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] 's height is ENTITY_2[HEIGHT] .
+ENTITY_1[PERSON] is ENTITY_2[HEIGHT] m tall .
+ENTITY_1[PERSON] 's height is ENTITY_2[HEIGHT] meters .
+ENTITY_1[PERSON] weighs ENTITY_2[WEIGHT] .
+ENTITY_1[PERSON] 's weight is ENTITY_2[WEIGHT] .
+ENTITY_1[PERSON] weighs ENTITY_2[WEIGHT] .
+ENTITY_1[PERSON] was born on the ENTITY_2[DATE]
+ENTITY_1[PERSON] was born on the ENTITY_2[DATE]
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the Syrian club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is a member of ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] is part of the ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] represented the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] ' birthplace was ENTITY_2[BIRTHPLACE] .
+ENTITY_1[PERSON] was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[PERSON] was born in Point Fortin ,Trinidad and Tobago .
+ENTITY_1[PERSON] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] ' birthplace is ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] once played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played in the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] played football for the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] is a member of the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB]
+ENTITY_2[CITY] is the death place of ENTITY_1[PERSON] .
+ENTITY_1[PERSON] died in ENTITY_2[CITY] .
+ENTITY_1[PERSON] started his career in ENTITY_2[YEAR] .
+ENTITY_1[PERSON] has been active since ENTITY_2[YEAR] .
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] birth place is ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] was born in Raleigh ,North Carolina .
+ENTITY_1[PERSON] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] was born in ENTITY_2[YEAR] .
+The current team of ENTITY_1[PERSON] is the Los Angeles Rams .
+ENTITY_1[PERSON] ' current team is ENTITY_2[CURRENTTEAM] .
+ENTITY_1[PERSON] made his debut for the ENTITY_2[SPORTSTEAM] .
+The debut team of ENTITY_1[PERSON] was the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] was number ENTITY_2[DATE] in the draft pick .
+ENTITY_1[PERSON] draft pick is ENTITY_2[DATE]
+ENTITY_1[PERSON] was in draft round ENTITY_2[DATE]
+ENTITY_1[PERSON] ' draft round was ENTITY_2[DATE]
+ENTITY_1[PERSON] ' former team was the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] former team is the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] used to play for ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] was born on the ENTITY_2[DATE]
+ENTITY_1[PERSON] 's birthday is ENTITY_2[DATE]
+ENTITY_1[PERSON] 's place of birth is ENTITY_2[BIRTHPLACE] .
+ENTITY_1[PERSON] was born in ENTITY_2[BIRTHPLACE] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_2[CITY] is the birth place of ENTITY_1[PERSON] .
+ENTITY_1[PERSON] was born in the Year ENTITY_2[YEAR] .
+ENTITY_1[PERSON] was born in ENTITY_2[YEAR] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SPORTSTEAM] club .
+ENTITY_1[PERSON] 's first team were the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] debuted with the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] 's debut team was the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] 's former team is the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] used to play for the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] used to play for ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] 's former team was the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] is a player number ENTITY_2[DATE]
+Number ENTITY_2[DATE] is ENTITY_1[PERSON] 's player number .
+ENTITY_1[PERSON] 's player Number is ENTITY_2[DATE]
+ENTITY_1[PERSON] 's position is a ENTITY_2[PERSON] .
+ENTITY_1[PERSON] is a ENTITY_2[PERSON] .
+ENTITY_1[PERSON] 's position is ENTITY_2[PERSON] .
+ENTITY_1[PERSON] 's birth place is ENTITY_2[MUSICALARTIST] .
+ENTITY_1[PERSON] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[PERSON] 's birth place was ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] is a player for the ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] is in the ENTITY_2[SPORTSTEAM] club .
+ENTITY_1[PERSON] represented the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is playing for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is connected to the ENTITY_2[SOCCERCLUB] Football Club .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] ’s club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's youth club was ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] youth club .
+ENTITY_1[SOCCERCLUB] is in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] plays in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] 's position is in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] is in the ENTITY_2[ORGANISATION] .
+The ENTITY_1[SOCCERCLUB] is in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] position is in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] plays in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] .
+ENTITY_2[PERSON] manages ENTITY_1[SOCCERCLUB] .
+The manager of ENTITY_1[SOCCERCLUB] is ENTITY_2[PERSON] .
+ENTITY_1[SOCCERCLUB] 's ground is ENTITY_2[SETTLEMENT] .
+ENTITY_1[SOCCERCLUB] is located in ENTITY_2[SETTLEMENT] .
+ENTITY_2[SETTLEMENT] is the home ground of ENTITY_1[SOCCERCLUB] .
+The league that ENTITY_1[SOCCERCLUB] play in is the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] is in the ENTITY_2[ORGANISATION] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] .
+The manager of ENTITY_1[SOCCERCLUB] is ENTITY_2[PERSON] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_2[CITY] is the birth place of ENTITY_1[PERSON] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_2[MUSICALARTIST] is the birth place of ENTITY_1[PERSON] .
+ENTITY_1[PERSON] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] has played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB]
+ENTITY_1[PERSON] played for the club ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for ENTITY_2[SOCCERCLUB]
+The footballer Alan Martin plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] , plays for the club , ENTITY_2[SOCCERCLUB]
+The footballer Alan Martin plays for ENTITY_2[SOCCERCLUB]
+The footballer Alan Martin plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[ATHLETE] for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for the ENTITY_2[SOCCERCLUB]
+The footballer Alan Martin plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for ENTITY_2[SOCCERCLUB]
+The footballer Alan Martin plays for ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] club is ENTITY_2[SOCCERCLUB]
+ENTITY_1[ATHLETE] for ENTITY_2[SOCCERCLUB]
+The footballer Alan Martin played for ENTITY_2[SOCCERCLUB] Football Club .
+ENTITY_1[ATHLETE] with the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[ATHLETE] for the ENTITY_2[SOCCERCLUB] .
+The footballer Alan Martin plays in the ENTITY_2[SOCCERCLUB] .
+Footballer , Alan Martin played for the ENTITY_2[SOCCERCLUB] .
+Footballer , Alan Martin is ENTITY_2[HEIGHT] tall .
+The footballer Alan Martin was ENTITY_2[HEIGHT] tall .
+ENTITY_1[ATHLETE] is ENTITY_2[HEIGHT] tall .
+ENTITY_1[ATHLETE] 's birthdate is ENTITY_2[DATE] .
+ENTITY_1[ATHLETE] was born on the ENTITY_2[DATE]
+ENTITY_1[ATHLETE] was born in ENTITY_2[CITY] .
+ENTITY_1[ATHLETE] was born in ENTITY_2[CITY] .
+ENTITY_1[ATHLETE] was born in ENTITY_2[YEAR] .
+ENTITY_1[ATHLETE] was born in ENTITY_2[YEAR] .
+ENTITY_1[ATHLETE] has played for the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[ATHLETE] 's club is the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[ATHLETE] plays for the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[ATHLETE] 's draft team is the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[ATHLETE] 's draft team was the ENTITY_2[SPORTSTEAM] .
+ENTITY_1[ATHLETE] previously played for the team ENTITY_2[SPORTSTEAM] .
+ENTITY_2[SPORTSTEAM] is the former team of ENTITY_1[ATHLETE]
+ENTITY_1[ATHLETE] 's former team is ENTITY_2[SPORTSTEAM] .
+ENTITY_1[ATHLETE] is ENTITY_2[DATE] m tall .
+ENTITY_1[ATHLETE] 's height is ENTITY_2[DATE] metres .
+The height of ENTITY_1[ATHLETE] is ENTITY_2[DATE] .
+ENTITY_1[ATHLETE] played in the ENTITY_2[ORGANISATION] .
+ENTITY_1[ATHLETE] plays in the ENTITY_2[ORGANISATION] .
+ENTITY_1[ATHLETE] 's position ENTITY_2[PERSON] is centre .
+ENTITY_1[ATHLETE] is playing as a centre .
+Ice Hockey player ENTITY_1[ATHLETE] plays as a Centre .
+ENTITY_1[ATHLETE] 's weight is ENTITY_2[WEIGHT] .
+ENTITY_1[ATHLETE] weighs ENTITY_2[WEIGHT] .
+ENTITY_1[ATHLETE] 's weight is ENTITY_2[WEIGHT] .
+ENTITY_1[PERSON] was born in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[PERSON] 's birth place is ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[PERSON] was born in ENTITY_2[ADMINISTRATIVEREGION] , Russia .
+ENTITY_1[PERSON] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] was born in ENTITY_2[YEAR] .
+ENTITY_1[PERSON] was born in the year ENTITY_2[YEAR] .
+The club ENTITY_1[PERSON] plays for is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club was ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] has played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] was a member of the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] died in ENTITY_2[DEATHPLACE] .
+ENTITY_1[PERSON] died in ENTITY_2[DEATHPLACE] .
+ENTITY_1[PERSON] died in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[PERSON] passed away in ENTITY_2[ADMINISTRATIVEREGION] .
+ENTITY_1[PERSON] died in ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] 's date of birth is ENTITY_2[DATE] .
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] was born ENTITY_2[DATE] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] football club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] has played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] belongs to the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is called ENTITY_2[CLUB] .
+ENTITY_1[PERSON] 's current club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] currently plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is 185 cm tall .
+ENTITY_1[PERSON] 's height is ENTITY_2[HEIGHT] .
+ENTITY_1[PERSON] 's height is 185 cm .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] 's youth team .
+ENTITY_1[PERSON] 's youth football club was ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is a member of the the youth side of ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] 's birth place is ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] was born in the ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] played for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is a member of the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] once played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] club .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] Club .
+ENTITY_1[PERSON] 's height is ENTITY_2[HEIGHT] .
+ENTITY_1[PERSON] is 178.0 cm tall .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[COUNTRY] .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is a member of ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is in the club ENTITY_2[SOCCERCLUB] 's .
+ENTITY_1[PERSON] is a member of the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's club is the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] used to play for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] played for the ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] plays for the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is connected to ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] has represented the club ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's current club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] 's current club is ENTITY_2[SOCCERCLUB] .
+ENTITY_1[PERSON] is currently with ENTITY_2[SOCCERCLUB] .
+Footballer ENTITY_1[PERSON] plays as a Defender .
+ENTITY_1[PERSON] 's was one of the team 's Defenders .
+ENTITY_1[PERSON] plays for the ENTITY_2[SOCCERCLUB] youth team .
+ENTITY_1[PERSON] plays for ENTITY_2[SOCCERCLUB] 's youth team .
+ENTITY_1[PERSON] played in ENTITY_2[SOCCERCLUB] 's youth team .
+ENTITY_1[PERSON] was born on ENTITY_2[DATE] .
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] 's birth place is ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[MUSICALARTIST] .
+ENTITY_1[PERSON] was born in ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] 's birthplace is ENTITY_2[SETTLEMENT] .
+ENTITY_1[PERSON] has played for the club ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] ' s club is called ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] was born on the ENTITY_2[DATE]
+ENTITY_1[PERSON] was born ENTITY_2[DATE]
+ENTITY_1[PERSON] ' birth date is the ENTITY_2[DATE]
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born in ENTITY_2[CITY] .
+ENTITY_1[PERSON] was born is ENTITY_2[CITY] .
+ENTITY_1[PERSON] plays for ENTITY_2[SPORTSTEAM]
+ENTITY_1[PERSON] played for the club ENTITY_2[SPORTSTEAM]
+ENTITY_1[PERSON] 's club is ENTITY_2[SPORTSTEAM]
+ENTITY_1[PERSON] plays for ENTITY_2[SPORTSTEAM]
+ENTITY_1[PERSON] plays for the ENTITY_2[SPORTSTEAM]
+ENTITY_1[PERSON] plays for the club , ENTITY_2[SPORTSTEAM]
+ENTITY_1[PERSON] 's club is ENTITY_2[SPORTSTEAM]
+ENTITY_1[PERSON] played for ENTITY_2[SPORTSTEAM]
+ENTITY_1[PERSON] ' club is ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] belongs to the club , ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] plays for the club ENTITY_2[SPORTSTEAM] .
+ENTITY_1[PERSON] played for the college ENTITY_2[COLLEGE] team .
+ENTITY_1[PERSON] played basketball for the ENTITY_2[COLLEGE] College .
+ENTITY_1[PERSON] had been drafted in ENTITY_2[YEAR] .
+ENTITY_1[PERSON] is ENTITY_2[DATE] m tall .
+ENTITY_1[PERSON] is ENTITY_2[DATE] metres tall .
+The height of ENTITY_1[PERSON] is ENTITY_2[DATE] .
+ENTITY_1[PERSON] plays in the ENTITY_2[ORGANISATION] .
+ENTITY_1[PERSON] is in the ENTITY_2[ORGANISATION] .
+ENTITY_1[PERSON] 's league is the ENTITY_2[ORGANISATION] .
+ENTITY_1[PERSON] plays in the ENTITY_2[ORGANISATION] .
+The league ENTITY_1[PERSON] plays in is the ENTITY_2[ORGANISATION] .
+ENTITY_1[PERSON] weighs ENTITY_2[WEIGHT] .
+ENTITY_1[PERSON] weighs ENTITY_2[WEIGHT] .
+ENTITY_1[PERSON] weighs ENTITY_2[WEIGHT] .
+ENTITY_1[SPORTSTEAM] play in ENTITY_2[CITY] .
+ENTITY_1[SPORTSTEAM] play in the city of ENTITY_2[CITY] .
+Dan Quinn is the coach of the ENTITY_2[PERSON] team the ENTITY_1[SPORTSTEAM] .
+ENTITY_2[PERSON] coach , coaches the ENTITY_1[SPORTSTEAM] .
+The owner of the ENTITY_1[SPORTSTEAM] is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] owns the ENTITY_1[SPORTSTEAM] .
+The ENTITY_1[SPORTSTEAM] are from ENTITY_2[SETTLEMENT] .
+ENTITY_1[SPORTSTEAM] are based in ENTITY_2[SETTLEMENT] .
+The ENTITY_1[SPORTSTEAM] are based in the city of ENTITY_2[SETTLEMENT] .
+ENTITY_2[PERSON] is general manager for the ENTITY_1[SPORTSTEAM] .
+ENTITY_2[PERSON] is general manager of the ENTITY_1[SPORTSTEAM] .
+The general Manager of the ENTITY_1[SPORTSTEAM] is ENTITY_2[PERSON] .
+The leader of ENTITY_1[CITY] is the ENTITY_2[ORGANISATION] .
+The leader of ENTITY_1[CITY] is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the leader in ENTITY_1[CITY] .
+ENTITY_1[CITY] is a city in ENTITY_2[COUNTRY] .
+ENTITY_1[SOCCERCLUB] 's league is the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] plays in the ENTITY_2[ORGANISATION] league .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] is a member team of the ENTITY_2[ORGANISATION] .
+O ENTITY_1[MUSICALARTIST] is the national anthem of ENTITY_1[MUSICALARTIST] .
+The national anthem of ENTITY_1[MUSICALARTIST] is O ENTITY_1[MUSICALARTIST] .
+The anthem of ENTITY_1[MUSICALARTIST] is O ENTITY_1[MUSICALARTIST] .
+ENTITY_2[ETHNICGROUP] are one of the ethnic groups in ENTITY_1[MUSICALARTIST] .
+ENTITY_2[ETHNICGROUP] are an ethnic group in ENTITY_1[MUSICALARTIST] .
+ENTITY_2[PLACE] are one of the ethnic groups of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[MUSICALARTIST] has an ethnic group called ENTITY_2[PLACE] .
+ENTITY_1[MUSICALARTIST] 's ethnic group are the ENTITY_2[PLACE] .
+ENTITY_2[LANGUAGE] spoken in ENTITY_1[MUSICALARTIST] .
+ENTITY_2[LANGUAGE] is spoken in ENTITY_1[MUSICALARTIST] .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[MUSICALARTIST] .
+One of the ENTITY_2[LANGUAGE] in ENTITY_1[MUSICALARTIST] is French .
+The ENTITY_2[LANGUAGE] is spoken in ENTITY_1[MUSICALARTIST] .
+French is one of the spoken ENTITY_2[LANGUAGE] of ENTITY_1[MUSICALARTIST] .
+In ENTITY_1[MUSICALARTIST] , the ENTITY_2[LANGUAGE] is Slavey .
+ENTITY_1[MUSICALARTIST] 's language is the ENTITY_2[LANGUAGE] .
+One of the ENTITY_2[LANGUAGE] in ENTITY_1[MUSICALARTIST] is Slavey .
+The leader of ENTITY_1[MUSICALARTIST] is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the leader of ENTITY_1[MUSICALARTIST] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] plays in the ENTITY_2[ORGANISATION] .
+ENTITY_1[SOCCERCLUB] play in the ENTITY_2[ORGANISATION] league .
+ENTITY_1[SOCCERCLUB] play at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+The ENTITY_2[ARCHITECTURALSTRUCTURE] is the home ground of ENTITY_1[SOCCERCLUB]
+ENTITY_1[SOCCERCLUB] 's football ground is called ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_2[PERSON] is the manager for ENTITY_1[SOCCERCLUB]
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB]
+The ENTITY_1[SPORTSTEAM] ' city is ENTITY_2[CITY] .
+The ENTITY_1[SPORTSTEAM] are based in the city of ENTITY_2[CITY] .
+ENTITY_1[SPORTSTEAM] ' general manager is ENTITY_2[PERSON] .
+The general Manager of ENTITY_1[SPORTSTEAM] is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the general manager of the ENTITY_1[SPORTSTEAM] .
+Footballer , Steve Davis , manages ENTITY_1[SOCCERCLUB]
+The manager of ENTITY_1[SOCCERCLUB] is ENTITY_2[MANAGER] Steve Davis .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB]
+ENTITY_1[SOCCERCLUB] manager is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] .
+The manager of ENTITY_1[SOCCERCLUB] is ENTITY_2[PERSON] .
+ENTITY_2[ARCHITECTURALSTRUCTURE] is the ground of ENTITY_1[SOCCERCLUB] .
+ENTITY_1[SOCCERCLUB] play their home games at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_1[SOCCERCLUB] 's home ground is located in ENTITY_2[ARCHITECTURALSTRUCTURE] .
+The chairman of ENTITY_1[SOCCERCLUB] is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the chairman of ENTITY_1[SOCCERCLUB] .
+ENTITY_1[SOCCERCLUB] 's grounds are the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_1[SOCCERCLUB] play at the ENTITY_2[ARCHITECTURALSTRUCTURE] .
+ENTITY_2[ARCHITECTURALSTRUCTURE] is the home ground of ENTITY_1[SOCCERCLUB] .
+ENTITY_1[SOCCERCLUB] 's manager is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] .
+The chairman of ENTITY_1[SOCCERCLUB] is ENTITY_2[PERSON] .
+ENTITY_2[PERSON] is the chairman of ENTITY_1[SOCCERCLUB] .
+ENTITY_2[PERSON] is the manager of ENTITY_1[SOCCERCLUB] .
+ENTITY_1[SOCCERCLUB] played in the ENTITY_2[SPORTSSEASON] .
+During the 2014-15 season ENTITY_1[SOCCERCLUB] played in the ENTITY_2[SPORTSSEASON] .
+ENTITY_1[SOCCERCLUB] played the 2014–15 season in the ENTITY_2[SPORTSSEASON] .
+ENTITY_2[OFFICEHOLDER] is the chairman of ENTITY_1[SOCCERCLUB] .
+ENTITY_2[OFFICEHOLDER] is the chairman of ENTITY_1[SOCCERCLUB] .
